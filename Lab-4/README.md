@@ -182,7 +182,7 @@ Adding a Machine Learning Service
 
 ### Please click on the link below to download the instructions to your machine.
 
-[Instructions](https://github.com/bleonardb3/AI_POT_06-11-2020/blob/master/Lab-4/Lab%204%20FranceCOVID-19%20Instructions.pdf).
+[Instructions](https://github.com/bleonardb3/AI_POT_11-12-2020/blob/main/Lab-4/Lab%204%20FranceCOVID-19%20Instructions.pdf).
 
 
 
