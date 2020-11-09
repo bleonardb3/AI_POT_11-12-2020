@@ -1,0 +1,6 @@
+{
+    "title": "UDC incoming student",
+    "text": "Hi, I am wondering if there are any students out there who will be attending any graduate programs at UDC this fall. I will be in the speech program at UDC beginning in the fall and think it would be nice to meet people that will also be there. I am from Maryland and attended school in Baltimore.\nI am also wondering if there are any off campus student housing options that anyone knows about?",
+    "subreddit": "washingtondc",
+    "created": "2020-04-23T22:24:27.000Z"
+}
