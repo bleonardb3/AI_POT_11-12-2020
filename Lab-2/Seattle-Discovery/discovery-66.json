@@ -1,0 +1,68 @@
+{
+  "id": "474e17459734eacfc3f3d8d8507dacfd",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hey all, I'm fairly new in town and I'm still getting familiar with a lot in the city. \n\nI parked in a spot yesterday that had a \"No Parking Anytime\" sign posted that I did not see. \n\nI was gone for about an hour and I got a ticket. \n\nThe ticket itself wasn't a big deal and I already paid for it. But my question about some comments the officer left on the ticket \n\nIt says: \"Impound. No Parking Anytime. Picture Taken.\" \n\nWhat does that comment mean exactly? Is my car due to be towed? \n\nThanks",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "Parking",
+        "confidence": 0.980115,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.988088,
+          "label": "positive"
+        },
+        "text": "my car",
+        "confidence": 0.89035,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.920148,
+          "label": "negative"
+        },
+        "text": "Parking",
+        "confidence": 0.715242,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "745ddd10e328e12f7802fac39a4b2578e5976151",
+    "filename": "relevant-seattle-216.json",
+    "file_type": "json"
+  },
+  "title": "Parking Violation Citation Question",
+  "created": "2020-04-20T04:47:31.000Z"
+}

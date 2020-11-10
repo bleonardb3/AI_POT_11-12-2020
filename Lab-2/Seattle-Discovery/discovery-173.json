@@ -1,0 +1,21 @@
+{
+  "id": "99a5c465a3afe870489dca51f45239c0",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I tried asking somewhere else and got downvoted immediately. I don't know if it's because you aren't supposed to ask questions like that or if people just like to kick those who are down. \n\n\nI moved here in December from a nearby city in WA, so I have the normal Washington insurance I think it's CHPW? I don't have extra cash to pay for a counselor that is off my insurance currently, unfortunately.\n\n\n\nI am /not/ trying to leave my house either to clarify, social distancing is important.",
+  "enriched_text": {
+    "entities": []
+  },
+  "extracted_metadata": {
+    "sha1": "36cca8e58708ea22002861eabe1d699100158f8a",
+    "filename": "relevant-seattle-851.json",
+    "file_type": "json"
+  },
+  "title": "Is it okay to ask for mental health resources on this subreddit? Not doing too well and wanted to know if any clinics are doing phone therapy that would accept my insurance.",
+  "created": "2020-04-05T09:05:48.000Z"
+}

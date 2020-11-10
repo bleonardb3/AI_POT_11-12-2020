@@ -1,0 +1,120 @@
+{
+  "id": "e24a279e1a53aa4f388a498691224143",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "property manager",
+        "confidence": 0.995586,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "text": "pay for laundry",
+        "confidence": 0.930878,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": ">Dear \\[Manager\\],  \n>  \n>I just wanted to thank you for your quick response to the \\[weird emergency\\] issue today. I know that being a property manager can be a bit of a thankless job, and I wanted to tell you that I appreciate your prompt and professional handling of the issue.  \n>  \n>I also have a request for you. I recognize that it's a longshot, but I figured it wouldn't hurt to put it out there:  \n>  \n>I'm wondering if there's a way to make the cost of laundry temporarily either a) free or b) somehow included with rent. To clarify: I am happy to pay for laundry, but I am currently unable to obtain quarters. My bank, BECU, doesn't give change. \\[Partner\\]'s bank does, and we usually get our quarters from them. Right now, however, they are operating with limited hours. \\[Partner\\] is unable to get to them due to scheduling. Typically we would turn to getting 'cash back' at grocery stores, but due to the pandemic many groceries stores have limited the amount of cash back they are willing to give. For several weeks, we were trying to only wash necessary clothing to conserve quarters. Last week we ran out of quarters.  \n>  \n>Currently we're sitting on six+ loads of dirty laundry. I don't know when we'll be able to get quarters. Both of us are now wearing dirty clothing. We're also unable to wash our linens. Today, \\[Partner\\] started feeling unwell (we believe it likely stomach flu or food poisoning rather than covid), and I'm unable to wash our sheets or pillowcases. We will be out of clean undergarments before the week is over.  \n>  \n>We understand that laundry income is important for maintaining the facility. And again, we have money, and I'm happy to pay (in fact, I would be happy to help other tenants in the apartment pay if they are short on cash). But would it be possible for us to pay for laundry via other means, so that we can wash our clothes? We can use paypal, venmo, credit card, Square, or bank account.  \n>  \n>If this is possible, please let us know. I hate to bother you with this, but we're starting to get a little desperate.  \n>  \n>With gratitude,  \n>  \n>\\[Me\\]\n\nBy the way: Not mentioned in the email, but generally, laundry income really isn't that important to most complexes. It covers maybe one service visit a year, if no replacement parts are needed. So stupid. Wish I had clean clothes.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "apartment",
+        "confidence": 0.990742,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.930897,
+          "label": "positive"
+        },
+        "text": "property manager",
+        "confidence": 0.98922,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.348224,
+          "label": "positive"
+        },
+        "text": "rent",
+        "confidence": 0.941519,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.886412,
+          "label": "positive"
+        },
+        "text": "tenants",
+        "confidence": 0.890551,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.348224,
+          "label": "positive"
+        },
+        "text": "pay for laundry",
+        "confidence": 0.817843,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "8b4537208e6b065d1516b7b655b409b63926768a",
+    "filename": "relevant-seattle-671.json",
+    "file_type": "json"
+  },
+  "title": "So... Is anyone else running out of quarters for laundry? Here's my email to my property manager, asking if we can pay for laundry with digital money.",
+  "created": "2020-04-09T09:48:40.000Z"
+}

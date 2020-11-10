@@ -1,0 +1,110 @@
+{
+  "id": "a8c32e68007d7b91070e7be6f2892aeb",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "applying for PUA and PEUC",
+        "confidence": 0.955952,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Hello,\nI applied for unemployment and was approved (4 weeks ago) on Standby. Since then, I have not seen a dime in my bank and there are no rows or lines saying processing/denied/paid to each of the week I file my weekly claim. This Sunday, the PUA and PEUC application pops up and I filed for both. Turns out, the PUA is for those who are self-employed, contractors,...etc. I was approved and now I have an active PUA claim and my status is ‘paid’. My question here is am I in trouble for receiving this money because I’m not self-employed or is a contractor. But the ESD website said the PUA also applies to those who workplace is closed because of the pandemic (this applies to me). I don’t know if I will be in trouble for have to return the money.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.360399,
+          "label": "positive"
+        },
+        "text": "PUA",
+        "confidence": 0.992151,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.820264,
+          "label": "negative"
+        },
+        "text": "PUA",
+        "confidence": 0.991091,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "unemployment",
+        "confidence": 0.958781,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "PUA and PEUC application",
+        "confidence": 0.93919,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.360399,
+          "label": "positive"
+        },
+        "text": "active PUA claim",
+        "confidence": 0.916396,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "c01549fb878da081f9b0b6944e4c56f82a996ce2",
+    "filename": "relevant-seattle-79.json",
+    "file_type": "json"
+  },
+  "title": "Unemployment - am I screwed for applying for PUA and PEUC",
+  "created": "2020-04-23T05:53:21.000Z"
+}

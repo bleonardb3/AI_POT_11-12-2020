@@ -1,0 +1,79 @@
+{
+  "id": "0f25f3443d1e4f6615038dedbcc54aad",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment",
+        "confidence": 0.963074,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I had to file for unemployment (I am a receptionist at a dental office) and I still have not received my payments. I am currently on week 3 of unemployment and have bills coming up I will need to pay. Has anyone received their payments yet, and if so did you get your estimated amount plus $600? I was not sure who was eligible for the $600 added amount. Thank you!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.627876,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.978555,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.892256,
+          "label": "negative"
+        },
+        "text": "to file for unemployment",
+        "confidence": 0.957669,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.892256,
+          "label": "negative"
+        },
+        "text": "dental",
+        "confidence": 0.790068,
+        "type": "Medically_Insured",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "608e22b7cedf43ed77b1328bc199a81681794ca3",
+    "filename": "relevant-seattle-686.json",
+    "file_type": "json"
+  },
+  "title": "Has anyone received their unemployment benefits yet?",
+  "created": "2020-04-09T06:01:05.000Z"
+}

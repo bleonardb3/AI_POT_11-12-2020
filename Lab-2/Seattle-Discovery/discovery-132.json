@@ -1,0 +1,79 @@
+{
+  "id": "7bc5dcb01e68562c0d745dbc9cc10e5a",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Apartment Lease",
+        "confidence": 0.943957,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "We live in West Seattle and with the recent closure of the bridge, my commute to Kirkland (when things go back to normal) will most likely double or worse. I looked at our lease for a buyout clause and the landlord requires 2 months of rent for early termination. Does this seem high? Seems crazy to me.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.50785,
+          "label": "negative"
+        },
+        "text": "landlord",
+        "confidence": 0.973395,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.50785,
+          "label": "negative"
+        },
+        "text": "lease",
+        "confidence": 0.964798,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.50785,
+          "label": "negative"
+        },
+        "text": "rent",
+        "confidence": 0.829936,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "2aac3cd45e6401393a4caa8ee64ae74510e17a3c",
+    "filename": "seattle-175.json",
+    "file_type": "json"
+  },
+  "title": "Typical Apartment Lease Buyout?",
+  "created": "2020-04-21T04:08:27.000Z"
+}

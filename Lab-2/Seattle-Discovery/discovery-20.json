@@ -1,0 +1,38 @@
+{
+  "id": "99497ac388ec53179e7e0c2e3fe5e946",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I've got tenants in a couple of properties around the Seattle area.  One of them has a lease ending in May.\n\nWhat happens if they don't want to move out by the end of May, and I don't want to renew their lease?\n\nCan they stay in my property, free of threat from eviction, even if they're off-lease?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.837239,
+          "label": "negative"
+        },
+        "text": "my property",
+        "confidence": 0.620767,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "3ca897f07572a43399f66ec234d42e77a6eab14b",
+    "filename": "relevant-seattle-294.json",
+    "file_type": "json"
+  },
+  "title": "Question for the real estate experts about Gov. Inslee's evictions moratorium and freeze on residential rent increases.",
+  "created": "2020-04-18T10:52:05.000Z"
+}

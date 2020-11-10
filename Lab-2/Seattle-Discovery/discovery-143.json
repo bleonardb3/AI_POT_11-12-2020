@@ -1,0 +1,79 @@
+{
+  "id": "9206896e7529e127cabde3c2bd26b134",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment claim",
+        "confidence": 0.954259,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Hello! I just had a question. I have a few other “inactive” claims because i originally did not meet the criteria for benefits but now I do. The “active” claim is from April 12 and was paid on the 18th. So how do i file a new one for this week? Do i go into this active claim and click the “Reopen claim for benefits” “claims restarted today will have a restart date of april 19” Is this how you “re-file a claim” weekly so that i can get benefits for that week? Or do i have to open a completely new one? Thank you for your time!!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.321326,
+          "label": "negative"
+        },
+        "text": "active claim",
+        "confidence": 0.990596,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "The “active” claim",
+        "confidence": 0.910606,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.321326,
+          "label": "negative"
+        },
+        "text": "re-file a claim",
+        "confidence": 0.893906,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "27c3b6f07d6e079fda47785bc5e7011c25fed33b",
+    "filename": "relevant-seattle-8.json",
+    "file_type": "json"
+  },
+  "title": "Confused about filing an unemployment claim for new week?",
+  "created": "2020-04-25T03:17:27.000Z"
+}

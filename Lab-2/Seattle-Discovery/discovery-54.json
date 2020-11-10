@@ -1,0 +1,80 @@
+{
+  "id": "202274be5907ab594b3fcddc24963eb5",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "landlord",
+        "confidence": 0.963849,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "My landlord keeps trying to sell Am\\*\\*y products to me and other roomates. I spotted the MLMS a mile away and I refused to buy any products. But is it legal for my landlord to do that?\n\nmy current lease still have a several months lef,  so does that mean I have to take this bs serveral month more?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "landlord",
+        "confidence": 0.980319,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.836754,
+          "label": "negative"
+        },
+        "text": "lease",
+        "confidence": 0.956746,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.821704,
+          "label": "negative"
+        },
+        "text": "landlord",
+        "confidence": 0.916099,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "b61f7198d7f1a3e221090913c7b01b5105602fbf",
+    "filename": "relevant-seattle-904.json",
+    "file_type": "json"
+  },
+  "title": "Is it legal in Seattle for my landlord to sell stuff to me?",
+  "created": "2020-04-04T07:34:51.000Z"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "084597c9466aa3cdb4e867de2cd2095f",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment",
+        "confidence": 0.686177,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Hey guys! First off, does anyone know when the unemployment website will be fixed? I haven’t been able to file my weekly claim yet for last week, which sucks... Also, has anyone received their unemployment benefits yet? I filed March 23 and I still haven’t received any money, which is starting to become a huge strain financially. Thanks in advance!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "unemployment",
+        "confidence": 0.991959,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "unemployment",
+        "confidence": 0.98594,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.978593,
+          "label": "negative"
+        },
+        "text": "my weekly claim",
+        "confidence": 0.917709,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "44feac15242547bd271a6687ab597da5c83db967",
+    "filename": "relevant-seattle-126.json",
+    "file_type": "json"
+  },
+  "title": "Unemployment",
+  "created": "2020-04-22T06:09:24.000Z"
+}

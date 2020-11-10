@@ -1,0 +1,94 @@
+{
+  "id": "5dc1a438c79a93c462f56e61871e8395",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Apt for rent",
+        "confidence": 0.848549,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Hi!\n\nI am looking for an Apt that is within 30 mins commute of UW. I came across a post in FB for sub-leasing a 1Bed, 1bath apt in Capitol Hill for $800/mo(20-month sub-lease!). The apt looks great in pictures and the location looks (15th and E Madison) good\\[I'm new to Seattle. Feedback welcome\\]. The catch is that OP wants me to sign without visiting the apartment which sounds really fishy to me. What do you think?\n\nWhat are some of the common scams to look out for in this city? Any advice while I am hunting for rental apartments?\n\nThank you!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.990525,
+          "label": "positive"
+        },
+        "text": "rental apartments",
+        "confidence": 0.978803,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.980036,
+          "label": "positive"
+        },
+        "text": "apt",
+        "confidence": 0.940983,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.701125,
+          "label": "positive"
+        },
+        "text": "sub-lease",
+        "confidence": 0.934919,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.701125,
+          "label": "positive"
+        },
+        "text": "sub-leasing",
+        "confidence": 0.928917,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "4401293fb2630fdfd3e5f22a676fb974be72ae9c",
+    "filename": "relevant-seattle-114.json",
+    "file_type": "json"
+  },
+  "title": "Scams to look out for while looking for an Apt for rent?",
+  "created": "2020-04-22T09:22:59.000Z"
+}

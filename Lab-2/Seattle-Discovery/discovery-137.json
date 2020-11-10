@@ -1,0 +1,37 @@
+{
+  "id": "d9e4ca856a2af0c5c3fe991563b73829",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "A family member is moving back from California (LA) at the end of the month because she can’t afford to live there anymore. She’s a long-term substitute teacher and the schools aren’t paying full salary for her. I need to fly down to LA in order to help her pack and drive to Washington. Is there any travel ban in place that would stop me from getting her up here?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "long-term substitute teacher",
+        "confidence": 0.741976,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "e5aa2a6937e0383c48ba7e16df47487f5e035128",
+    "filename": "relevant-seattle-873.json",
+    "file_type": "json"
+  },
+  "title": "Travel ban?",
+  "created": "2020-04-05T02:05:35.000Z"
+}

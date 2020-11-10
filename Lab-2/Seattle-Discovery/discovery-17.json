@@ -1,0 +1,53 @@
+{
+  "id": "837fef56d671af05a43dd823e3e807ee",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I'm working from home - and with these huge pollen counts, am stuck inside (seasonal allergies). Several weeks ago, traffic pretty much anywhere in Greater Seattle was a thing of the past - so few cars on the road, it was just red lights and curves that made you brake.\n\nMy wife works at a regional hospital and has been deemed essential. Today after coming home, she said traffic on the one hour round-trip drive was like normal - heavy, stop-and-go, etc.\n\nCan't confirm the traffic myself - so has anyone else seen/experienced this? If so, any theories why? People stir-crazy and going for a drive? Headed to the parks that are still open? Increase in essential workers? Have any types of businesses been permitted to reopen in the last couple of weeks?\n\nHonest question - thanks for any insights and theories you can share.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "drive",
+        "confidence": 0.983414,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.422973,
+          "label": "negative"
+        },
+        "text": "drive",
+        "confidence": 0.966081,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "8a9f5810ace6c0a4fe386b3a001a3185b2847246",
+    "filename": "relevant-seattle-343.json",
+    "file_type": "json"
+  },
+  "title": "Why is Traffic Congestion Back up?",
+  "created": "2020-04-17T07:48:43.000Z"
+}

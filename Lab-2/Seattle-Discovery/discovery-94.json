@@ -1,0 +1,65 @@
+{
+  "id": "bdb701ad8a8d6fd23ff85bd9bd0cbf4a",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "working 5-10hrs a week",
+        "confidence": 0.765979,
+        "type": "Hourly_Wage_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "The restaurant I'm working at has reopened for to go orders. I was a bartender. Last week, I worked 9 hours in the kitchen, meaning much less per hour and of course less hours worked.\n\nAs I continue working in the kitchen I grow concerned that, once my unemployment finally kicks in (still waiting on wage info from another state to put me over 680hr threshold), I might disqualify myself because I am working, but not working nearly enough to pay my bills.\n\nDoes anyone know where to find the info that I need? I could really use some help as I have been unsuccessfully navigating unemployment land for over a month now.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.838669,
+          "label": "negative"
+        },
+        "text": "I worked 9 hours in the kitchen",
+        "confidence": 0.937632,
+        "type": "Hourly_Wage_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.908445,
+          "label": "negative"
+        },
+        "text": "less hours worked",
+        "confidence": 0.885998,
+        "type": "Hourly_Wage_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "1c577087f76e77bf529482788ba3829cd4e82e72",
+    "filename": "relevant-seattle-410.json",
+    "file_type": "json"
+  },
+  "title": "Unemployment - Will working 5-10hrs a week disqualify me?",
+  "created": "2020-04-15T23:19:23.000Z"
+}

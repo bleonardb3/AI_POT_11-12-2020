@@ -1,0 +1,80 @@
+{
+  "id": "fe45dbd452b76364d62b3e4cc96ae61a",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "drive",
+        "confidence": 0.914013,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I am living in the east side. Getting so bored at home. Really want to drive around tomorrow. I know all the state parks and national parks are closed for now and i don't plan to run into any crowd or cause any trouble. If i just want to drive around with my family and see some beautiful scenes outside (may stop somewhere but not planning to hit any trails). Any recommendations? I may drive through fast food for lunch. Thanks.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "drive",
+        "confidence": 0.998081,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.485049,
+          "label": "negative"
+        },
+        "text": "drive",
+        "confidence": 0.99302,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "drive",
+        "confidence": 0.961998,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "66570c7b54fb59095bc31f2bea22b78ef3e98229",
+    "filename": "relevant-seattle-254.json",
+    "file_type": "json"
+  },
+  "title": "Any recommendation if I want to drive around?",
+  "created": "2020-04-19T07:38:10.000Z"
+}

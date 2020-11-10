@@ -1,0 +1,65 @@
+{
+  "id": "603264792f9484f726606d569bcc12bd",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment",
+        "confidence": 0.912751,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "We applied almost a month ago and were eligible for $188 weekly benegit for UI claim. Last week we also added PUA Claim, also for $188. But we never received the funds in our bank accounts. The same problem with other people in household. The status is Active.\n\nAnyone else has this issue? Is there something we're missing? We sent a message through their website but never got a response.\n\nThanks",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "UI claim",
+        "confidence": 0.974239,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "PUA Claim",
+        "confidence": 0.954386,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "72cb4d8aa74cd07643f42f792d2a5dd1e36d638d",
+    "filename": "relevant-seattle-14.json",
+    "file_type": "json"
+  },
+  "title": "Not receiving unemployment benefits",
+  "created": "2020-04-25T01:14:02.000Z"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "6bde3ae9be549d02b1b7a327db517a43",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment",
+        "confidence": 0.580341,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Hey guys I know these posts are probably getting annoying but considering ive had no luck getting through to the unemployment office this is really the only place i have available to ask.\nAnyway today I checked the site and had a notification to start a whole new application for some reason? \n\nI filled out an application 3 weeks ago now and they said I was ineligible because FL (my home state, i just moved here 2 months ago) reported to them that i did not work at all in the past 4 or 6 quarters, whatever it is. So I have absolutely no idea what to do, I have no idea why FL is reporting that I didn’t work in the past year and a half and I can’t get through to anyone to talk to to figure it out.\n\nSo should I try to fill out another application and just hope that this time FL reports my hours correctly?\n\nOh and another question: has anyone started getting the extra 600$ theyre supposed to receive from the stimulus package? Cause I think I should qualify for that simply because im laid off at the moment regardless of what Floridas saying about my past hours worked.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.990738,
+          "label": "negative"
+        },
+        "text": "unemployment office",
+        "confidence": 0.95125,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.748268,
+          "label": "negative"
+        },
+        "text": "im laid off at the moment",
+        "confidence": 0.926686,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "3bab1e1618dfb8792fcff397bb0aa670ce282c69",
+    "filename": "relevant-seattle-434.json",
+    "file_type": "json"
+  },
+  "title": "Unemployment question",
+  "created": "2020-04-15T06:29:30.000Z"
+}

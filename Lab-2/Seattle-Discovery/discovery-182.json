@@ -1,0 +1,79 @@
+{
+  "id": "57a0ff5f7dda26e96b7ca645cf60a874",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Rent",
+        "confidence": 0.878667,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Any renters in West Seattle thinking about advocating for a decrease in rent now that our neighborhood has essentially been turned into an island? Does anyone have any resources that could be used to formulate a legitimate proposal for any decrease? I've been looking at rental prices on Zillow and the prices seem to be falling, slowly, but Id imagine it might take some time for the market to really level out. \n\nI have to imagine the rental demand is lower for West Seattle than it has been in almost a decade at the moment. This combined with the fact many of us have suffered significant decreases in income per household due to covid makes the idea of paying the same price somewhat unfair. I don't want to just pull a number out of a hat, however, so any resources or personal 'plans of action' would be greatly appreciated.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.849117,
+          "label": "negative"
+        },
+        "text": "rent",
+        "confidence": 0.982091,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.683841,
+          "label": "negative"
+        },
+        "text": "rental",
+        "confidence": 0.968202,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.74931,
+          "label": "negative"
+        },
+        "text": "rental",
+        "confidence": 0.940031,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "18d794647d3386fec565c27138e756fa4ca8d398",
+    "filename": "relevant-seattle-297.json",
+    "file_type": "json"
+  },
+  "title": "Rent decreases in a post covid / post bridge West Seattle",
+  "created": "2020-04-18T08:19:02.000Z"
+}

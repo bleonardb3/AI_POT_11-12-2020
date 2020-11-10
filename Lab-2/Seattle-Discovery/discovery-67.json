@@ -1,0 +1,68 @@
+{
+  "id": "7311afd3ec9ec655b902780402b694cd",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hey guys, for the past year now I have been a restaurant employee part-time although there are certain period of time where I work nearly full time. However, I am confused if as a part-time employee at a restaurant, do I even qualify for unemployment benefits if I see a reduction in hours, even if it is not major?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.669118,
+          "label": "negative"
+        },
+        "text": "part-time employee at a restaurant",
+        "confidence": 0.973501,
+        "type": "Hourly_Wage_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.600676,
+          "label": "positive"
+        },
+        "text": "restaurant employee part-time",
+        "confidence": 0.886211,
+        "type": "Hourly_Wage_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.669118,
+          "label": "negative"
+        },
+        "text": "reduction in hours",
+        "confidence": 0.791479,
+        "type": "Hourly_Wage_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "9169b65d1f513977db9dbb32d5609dcb117163b2",
+    "filename": "relevant-seattle-199.json",
+    "file_type": "json"
+  },
+  "title": "Part Time Worker, do I qualify for Unemployment Benefits?",
+  "created": "2020-04-20T10:14:40.000Z"
+}

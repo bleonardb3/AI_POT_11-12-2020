@@ -1,0 +1,22 @@
+{
+  "id": "843fc0956a6759aa49874e11ae9d50fa",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Does anyone know how to find someone who's homeless? The last time I heard from this person, they were living in the back of a truck on someone's property in the Burian/Seatac area. The phone number I have does not work anymore and no reply from emails. I know the person's name/sex and approx age and might be able to find a picture. But other than that, I am lost. She had a fair bit of health issues. But always seemed to land on her feet, one way or another.",
+  "enriched_text": {
+    "entities": []
+  },
+  "extracted_metadata": {
+    "sha1": "f5c85dc36f0b9b5e2db16239a7b34a9d646bbc0e",
+    "filename": "relevant-seattle-783.json",
+    "file_type": "json"
+  },
+  "title": "Finding someone that's homeless",
+  "created": "2020-04-07T02:45:12.000Z"
+}

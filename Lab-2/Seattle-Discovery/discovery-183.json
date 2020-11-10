@@ -1,0 +1,79 @@
+{
+  "id": "d4006e97b283d4ff6a54d2f964241298",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment",
+        "confidence": 0.860538,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "So I went to file my weekly claim last night and on the application it said if your getting regular unemployment you can’t qialify for anything else wtf is going on we have been told for weeks we are getting an extra 600 per week on top of our weekly claims now they r taking it away what the fuck is going on",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.94649,
+          "label": "negative"
+        },
+        "text": "weekly claims",
+        "confidence": 0.99118,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.94649,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.949874,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.94649,
+          "label": "negative"
+        },
+        "text": "my weekly claim",
+        "confidence": 0.917441,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "948bfeb696d216e476c54f9f6b8e33d66b08b29c",
+    "filename": "relevant-seattle-221.json",
+    "file_type": "json"
+  },
+  "title": "Wa state taking away the extra 600 a week from unemployment",
+  "created": "2020-04-20T03:50:48.000Z"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "c399ed4dd0bbc9aee0c1bfec3ea7d19c",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment",
+        "confidence": 0.895561,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "So with the extra $600/week, I’m just trying to figure out how this works. Originally, when I filed for UI I was told that I had a max benefit amount of $4000. (So low because I am a full time student and only had part time job). Does this extra $600 just essentially give me that $4000 faster, or is it separate from my Max benefit amount?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.529144,
+          "label": "negative"
+        },
+        "text": "full time student",
+        "confidence": 0.877355,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.626534,
+          "label": "positive"
+        },
+        "text": "I filed for UI",
+        "confidence": 0.816423,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "f6c28cc5309fd44fb7759b1abce1130c0397d39b",
+    "filename": "relevant-seattle-219.json",
+    "file_type": "json"
+  },
+  "title": "Another unemployment question",
+  "created": "2020-04-20T04:00:00.000Z"
+}

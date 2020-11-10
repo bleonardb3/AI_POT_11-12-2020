@@ -1,0 +1,38 @@
+{
+  "id": "97d77b3db16aafa4d4a0051e91c08119",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Anyone received a check from the rental assistance from United Way yet? I completed my application on April 10th, and Case Manager got back to me to update forms 6 days ago...",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "rental assistance",
+        "confidence": 0.898464,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "f14f45b95887a7dfe7b6c6cd33b64348b65913a2",
+    "filename": "relevant-seattle-51.json",
+    "file_type": "json"
+  },
+  "title": "United Way Application",
+  "created": "2020-04-24T01:33:34.000Z"
+}

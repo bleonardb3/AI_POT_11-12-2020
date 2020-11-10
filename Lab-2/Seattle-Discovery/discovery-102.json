@@ -1,0 +1,64 @@
+{
+  "id": "c0e0c5445279290a73a3af64c9d3e147",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "house",
+        "confidence": 0.924689,
+        "type": "Home_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I'm finally in a position where I can possibly buy a house, but in my price range I can only afford 500k and under which means Renton or bust apparently. I know nothing about Renton, for those of you that do, what's to like or dislike? I will visit when I get serious, I'm curious why houses there are so cheap compared to everything else.\n\nEDIT: Thanks for all the responses! Seems like most people have positive things to say about Renton. As some have pointed out, yes there are other areas around Seattle for 500k, but Renton has the lions share, and usually better deals. I am not super excited to move to the suburbs, but its not like I can afford anything else, and thats just life :)",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.721749,
+          "label": "positive"
+        },
+        "text": "buy a house",
+        "confidence": 0.794863,
+        "type": "Home_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.481519,
+          "label": "negative"
+        },
+        "text": "houses",
+        "confidence": 0.748156,
+        "type": "Home_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "3421ab5583af5a663f6506080f326040f4843810",
+    "filename": "relevant-seattle-32.json",
+    "file_type": "json"
+  },
+  "title": "Why is Renton the last place to find an affordable house?",
+  "created": "2020-04-24T14:10:41.000Z"
+}

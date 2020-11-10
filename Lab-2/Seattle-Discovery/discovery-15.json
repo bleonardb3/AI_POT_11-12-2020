@@ -1,0 +1,65 @@
+{
+  "id": "7c9859bdc83a9ecf7cfc048ffe020cb2",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment",
+        "confidence": 0.686177,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I filed for my Washington unemployment for the first time last week. I tried to claim a week today and I couldn't see where to do it. My claim is still pending, could that be the reason?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.613261,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.997321,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.879086,
+          "label": "negative"
+        },
+        "text": "claim a week",
+        "confidence": 0.857664,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "9df00dc04bdda8206002506988515159dd7bff62",
+    "filename": "relevant-seattle-521.json",
+    "file_type": "json"
+  },
+  "title": "Unemployment",
+  "created": "2020-04-13T07:56:25.000Z"
+}

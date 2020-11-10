@@ -1,0 +1,37 @@
+{
+  "id": "b52e04494f4d6ca7c08dd717ea453c15",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "It's a rough time for everyone, and I realize it's because of the lockdown, but we live right downtown near Pike and Boren, and we're just blown away by how quiet it is now during the stay-at-home order. \n\nWe've always hated the noise, although we love living downtown so we tolerate it. But it's gotten a lot worse in the last 25 years, and it seems like we have a serious noise pollution problem in Seattle. The pandemic has really made it obvious. \n\nWhat can we do to keep the noise down in the future?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.705441,
+          "label": "negative"
+        },
+        "text": "living downtown",
+        "confidence": 0.657588,
+        "type": "Home_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "fbe1b18d3b93479ea862447e04186a60318af169",
+    "filename": "relevant-seattle-473.json",
+    "file_type": "json"
+  },
+  "title": "Seattle is so quiet, I'll miss this after the Pandemic is over. Do we have a noise pollution problem?",
+  "created": "2020-04-14T07:41:42.000Z"
+}

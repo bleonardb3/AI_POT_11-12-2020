@@ -1,0 +1,65 @@
+{
+  "id": "bc8d05676532e7df80a3393dcf70f2ab",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment",
+        "confidence": 0.945388,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I was recently placed on standby by my employer due to the pandemic. I restarted my unemployment claim that I had filed earlier in the year, and did the first weekly filing this past Sunday.  As of 11 AM this morning, I still have not been paid, and my filing's status is listed as in the \"waiting week.\" Aren't these supposed to be waived, by order of the Governor?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.919031,
+          "label": "negative"
+        },
+        "text": "unemployment claim",
+        "confidence": 0.980344,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.919031,
+          "label": "negative"
+        },
+        "text": "weekly filing",
+        "confidence": 0.787376,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "e42438e1d0dc9a912cd41eeb5d2672f1bda9a30a",
+    "filename": "relevant-seattle-697.json",
+    "file_type": "json"
+  },
+  "title": "Isn't the waiting week for unemployment supposed to be waived?",
+  "created": "2020-04-09T02:02:46.000Z"
+}

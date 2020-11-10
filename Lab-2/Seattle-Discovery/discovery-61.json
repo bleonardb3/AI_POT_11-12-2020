@@ -1,0 +1,38 @@
+{
+  "id": "0a2e9a461cf602a2694c84f95ee0eb9c",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hi - \n\n&#x200B;\n\nI currently live in san diego and might be moving to seattle. I have a great job offer but I love the 364 day good weather, sunshine, and laid back vibe of san diego. I currently live in a pretty boring suburb with amazing freeway access near a university and would love to find something similar with a reasonable commute to downtown where I'll be working should I take this job. \n\n&#x200B;\n\nI checked the FAQ but couldn't find info on specific neighborhoods besides that its easier to find a house if you know what neighborhood you want. \n\n&#x200B;\n\nI've been to kirkland before and LOVED it but my recruiter said it's far from downtown where I'd be working.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.976375,
+          "label": "positive"
+        },
+        "text": "university",
+        "confidence": 0.523141,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "9ce1fd5eb7af8906ae064e3973480e0ed703bb47",
+    "filename": "relevant-seattle-953.json",
+    "file_type": "json"
+  },
+  "title": "Moving but can't find info on neighborhood that will suit me",
+  "created": "2020-04-03T05:41:10.000Z"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "5267d467548f2bab63f3e9a76627f73a",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment",
+        "confidence": 0.734289,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I am currently receiving unemployment benefits. I was going to request for PEUC and one of the queries during the application asking if I  want to restart the claiming date with the query below:\n\n\"The last activity on your claim occurred the week ending Apr 18 2020. Claims restarted today will have a restart date of Apr 19 2020. Is this the week you wish to restart your claim? \"\n\nI am not sure what this is asking. This sounds strange to me as I am currently receiving the benefit and the period is not ending anytime soon (Sorry, maybe it is my Engish, I am not a native English speaker) so does this mean I should put the date when my current regular benefit period is over?  (Note: when I choose \"No\" to the query, I am then asked to specify a date when to restart.)",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "unemployment",
+        "confidence": 0.987504,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "1d48395847d00bea95e9b53fa1b27bd9d39d9c6f",
+    "filename": "relevant-seattle-215.json",
+    "file_type": "json"
+  },
+  "title": "Unemployment, \"Claim restart date\" for PEUC",
+  "created": "2020-04-20T04:49:30.000Z"
+}

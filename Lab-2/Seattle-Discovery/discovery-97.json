@@ -1,0 +1,83 @@
+{
+  "id": "5152dc958e00932e33c7e0fcc580e9f1",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hi everyone, I'm an out of towner asking for a family member..\n\nI have a senior relative with major respiratory issues that is being asked to leave the place she is currently renting, but has no other place to go after searching for a 2 months due to low income.  She is paying rent in full each month, but does not have a signed rental agreement in place and the owner urgently wants to leave May 1st to sell the property.  This has become a critical issue for our family.  While we look for emergency accommodations, I was wondering what the current state of the moratorium is and if anyone had recommendations on helping her stay put for a short amount of time?\n\nI found this PDF faq: [http://www.seattle.gov/Documents/Departments/RentingInSeattle/FAQs%20COVID-19%20Eviction%20Moratorium.pdf](http://www.seattle.gov/Documents/Departments/RentingInSeattle/FAQs%20COVID-19%20Eviction%20Moratorium.pdf)\n\nIt states: \"On March 16, 2020 an emergency order went into effect that places an immediate and temporary moratorium on residential evictions in the City of Seattle. The order will continue for 60 days or until the civil emergency ends, whichever is sooner. It may be extended beyond 60 days if the Mayor decides it is necessary.\"\n\nThank you for any and all help and recommendations!!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.899687,
+          "label": "negative"
+        },
+        "text": "rent",
+        "confidence": 0.968465,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.899687,
+          "label": "negative"
+        },
+        "text": "rental agreement",
+        "confidence": 0.9414,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.822377,
+          "label": "negative"
+        },
+        "text": "renting",
+        "confidence": 0.714553,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.899687,
+          "label": "negative"
+        },
+        "text": "property",
+        "confidence": 0.643461,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "9ce7f5f8dc4a68d976dc20277809b89adb4250dd",
+    "filename": "relevant-seattle-651.json",
+    "file_type": "json"
+  },
+  "title": "Help with Seattle eviction moratorium",
+  "created": "2020-04-09T22:37:23.000Z"
+}

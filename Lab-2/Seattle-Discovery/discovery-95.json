@@ -1,0 +1,53 @@
+{
+  "id": "c3c33e363996d92f1a535af8dcc78f7a",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hello friends,\n\nA good friend of mine recently got a RN position at Harborview. He was excited to start his role, however the nursing position he applied for is currently on hold due to staffing needs for COVID-19.\n\nHe was contacted by HR and basically given two options:\n1. Work with COVID-19 patients until the surge goes down and supposedly return to the job they were hired for.\n2. Take “unpaid leave” until the surge goes down and be on boarded correctly.\n\n\nWhat I want to know before he makes his decesion can only really be answered by staff who work the floors there, as he doesn’t know anyone to reach out to.\n\nCan someone who either works on a dedicated COVID-19 unit or a non-COVID unit please paint me a picture of how bad the situation is on the ground? Is PPE being appropriately supplied even slightly?\n\nWhat is staffing like, is every one short staffed?\n\nHow many of your colleagues are getting sick, and what happens if an employee starts experiences symptoms? \n\nIMO this feels like an exploding job offer, but I don’t understand the stipulations of unpaid leave either.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.953279,
+          "label": "positive"
+        },
+        "text": "RN position",
+        "confidence": 0.9706,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "nursing position",
+        "confidence": 0.818668,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "849d905bd3e6e0b2b75fa2f6135e9a030f337d9a",
+    "filename": "relevant-seattle-907.json",
+    "file_type": "json"
+  },
+  "title": "Can any Harborview employees help paint a picture of what the Inpatient situation is like? New hire being asked to rotate, unrelated to their hired role",
+  "created": "2020-04-04T04:53:03.000Z"
+}

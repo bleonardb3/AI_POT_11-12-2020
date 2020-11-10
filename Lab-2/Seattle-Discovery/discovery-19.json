@@ -1,0 +1,38 @@
+{
+  "id": "7cf0ebb3ee477f7bf10a697c32b87006",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I am looking to rent a house somewhere in Seattle or a surrounding town. Any advice on neighborhoods/towns that fit the following?:\n1. Single family rental home <$2,700 \n2. Ideally no more than a 30-45 min bus or bike ride to downtown/south lake union \n3. Safe (feel safe as a woman walking around or taking dog out at night)\n4. Preferably has a suburban feel (not a lot of businesses, quiet, near nature, etc) \n5. Beach, lake, or trail access within walking distance \n\nThank you!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.391264,
+          "label": "negative"
+        },
+        "text": "bus or bike ride",
+        "confidence": 0.872965,
+        "type": "No_Vehicle",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "669f2418ae5ea4541837946b944dcfa5542cd3a9",
+    "filename": "relevant-seattle-5.json",
+    "file_type": "json"
+  },
+  "title": "Looking for advice on best Seattle neighborhood",
+  "created": "2020-04-25T04:05:19.000Z"
+}

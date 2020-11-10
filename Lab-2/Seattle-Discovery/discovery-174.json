@@ -1,0 +1,52 @@
+{
+  "id": "a27e46416778ddd33c394d65fb9145c9",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I'm curious if this has been happening to anyone else.. \n\nI had a box of groceries from Imperfect Foods delivered to my doorstep yesterday afternoon and I always get a text message and a picture of the box at the front door from the delivery driver. I went downstairs to grab the box right after I got the text, and the box wasn't there. I reached out to customer service, and they insisted that the box was definitely delivered, and said that it was most likely stolen. Their vans have their branding all over them, so they are very easily identifiable if anyone wanted to follow them.\n\nThis has never happened before, and I'm in a pretty nice, quiet residential neighborhood in West Seattle with very little crime. \n\nSo I'm really curious if this has been happening to anyone else. While obviously it's a bummer and an inconvenience for me, I'm more scared by the bigger picture story that people are getting desperate enough to start stealing food. \n\nIn any case, everybody stay safe; we're all in this together. I would've happily given the box away if I knew a neighbor of anyone was hungry and in need of food. But also, keep an extra close eye on your deliveries, as I think this may become a more normal thing.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.312725,
+          "label": "positive"
+        },
+        "text": "front door",
+        "confidence": 0.963608,
+        "type": "Home_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.312725,
+          "label": "positive"
+        },
+        "text": "my doorstep",
+        "confidence": 0.707244,
+        "type": "Home_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "46b054810b95332b35b618717a0ff51868a845f0",
+    "filename": "relevant-seattle-364.json",
+    "file_type": "json"
+  },
+  "title": "Food Deliveries Being Stolen",
+  "created": "2020-04-17T00:52:17.000Z"
+}

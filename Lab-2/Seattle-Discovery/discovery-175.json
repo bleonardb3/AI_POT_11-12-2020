@@ -1,0 +1,82 @@
+{
+  "id": "3c3e818ca22dc04ff9e7e50318022f84",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Just moved here, gotta find a PCP.\n\nI get my insurance from my employer through aetna. $200 a year for primary care seems kind of expensive. Is this covered in aetna's deductible?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "aetna",
+        "confidence": 0.970639,
+        "type": "Medically_Insured",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "deductible",
+        "confidence": 0.959786,
+        "type": "Medically_Insured",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.538269,
+          "label": "negative"
+        },
+        "text": "aetna",
+        "confidence": 0.888313,
+        "type": "Medically_Insured",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "my employer",
+        "confidence": 0.809544,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "2a4650f329e9180ade6fbaba1b93dae1f3569741",
+    "filename": "relevant-seattle-341.json",
+    "file_type": "json"
+  },
+  "title": "How does signing up for one medical work? is it worth it?",
+  "created": "2020-04-17T08:05:36.000Z"
+}

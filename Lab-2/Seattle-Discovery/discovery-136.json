@@ -1,0 +1,37 @@
+{
+  "id": "e560086163006c4f80e24c01e95ec743",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "My family has a waterfront estate down in Gig Harbor on tidelands. We set out some oyster seeds last year. We also set out crab pots in the summer. \n\nSomeone told me that WDFW closed shellfishing due to COVID-19 concerns. Does that apply to people who have private tidelands?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "waterfront estate",
+        "confidence": 0.796812,
+        "type": "Home_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "7388dd8d7d381aa1af236eaaf434d1e8849f217f",
+    "filename": "relevant-seattle-523.json",
+    "file_type": "json"
+  },
+  "title": "Is clamming/crabbing/fishing still closed for folks who live on the water?",
+  "created": "2020-04-13T06:39:29.000Z"
+}

@@ -1,0 +1,94 @@
+{
+  "id": "ce8fb8bcac4178a35972a6b278c4ab82",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Apartment",
+        "confidence": 0.856811,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Will be new to the area and looking for recommendations on apartments/townhomes in Seattle/Bellevue (more towards Bellevue as my employer is in the eastside) area that specifically have either a small storage room or garage area that I can store some weight equipment in.  It doesn't seem a common amenity, so asking here.\n\nI know a lot of higher end apartments (especially in Bellevue area) have gyms as part of the amenities, but I find having my own equipment readily available whenever I want just works better for me.  Prefer to work out alone and in as short a time as possible, so don't like \"traveling\" to gyms.  My home \"gym\" really is just free weights, kettlebell, a bench, barbell for deadlifting and snatches, dip bars, and a pullup bar.  I don't need much space to use them, but don't want to store them in my living area.\n\nAlso I use sites like Zillow, Hotpads, Apartments.com, but having \"garage\" as a filter selection isn't common or possible, so seeing if people have some personal recs.\n\nIn terms of \"vibe\", I think I'd do well in like Greenlake/Fremont/Wallingford area, but it'd be too hard of a commute.  Bellevue isn't really my thing with the glitzy strip mall vibe, but I can do it for a year or two.\n\nCritera include:\n\n- 1 bed / 1 bath \n- sq ft. 400-700 \n- max rent $1500-$2200ish \n- in unit laundry\n- relatively quiet\n- I have no pets\n- don't care so much about close to bars, but would like walkable to at least some restaurants and grocery.\n- don't care about apartment amenities like pool, jacuzzi, grill area, etc.  I would never use it.  The simpler the better.\n- garage or storage area big enough to store weights\n\nI would like to have posted this in /r/eastside, but the posts there are restricted to certain users.\n\nAny recs would be appreciated, thanks.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.789374,
+          "label": "positive"
+        },
+        "text": "apartments",
+        "confidence": 0.952937,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "rent",
+        "confidence": 0.938705,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.968913,
+          "label": "positive"
+        },
+        "text": "apartments",
+        "confidence": 0.931379,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.449459,
+          "label": "negative"
+        },
+        "text": "apartment",
+        "confidence": 0.891222,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "8bee2f1dee3abf1e6a206b979447bda94f143bd8",
+    "filename": "relevant-seattle-65.json",
+    "file_type": "json"
+  },
+  "title": "Apartment recs with storage rooms or garages for small home gym?",
+  "created": "2020-04-23T12:52:42.000Z"
+}

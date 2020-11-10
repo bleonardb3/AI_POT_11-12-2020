@@ -1,0 +1,33 @@
+{
+  "id": "c469a436bb50785261c6002596dbc7a3",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Stimulus",
+        "confidence": 0.579429,
+        "type": "Hourly_Wage_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "The $1200 direct deposits to BECU have been made.  Check your account if you used BECU for your taxes.",
+  "enriched_text": {
+    "entities": []
+  },
+  "extracted_metadata": {
+    "sha1": "a473f247df8fa490ca2f1c433bb68497193a5178",
+    "filename": "relevant-seattle-404.json",
+    "file_type": "json"
+  },
+  "title": "BECU members - Stimulus has arrived!",
+  "created": "2020-04-16T03:24:59.000Z"
+}

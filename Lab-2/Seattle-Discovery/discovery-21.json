@@ -1,0 +1,34 @@
+{
+  "id": "774bb7a32283e310f5a86ee470e81229",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment",
+        "confidence": 0.97397,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I’ve been on for a few weeks. The past few weeks the deposit was made Tuesday at about 12-1230am each time. Today no deposit was made.",
+  "enriched_text": {
+    "entities": []
+  },
+  "extracted_metadata": {
+    "sha1": "a6820dcb863cb33e2e06ef8713c6a92e3e90eb54",
+    "filename": "relevant-seattle-137.json",
+    "file_type": "json"
+  },
+  "title": "Anyone else not get their Unemployment payment today?",
+  "created": "2020-04-22T01:24:01.000Z"
+}

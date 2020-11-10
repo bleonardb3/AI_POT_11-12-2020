@@ -1,0 +1,22 @@
+{
+  "id": "43860c393ce13b542daa97adfe062550",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Does anyone know where I currently buy some masks for me and my employees? \n\nI work at a hotel and we do business with a lot of hospital patients and hospital employees. With the pandemic and all, we are staying open and now we're helping nurses who want to self isolate from their families (Our property is next to Swedish, Virginia Mason, Harborview, and Kaiser). Just looking for recommendations on where to start looking!\n\nLocation: First Hill area. \n\nNote: This is not a donation request, please continue to donate to all the nurses/doctors/caregivers who need them.",
+  "enriched_text": {
+    "entities": []
+  },
+  "extracted_metadata": {
+    "sha1": "65766a8fda7a9d648675c2ee8c99ad186442f050",
+    "filename": "relevant-seattle-250.json",
+    "file_type": "json"
+  },
+  "title": "Masks",
+  "created": "2020-04-19T09:15:46.000Z"
+}

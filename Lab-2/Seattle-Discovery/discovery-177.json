@@ -1,0 +1,38 @@
+{
+  "id": "14fb7e59eb4f345f45b076b2f502fa85",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hi everyone,\n\nI'll be new to the city and wanted some recommendations on where to live that's convenient enough to travel to UW without a car? I saw some comments on living in Wallingford, Fremont, and East Lake as good options, but I thought it would be nice to hear what you guys have to say. I do want to stray away from the university district - I think I've had my share of undergrad experiences/ drunk weekends (that's what I heard that's like).\n\nAny tips would be greatly appreciated :)!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.616595,
+          "mixed": "1",
+          "label": "positive"
+        },
+        "text": "without a car",
+        "confidence": 0.860008,
+        "type": "No_Vehicle",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "d4c7e9f2b27117565e45d4fa3432573e04bc9f0f",
+    "filename": "relevant-seattle-606.json",
+    "file_type": "json"
+  },
+  "title": "Tips for housing",
+  "created": "2020-04-10T17:06:28.000Z"
+}

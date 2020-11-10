@@ -1,0 +1,79 @@
+{
+  "id": "b29c4a44c55d36c9e4e3927c7e02e288",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment",
+        "confidence": 0.944686,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Ive been unemployed since march 9. I didnt meet the 680 hours originally for the last quarter (i was at 652) but since april 13, i meet the criteria now. Regardless, i have been filing since march 9 and only have an active claim for last week and all the other claims are “invalid” when will these be paid? And will it qualify for the +600?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.829801,
+          "label": "negative"
+        },
+        "text": "unemployed",
+        "confidence": 0.998656,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.923775,
+          "label": "negative"
+        },
+        "text": "active claim",
+        "confidence": 0.996895,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.923775,
+          "label": "negative"
+        },
+        "text": "filing since march 9",
+        "confidence": 0.91893,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "b19af7da70feb4f409b544eb03b93967f1957adc",
+    "filename": "relevant-seattle-36.json",
+    "file_type": "json"
+  },
+  "title": "I just want to talk to an agent about unemployment desperate",
+  "created": "2020-04-24T10:57:51.000Z"
+}
