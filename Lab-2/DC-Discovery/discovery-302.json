@@ -1,0 +1,60 @@
+{
+  "id": "216728862113f4ad84602158328abbc5",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "sell used tires",
+        "confidence": 0.861568,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "text": "tire storage",
+        "confidence": 0.75245,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Is there a business that buys used tires in the area? I have some very pricy high-end winter studded tires (Nokian Hakkapeliita, from Finnland) from my truck. I moved to a smaller place and might not need them in the mild climate here. Is there any place I can sell them? I tried calling around and googling; no luck. Willing to let go for not much.\n\nOr, is there a tire storage service? Paying $50 for a storage unit is too much.\n\nOr does anyone here want to buy? I'll let go real cheap. P265/75R16",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.759083,
+          "label": "negative"
+        },
+        "text": "my truck",
+        "confidence": 0.658912,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "425c1abb93bd630bd58acea0e25ecc4a70170ce2",
+    "filename": "relevant-dc-428.json",
+    "file_type": "json"
+  },
+  "title": "Where to sell used tires? Or tire storage? (Nokian Hakkapeliita winter studs)",
+  "created": "2020-03-30T23:25:16.000Z"
+}

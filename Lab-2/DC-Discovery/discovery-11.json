@@ -1,0 +1,38 @@
+{
+  "id": "5a680a2cd93c567f7304f5c751c1f429",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hi all, sorry if this is sort of a no brainer or not the right place for this kind of post. S o, I currently live in a place in the city with my mom, but am looking to move in with a few friends. My future roomies are eyeing a few places that are in Silver Spring/Hyattsville because (of course) it's cheaper since it's not DC proper. If I took a place in Silver Spring, would I end up losing my residency in DC? I go to college here and my tuition would for sure take a hit if so, so was anxious for an answer.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.739859,
+          "label": "negative"
+        },
+        "text": "go to college",
+        "confidence": 0.847049,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "453a14f96aecfc0051a318ce03429f6db5e75a54",
+    "filename": "relevant-dc-490.json",
+    "file_type": "json"
+  },
+  "title": "If I move to Silver Spring, will I lose DC residency?",
+  "created": "2020-03-26T23:47:34.000Z"
+}

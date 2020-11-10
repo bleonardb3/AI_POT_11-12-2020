@@ -1,0 +1,80 @@
+{
+  "id": "15bf35ed188adcf737736c84b29d567e",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Grad School",
+        "confidence": 0.980803,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I’m moving to DC for grad school in a few months (GW), and I’m trying to decide between living in NoMa or Dupont/Logan Circle area. \n\nFor my price range, the quality of apartments seems to vary drastically - my dollar goes a lot further in NoMa than it does in Logan and Dupont (I understand they’re not cheap areas). But Logan and Dupont are much closer (i.e. walking distance) which I’d prefer. It’s also my understanding that Logan Circle and Dupont Circle are “trendier” areas with more nightlife and things to do and NoMa doesn’t have much going on. \n\nI’ll be a grad student and working part time so I won’t have tons of time on my hands, but I definitely want to enjoy DC as much as I can (I did my undergrad in the area so I’m somewhat familiar with DC). \n\nCan anyone offer this perspective or experience?\n\nEdit: when I say my dollar goes further, I’m referring to some basic amenities like a dishwasher and in-unit washer/dryer (things I’ve gotten spoiled to).",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.476172,
+          "label": "positive"
+        },
+        "text": "grad school",
+        "confidence": 0.969675,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.364033,
+          "label": "negative"
+        },
+        "text": "apartments",
+        "confidence": 0.962738,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.826165,
+          "label": "positive"
+        },
+        "text": "grad student",
+        "confidence": 0.882957,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "754d891f22e725519eab25889eb048fab5527e28",
+    "filename": "relevant-dc-277.json",
+    "file_type": "json"
+  },
+  "title": "Moving for Grad School - NoMa vs. Logan/Dupont Circle",
+  "created": "2020-04-08T05:26:59.000Z"
+}

@@ -1,0 +1,94 @@
+{
+  "id": "01a70ebe9c2ecc256ed3f2b366924863",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "car",
+        "confidence": 0.959823,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Hi! I bought a car this Feb and was planned to register in dc. So I paid DC car sale tax when I bought. Currently, I am moving to Portland, Oregon soon. And there is no sale tax in Portland. I haven’t had car inspection down because my appointment got canceled due to coronavirus. So since I am going to use the car in Portland and register in Portland. Is there anyone know if I can get my sale tax back from DC dmv?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "car",
+        "confidence": 0.986937,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "car",
+        "confidence": 0.984743,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.942698,
+          "label": "negative"
+        },
+        "text": "car",
+        "confidence": 0.957627,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "a car",
+        "confidence": 0.931338,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "77f932430668f5473ba2eb8c590c4805d1b0cdd4",
+    "filename": "relevant-dc-503.json",
+    "file_type": "json"
+  },
+  "title": "Can I get my car sale tax back when I move out?",
+  "created": "2020-03-26T03:12:04.000Z"
+}

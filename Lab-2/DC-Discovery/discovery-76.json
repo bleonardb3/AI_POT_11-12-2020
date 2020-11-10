@@ -1,0 +1,98 @@
+{
+  "id": "d0a6d5b5c25cd67bd4875f861d885238",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Looking to see if anyone else is dealing with a similar situation.\n\nI'm scheduled to move out of my current apartment in early April.  My current management company, UDR, has reached out to me saying \"we aren't sure if we're going to allow movers in the building come early April, would you like to renew your lease for an additional 12 months?\".  When I asked them to clarify their position on movers, they said \"we don't know what our policy is going to be\".\n\nI understand these are unprecedented times.  But prohibiting movers is a backdoor way of preventing anyone from moving out.  Additionally, I received a promotion of a month of free rent to move in initially that was prorated across the duration of the lease.  Even if they kept my current monthly rate, the lack of that proration makes the monthly price tag unaffordable.  They made no mention of a temporary month-to-month arrangement\n\nThe cynic in me believes this is an excuse to lock people into an additional 12 month lease and mitigate the financial impact of COVID on their bottom line.  Is anyone else in DC dealing with this?  Any recommendations for resources?\n\nThank you!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.404075,
+          "label": "positive"
+        },
+        "text": "lease",
+        "confidence": 0.983564,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "lease",
+        "confidence": 0.979242,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "apartment",
+        "confidence": 0.978592,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.959101,
+          "label": "negative"
+        },
+        "text": "lease",
+        "confidence": 0.974282,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "rent",
+        "confidence": 0.772532,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "43801cca8f2759f4fd6ff19dd86bba559e938d8f",
+    "filename": "relevant-dc-506.json",
+    "file_type": "json"
+  },
+  "title": "Question about moving apartments",
+  "created": "2020-03-26T00:20:56.000Z"
+}

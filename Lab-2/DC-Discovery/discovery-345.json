@@ -1,0 +1,67 @@
+{
+  "id": "bde7c800f3ef3ad9a47924b3e4cbcc33",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I'm newish to the DMV.  Still trying to figure out the way of life.\n\nI'm in my early 60's and live in MD.  Have a car but not hell-bent to drive everywhere.  I believe in public transport as a social issue and have no problem using it.  \n\nBut now I'm looking down the lens of negotiating with a contractor for a job located in the Navy Yard.  Due to Covid changes in train and bus times, I can't accurately predict my commute times on the WMATA app.  But I can predict the cost.  \n\nThe best I can tell is about 1.25 hours one way, and a total annual cost of $4500.  \n\nIs this a lot?  Is this an average commute for someone in the outlying areas?  Should I expect the contractor to understand this as a factor in their offer?\n\nThanks in advance.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.673473,
+          "label": "negative"
+        },
+        "text": "drive",
+        "confidence": 0.856167,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.673473,
+          "label": "negative"
+        },
+        "text": "car",
+        "confidence": 0.575884,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.673042,
+          "label": "positive"
+        },
+        "text": "DMV",
+        "confidence": 0.499306,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "c5b4ce95c70b9dfab2d3bfb85d45fbb49e2f7ebe",
+    "filename": "relevant-dc-267.json",
+    "file_type": "json"
+  },
+  "title": "Does the commute play a big role in your decision to take a job?",
+  "created": "2020-04-08T21:06:57.000Z"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "407a4fd29cc46f3975d7a08f72963639",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Internship",
+        "confidence": 0.93216,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I want to accept this internship in DC, but I am concerned I will not be making enough to live there. The internship pays 13.25/hr for 3 or 6 months depending on my choosing. It is full time \\~40 hrs/wk. \n\nThe thing is I went to school in DC a while back and my old roommates offered to let me split a large basement space in the their house in NW for $500/mo + utilities. My folks pay for my phone plan and health insurance, but besides that I'll be on my own. I know it's expensive to live in DC, but I am interested in this internship and the rent is a good deal from my understanding. What do you all think, can I make it work?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.729937,
+          "label": "negative"
+        },
+        "text": "internship",
+        "confidence": 0.977871,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.958395,
+          "label": "positive"
+        },
+        "text": "internship",
+        "confidence": 0.881478,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "internship",
+        "confidence": 0.881393,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "e21349ceee914fe7e2c3d3645cd5df0159487abe",
+    "filename": "relevant-dc-675.json",
+    "file_type": "json"
+  },
+  "title": "Internship in DC : can I afford to live here?",
+  "created": "2020-03-20T00:44:31.000Z"
+}

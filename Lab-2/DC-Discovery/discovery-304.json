@@ -1,0 +1,52 @@
+{
+  "id": "258a7dae7affebe183f984184f2d9b82",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I am/was in the running for a job with the Senate, last time I heard from them was about 2 1/2 weeks ago when they said they were going to start calling references and asked about salary.  Since then it's been complete radio silence. It's likely that they just decided not to hire me and haven't alerted me yet, but is there any kind of freeze on government new hires in effect that anyone knows of that could be the cause of delay?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.89252,
+          "label": "negative"
+        },
+        "text": "decided not to hire me",
+        "confidence": 0.923167,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.89252,
+          "label": "negative"
+        },
+        "text": "freeze on government new hires",
+        "confidence": 0.836905,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "57931c572d3126a096efca6c17cbb703fa2102c3",
+    "filename": "relevant-dc-455.json",
+    "file_type": "json"
+  },
+  "title": "Hiring Freeze?",
+  "created": "2020-03-29T04:56:40.000Z"
+}

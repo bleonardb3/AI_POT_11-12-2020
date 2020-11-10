@@ -1,0 +1,82 @@
+{
+  "id": "e85e8cb17d76f5916d4dc38a638ee1c6",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hi all, \n\nSo I’m a recent graduate looking for a job in D.C. I have 4.5 years of combined experience through my full-time job and my internships. I’m\nprimarily interested in working with policy makers, think tanks, and non-profits. Obviously, now is not the time I am expecting a plethora of interviews or job offers. However, to those actively hiring, I have not been able to get an interview. \n\nI applied to a position through a staffing agency called The Ford Agency and I was informed that the position was placed on hold but that they could help me with my job search.\n\nThey are a staffing agency so of course they could do temp staffing, etc. However, I’m not a local to D.C. because I’m a recent graduate and the pandemic halted my plan to move there to find a job and be “local”. Therefore, permanent staffing is important. \n\nI want to know if any of you had prior experiences with staffing agencies for full-time positions; any experience with the Ford Agency would be tremendous, as well!\n\nThanks.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.277337,
+          "label": "positive"
+        },
+        "text": "recent graduate",
+        "confidence": 0.981436,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.893351,
+          "label": "positive"
+        },
+        "text": "recent graduate",
+        "confidence": 0.94701,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.893351,
+          "label": "positive"
+        },
+        "text": "looking for a job",
+        "confidence": 0.83771,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.480638,
+          "label": "positive"
+        },
+        "text": "job search",
+        "confidence": 0.816852,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "3ca6b83aa3f604bf42554e3ecf83f1e7b9ed6362",
+    "filename": "relevant-dc-68.json",
+    "file_type": "json"
+  },
+  "title": "Does anyone have experience with staffing agencies like The Ford Agency for full-time positions?",
+  "created": "2020-04-21T21:50:37.000Z"
+}

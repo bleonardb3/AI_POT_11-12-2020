@@ -1,0 +1,79 @@
+{
+  "id": "3b54782f50615e4015afdfd275db8126",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Parking",
+        "confidence": 0.864452,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Does anyone know what the situation is with parking in the city? I usually keep my car in a garage at work but without work, I can't afford to leave it there anymore and I am wondering what the new guidance is as far as paying for metered parking but more so if I am allowed to leave it parked in the streets, including if it's safe or wise to do so giving a spike in crime around the city.\n\nEdit: also, my damn covid-19 test came back today - NEGATIVE!!! Yayyyy!! I was having ALL of the symptoms so it's been a crappy week.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.973204,
+          "label": "negative"
+        },
+        "text": "my car",
+        "confidence": 0.988124,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.973204,
+          "label": "negative"
+        },
+        "text": "parking",
+        "confidence": 0.973286,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "parking",
+        "confidence": 0.929221,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "e5ad8efafe88806114f346cedc1ed748f05aa4d7",
+    "filename": "relevant-dc-253.json",
+    "file_type": "json"
+  },
+  "title": "Parking at meters",
+  "created": "2020-04-09T02:53:34.000Z"
+}

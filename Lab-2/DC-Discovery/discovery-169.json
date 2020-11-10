@@ -1,0 +1,52 @@
+{
+  "id": "d6d5541643e1e8b2489bd4de7ad105fa",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hey everyone! Which neighborhoods would you recommend for a young professional west of Rock Creek Park? I'm currently located near the Mt Vernon Square metro stop and while the location is convenient, the noise levels and amount of crime in the area have me considering other neighborhoods when my lease ends.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.27915,
+          "label": "positive"
+        },
+        "text": "lease",
+        "confidence": 0.985068,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "young professional",
+        "confidence": 0.857492,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "1174f013ab178039c73908b283685879c562bada",
+    "filename": "relevant-dc-299.json",
+    "file_type": "json"
+  },
+  "title": "Best neighborhoods to live in west of Rock Creek Park?",
+  "created": "2020-04-06T20:27:46.000Z"
+}

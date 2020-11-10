@@ -1,0 +1,67 @@
+{
+  "id": "54799737e630eed6095893d853ddc1ef",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hello all, first I’d like to say I’m very excited to be moving to DC, I think it’s every political science majors dream to come here and work in politics.\nA little about me I’m a 25 yr old, about to finish up my masters degree, and got an entry level job in international relations/foreign policy.\n\nMy starting salary will be $47.5K which comes out to about 3k a month after taxes (according to google). My job is located in Connecticut Avenue NW. I believe that’s downtown or near downtown DC.\n\nI was hoping I could get some guidance as to where to look for rent? I’d ideally like to live inside of the city because I’m young and want to enjoy all of it, museums, nightlife etc. How much should I be looking to pay? \n\n\nAny other tips would be appreciated? Should I bring my car?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.734508,
+          "label": "positive"
+        },
+        "text": "about to finish up my masters degree",
+        "confidence": 0.916737,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "my car",
+        "confidence": 0.895227,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.734508,
+          "label": "positive"
+        },
+        "text": "entry level job",
+        "confidence": 0.774789,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "1ee981fc83955a3a0931fab460a536bef7b83740",
+    "filename": "relevant-dc-801.json",
+    "file_type": "json"
+  },
+  "title": "Moving to DC in exactly a month with little to no knowledge of DC life. Could use help!!",
+  "created": "2020-03-17T13:15:54.000Z"
+}

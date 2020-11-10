@@ -1,0 +1,140 @@
+{
+  "id": "866140f48b8840356b6916597071a4b5",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "summer intern",
+        "confidence": 0.873373,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I was accepted to be a congressional intern under my congressman. My University also has funding for students taking internships throughout the country like this, but I need to know where the best place to live for the summer would be before I officially submit out the form. Do any of you locals or experienced employees/interns in DC have any tips?\n\n&#x200B;\n\nThings that matter most to me about the housing:\n\n1. Cost.  You know, the whole broke college student vibe.\n2. I don't really want to live in a \"dorm-like\" fashion this summer as I'll be going right back to that in the fall, but if that's a significantly cheaper option than everything else, then I'm down to do it.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.77723,
+          "label": "negative"
+        },
+        "text": "college student",
+        "confidence": 0.938937,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.810871,
+          "label": "positive"
+        },
+        "text": "University",
+        "confidence": 0.929485,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "intern",
+        "confidence": 0.889893,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.930164,
+          "label": "negative"
+        },
+        "text": "broke",
+        "confidence": 0.808295,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.810871,
+          "label": "positive"
+        },
+        "text": "students",
+        "confidence": 0.679894,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "interns",
+        "confidence": 0.663706,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.810871,
+          "label": "positive"
+        },
+        "text": "internships",
+        "confidence": 0.551577,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "3100d105ac2f935c4a2f17428bee3ff2ec09bc35",
+    "filename": "relevant-dc-426.json",
+    "file_type": "json"
+  },
+  "title": "Just got accepted to be a congressional summer intern. I'm accepting, but where do I live?",
+  "created": "2020-03-31T00:03:36.000Z"
+}

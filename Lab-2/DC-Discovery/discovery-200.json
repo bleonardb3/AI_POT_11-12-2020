@@ -1,0 +1,68 @@
+{
+  "id": "682b623fe8daf7508fc5b8659ab57632",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hey all, \n\nWe are in some really scary times and I hope everyone is keeping safe and doing their part to ensure they are keeping others safe. Nonetheless, life must go on and I am deciding whether I should make the move to DC after the virus is more contained. I am considering a job offer based in the city and wanted to know if it would be a good fit for me. \n\nTo give you a bit of background, I am currently a senior at a university in California. I was born and raised in the Bay Area and have never lived anywhere else. I am considering a trading job at an investment company, which would require me to move. I'm really excited about the opportunity and think it would be great to live in the east coast for a little bit. \n\nI am curious about the culture in the city. I'd say I'm a pretty ambitious, young professional type, but I'd say I'm not the overly business-ey type of guy. I love talking about business with people who are into that sort of thing but understand most people don't really give a shit. I'm not very political and find people who make it the center of every discussion to be annoying. I'm really into fitness and love the active/fitness oriented culture in the bay. So I was curious of generally how people in the city are. What do people like to do for fun? Are people generally nice? What's the vibe?\n\nWith regards to cost of living, I'm sure no where would compare to the cost of living in the Bay Area, but generally how expensive is it to live in DC. My friend recommended living in Arlington, but the apartments look pretty pricey. I'll be making \\~$130k so I have some flexibility but don't really want to pay more than $1500 for an apartment. Other than rent and utilities, my main expenses would be gym, travel, and eating/drinking. Generally, how expensive are bars/clubs in the city? \n\nI would love if you guys could give me some guidance on this.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.476084,
+          "mixed": "1",
+          "label": "positive"
+        },
+        "text": "apartments",
+        "confidence": 0.992609,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.495931,
+          "label": "positive"
+        },
+        "text": "apartment",
+        "confidence": 0.987308,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "university",
+        "confidence": 0.917229,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "c79abedb119c39bfff84ad1ac75c10724a43bdb9",
+    "filename": "relevant-dc-356.json",
+    "file_type": "json"
+  },
+  "title": "Potentially moving to Washington DC out of college",
+  "created": "2020-04-03T02:43:52.000Z"
+}

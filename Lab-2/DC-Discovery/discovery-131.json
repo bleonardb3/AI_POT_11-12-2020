@@ -1,0 +1,49 @@
+{
+  "id": "ac0dd450af8a505aa6fb134f19b0cc88",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "apartments",
+        "confidence": 0.889691,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Partner got a job in Annapolis, and I got a job in Greenbelt. She is wanting to live closer to DC, and we are looking for recommendations in decent apartments.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.862454,
+          "label": "positive"
+        },
+        "text": "apartments",
+        "confidence": 0.960688,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "a71a28f8480a2c3fc0af7a8861fe4698b0189d3a",
+    "filename": "relevant-dc-51.json",
+    "file_type": "json"
+  },
+  "title": "Moving to Greenbelt area any recommendations on apartments?",
+  "created": "2020-04-22T08:21:40.000Z"
+}

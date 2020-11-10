@@ -1,0 +1,52 @@
+{
+  "id": "59c37e18ad6a0178ffc9ebf9defe7485",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hello everyone!\n\nI hope everyone is being safe during these times. I accepted a job in DC and I am looking to move around June. I previously considered Arlington but I decided that it might be better to live on the side of the Potomac where I work. I will be working downtown by the way! My MAX budget is $1500 but realistically I would like to be around $1350 because I also have a car (unless you have advice on how to avoid these astronomical parking fees like residential zone parking etc. 😅😪). With this budget in mind I’ve found a few places that I’m interested in: \n\nRhode Island Row Apartments- I’ve seen some threads about the area but I was wondering if anyone else could provide any experience with it? Safety? I’m a 23 y/o female \n\nAVA NoMa - I’ve also seen some conflicting info about NoMa \n\nAVA H street \n\nThe Edison at Union Market\n\nI value being by the metro and some walkability! I think as long as I am close to a grocery store I’m okay. I guess I could always Uber to bars or metro or something of that nature! \n\nThank you!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.911911,
+          "label": "negative"
+        },
+        "text": "car",
+        "confidence": 0.846286,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.911911,
+          "label": "negative"
+        },
+        "text": "parking",
+        "confidence": 0.59026,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "0eddccfc17df097a84ad826224fd27ce5c9df60c",
+    "filename": "relevant-dc-314.json",
+    "file_type": "json"
+  },
+  "title": "Opinions on DC Neighborhoods?",
+  "created": "2020-04-05T23:48:52.000Z"
+}

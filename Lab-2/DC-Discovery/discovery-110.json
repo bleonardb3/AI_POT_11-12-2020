@@ -1,0 +1,52 @@
+{
+  "id": "9de4be86f3c325ec1960e30ad9c90dd8",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I posted a bit back offering my 1 bed/1 bath apartment for free to a medical professional who couldn’t return home to family members. An ER nurse who was jumping between short term stays is there now but she is starting her quarantine and will be returning to her family at the end of the month. (She has even offered to deep clean!!) Since I committed to do this until June, that leaves my place available for the month of May to help out someone else. I got the most traction from posting here so I’m back!\nRequirements:\n-Preferably a DC resident, but if not, must be helping out DC residents. \n-Able to go through Airbnb which adds a layer of protection. I did have to charge $10 and Airbnb added $3 in taxes and service charges so alllllllmost free :)\n-I am open to non medical professionals as well so long as it’s legitimately helping with Covid + high exposure risk. [apartment info ](https://abnb.me/KL7sMEJpJ5)\nIf interested or if you know someone, please send me a direct message.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.365367,
+          "label": "positive"
+        },
+        "text": "apartment",
+        "confidence": 0.946724,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "apartment",
+        "confidence": 0.918217,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "41b1bc4f978853674aa7edd64be3a636c73a3d4d",
+    "filename": "relevant-dc-137.json",
+    "file_type": "json"
+  },
+  "title": "Update: free housing for DC medical professional [Month of May]",
+  "created": "2020-04-16T20:34:23.000Z"
+}

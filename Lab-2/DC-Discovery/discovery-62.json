@@ -1,0 +1,38 @@
+{
+  "id": "031f71db5c89a764b55db34fb663f1a8",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "The last 2 packages we received had already been opened by someone else by the time we received the delivery confirmation and grabbed them from the front door. \n\nThe perpetrators didn't want what they found so they left it. But still it's not great that strangers are going through our packages during this time of imposed isolation.\n\nDC Police have always been lackluster about dealing with stolen packages, but I could see this being a huge problem now with more people  having to rely on delivery services for essential needs.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.858329,
+          "label": "negative"
+        },
+        "text": "front door",
+        "confidence": 0.973966,
+        "type": "Home_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "6938569f6bb1a13bd6d76df1348fae4459fdd576",
+    "filename": "relevant-dc-544.json",
+    "file_type": "json"
+  },
+  "title": "Anybody else seeing a spike in package theft/tampering in the city?",
+  "created": "2020-03-24T04:09:42.000Z"
+}

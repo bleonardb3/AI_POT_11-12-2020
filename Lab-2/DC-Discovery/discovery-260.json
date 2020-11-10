@@ -1,0 +1,150 @@
+{
+  "id": "efcaa382b45ed1d775b4c3c4b496296c",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "used car",
+        "confidence": 0.959333,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "text": "DMV",
+        "confidence": 0.95694,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "So I’ve recently purchased a used car from a private seller in MD, and when I bought it he just put the plates of my old car onto it and I just had to go to the DMV to register it. But the DMV actually is closed until the end of April and I think I need to go in person to register it, since they need to see title etc. is it legal to drive around like normal until the DMV reopens?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.629349,
+          "label": "negative"
+        },
+        "text": "DMV",
+        "confidence": 0.984332,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.629349,
+          "label": "negative"
+        },
+        "text": "DMV",
+        "confidence": 0.980314,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.629349,
+          "label": "negative"
+        },
+        "text": "drive",
+        "confidence": 0.952898,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.516345,
+          "label": "negative"
+        },
+        "text": "used car",
+        "confidence": 0.949239,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.516345,
+          "label": "negative"
+        },
+        "text": "DMV",
+        "confidence": 0.814337,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.516345,
+          "label": "negative"
+        },
+        "text": "plates",
+        "confidence": 0.626624,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.516345,
+          "label": "negative"
+        },
+        "text": "car",
+        "confidence": 0.562235,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "0db620a3cb9c5f0b5e642840e9d3a1ee90ec8b23",
+    "filename": "relevant-dc-457.json",
+    "file_type": "json"
+  },
+  "title": "Registering a recently purchased used car with DMV closures?",
+  "created": "2020-03-29T02:36:58.000Z"
+}

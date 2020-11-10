@@ -1,0 +1,83 @@
+{
+  "id": "0c6456885c6d814c95abc9999622a321",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hey everyone! So recently I’ve been fortunate enough to get a job in Sparrows Point, not too far from Baltimore. Coming from Philly, I have absolutely no desire to move to Baltimore and I’m looking for places closer to DC/MD to move to. My thing is, I know that DMV traffic can cause you to go grey early so I’m trying to avoid that! Realistically, how long would it take me to get from say, NE DC to Sparrows Point during Rush Hour? Or even, College Park to Sparrows Point.\n\nWould anyone have any recommendations as to areas that I could live in that may be a bit closer to my job but under 30 mins commute to DC? \n\nI’m new to this, I’d love some help!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.849162,
+          "label": "negative"
+        },
+        "text": "DMV",
+        "confidence": 0.967303,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.718894,
+          "label": "negative"
+        },
+        "text": "my job",
+        "confidence": 0.847869,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.521047,
+          "label": "positive"
+        },
+        "text": "get a job",
+        "confidence": 0.827309,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.849162,
+          "label": "negative"
+        },
+        "text": "traffic",
+        "confidence": 0.780211,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "24364d6dbbb111263121dd05f0ec8d87cb8c0b21",
+    "filename": "relevant-dc-452.json",
+    "file_type": "json"
+  },
+  "title": "Commute to BMore Area/Places to Live Questions",
+  "created": "2020-03-29T06:09:53.000Z"
+}

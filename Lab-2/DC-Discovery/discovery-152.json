@@ -1,0 +1,52 @@
+{
+  "id": "57d6df77b39c2680fae4dc4bb3bfff26",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "My boyfriend and I just signed a lease for a beautiful brand new apartment on 18th and Benning. It’s an easy commute to Gallaudet (where I’ll be attending for my Master’s) and to his work in Arlington. We love the area (we wanted to be close to H Street). Obviously, the area around is rough. We both went to Temple and lived in North Philly for many years, so we are no strangers to areas like this. Just wanted peoples personal experiences from living here. Thank you!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.970575,
+          "label": "positive"
+        },
+        "text": "lease",
+        "confidence": 0.960782,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.970575,
+          "label": "positive"
+        },
+        "text": "apartment",
+        "confidence": 0.828131,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "55654dea88e0768a962cd17cb9f256f0ebefe290",
+    "filename": "relevant-dc-308.json",
+    "file_type": "json"
+  },
+  "title": "Living in Carver Langston: thoughts?",
+  "created": "2020-04-06T02:56:50.000Z"
+}

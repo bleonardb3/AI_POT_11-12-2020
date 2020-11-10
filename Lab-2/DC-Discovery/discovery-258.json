@@ -1,0 +1,49 @@
+{
+  "id": "c2b96cd20169eb9984997a0780e29dec",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "my car",
+        "confidence": 0.930094,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Hi everyone, I’m trying to find a good place to work from my car in the dmv. I’m staying home during the week in dc but I would like to find a place I can pull off to work on my computer. \n\nI tried Gravelly Point but it’s closed. \n\nIm abiding by social distancing/quarantining during the week but getting some fresh air( while being smart  about it) is important to keeping my mental health in tact. Open to any suggestions",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.441272,
+          "label": "positive"
+        },
+        "text": "my car",
+        "confidence": 0.8843,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "1a0ea713b7fe9d0727767db37257fbc00f46d428",
+    "filename": "relevant-dc-315.json",
+    "file_type": "json"
+  },
+  "title": "“Scenic” Places to Work from my car during Covid-19",
+  "created": "2020-04-05T23:48:07.000Z"
+}

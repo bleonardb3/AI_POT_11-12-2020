@@ -1,0 +1,83 @@
+{
+  "id": "37672e36247017a0c18abbf46cf1018e",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hi all,\n\nHas the DC government made any changes to parking restrictions as part of its COVID-19 response?  \n\nI don't want to metro in to the city to restrict my exposure.  However, if I could drive in and work from my office, I'd be more productive than working at home trying to concentrate while my 3 kids are running amok at home.  \n\nIf I have to pay $15 a day for a parking garage downtown, I will.  But I'd of course much rather than on-street parking in the District be easier and cheaper than it normally is.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.803179,
+          "label": "positive"
+        },
+        "text": "parking",
+        "confidence": 0.999003,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.724189,
+          "label": "positive"
+        },
+        "text": "parking",
+        "confidence": 0.982334,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.787805,
+          "label": "negative"
+        },
+        "text": "drive",
+        "confidence": 0.973598,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "parking",
+        "confidence": 0.85439,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "640697b6f30ff665e6c6a40c8c63e0f33023e99e",
+    "filename": "relevant-dc-846.json",
+    "file_type": "json"
+  },
+  "title": "Parking Rules",
+  "created": "2020-03-16T23:47:47.000Z"
+}

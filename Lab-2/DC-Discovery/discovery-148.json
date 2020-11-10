@@ -1,0 +1,64 @@
+{
+  "id": "ff9dec5c160bf6788aa007673b25dd4e",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Free Metro Card",
+        "confidence": 0.797936,
+        "type": "No_Vehicle",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "If you or someone you know has to keep going into work in the DC area and uses public transit please let me know. I have an unlimited pass metro card (all train rides under $4.50 and all bus rides are covered) for the month of March that I will not be using much since I'm working from home. I'm happy to give it for free to someone that is still forced to go into work (preferably somebody who would really be helped out by the free card)\n\nEDIT: Gave it away!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.426866,
+          "label": "positive"
+        },
+        "text": "public transit",
+        "confidence": 0.972701,
+        "type": "No_Vehicle",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.587546,
+          "label": "negative"
+        },
+        "text": "unlimited pass metro card",
+        "confidence": 0.832568,
+        "type": "No_Vehicle",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "513efe4a3ef539a248da508fb4a171afa22a5178",
+    "filename": "relevant-dc-777.json",
+    "file_type": "json"
+  },
+  "title": "Free Metro Card",
+  "created": "2020-03-18T00:11:37.000Z"
+}

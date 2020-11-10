@@ -1,0 +1,97 @@
+{
+  "id": "bbff5245878cb167c912f3b1fc36055a",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hi Neighbors. We need your help finding an affordable Airbnb or furnished apartment for my partner so that he can self-isolate for the next 2.5 months. \n\nMy partner, Kody, is currently a resident physician at St. Elizabeths, but soon he switches to working the frontlines in the emergency room of Prince George Hospital. I have severe asthma and we have come to the tough decision that to keep me healthy we have to live separately, temporarily.\n\nWe live on Vermont, a few buildings away from Logan Circle. It would be amazing to find something within walking distance so that we can still occasionally see each other (from a safe distance, of course), but ultimately someplace safe for him is most important.\n\nAnything furnished with internet is great. A washer/dryer is important so that he can wash his scrubs daily. We moved here from Savannah last year and we brought only what would fit into our beautiful, yet small apartment, so we need a place that comes with everything he will need there like bed linens, cooking equipment, etc.\n\nKody is a resident physician, which means he still has three years until he is a fully paid doctor, and I work in film & television production. All productions have been stopped nation-wide for the foreseeable future. This is why we are seeking someone with an unused airbnb, who may be in the position to offer a significantly discounted rental rate. \n\nI own an Airbnb in Savannah and I am offering it to anyone in the healthcare industry needing to self-isolate, as well. Hoping karma comes back around quickly this time!\n\nPlease feel free to ask questions and please share this post with anyone that may be in the position to help.\n\nThank you for reading. Stay safe and healthy.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.975981,
+          "label": "positive"
+        },
+        "text": "apartment",
+        "confidence": 0.993651,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.860835,
+          "label": "positive"
+        },
+        "text": "apartment",
+        "confidence": 0.980568,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.442957,
+          "label": "positive"
+        },
+        "text": "I work in film & television production",
+        "confidence": 0.956042,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.744987,
+          "label": "positive"
+        },
+        "text": "rental",
+        "confidence": 0.909662,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "resident physician",
+        "confidence": 0.789763,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "3e1144f5c7567b71032384d4280786eaaaa45cee",
+    "filename": "relevant-dc-83.json",
+    "file_type": "json"
+  },
+  "title": "Housing needed so my partner can self isolate while working in emergency room",
+  "created": "2020-04-21T03:45:53.000Z"
+}

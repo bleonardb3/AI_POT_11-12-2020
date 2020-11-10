@@ -1,0 +1,67 @@
+{
+  "id": "c2b9f1a382e06822c680cf6ccf65c740",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I know its awful timing, but I just bought a 2 bedroom in DC before the virus struck and now I need to rent out the second room. \n\nThe DC Business Center website is not very clear, do I need a basic business license to rent out a single room? If so, what category of \"Lodging & Rental Housing\" license?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.835623,
+          "label": "negative"
+        },
+        "text": "rent out a single room",
+        "confidence": 0.935171,
+        "type": "Home_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.954261,
+          "label": "negative"
+        },
+        "text": "rent out the second room",
+        "confidence": 0.909255,
+        "type": "Home_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.954261,
+          "label": "negative"
+        },
+        "text": "bought a 2 bedroom",
+        "confidence": 0.816488,
+        "type": "Home_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "542b30531322ce638d654378445af149aab56b87",
+    "filename": "relevant-dc-187.json",
+    "file_type": "json"
+  },
+  "title": "How to rent a room in DC?",
+  "created": "2020-04-13T06:42:07.000Z"
+}

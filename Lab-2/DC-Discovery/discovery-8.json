@@ -1,0 +1,68 @@
+{
+  "id": "fe36da63d70195054d90b30637affd3b",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hey,\n\nI moved to DC a while ago, but was still a Florida voter because I was a college student and could maintain residency with my home state. Since I graduated and decided to stay here, I need to register to vote here now.\n\nI went to the DMV to get a driver's license and register in early march, but they turned me away because I had the wrong residency documents. Then the whole COVID-19 thing happened, and there is no way I'm going back in the DMV before this is over. I still want to register to vote though.  I found the  voter registration form online, but I'm a little confused about whether or not I need to send in residency documents.  The DC website says that mail-in registers need to, but the online form doesn't mention anything. I just don't want to send in the form on its own, and then get told one month later that I need to send in residency docs.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.683933,
+          "label": "positive"
+        },
+        "text": "college student",
+        "confidence": 0.995527,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.917291,
+          "label": "negative"
+        },
+        "text": "DMV",
+        "confidence": 0.89909,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.945914,
+          "label": "negative"
+        },
+        "text": "DMV",
+        "confidence": 0.788501,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "ed0eea0064e7e051ee105331b942a43c2663ae77",
+    "filename": "relevant-dc-399.json",
+    "file_type": "json"
+  },
+  "title": "Help registering to vote online without a DC License?",
+  "created": "2020-03-31T23:32:56.000Z"
+}

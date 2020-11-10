@@ -1,0 +1,49 @@
+{
+  "id": "a819a3c2b3e0326a12808c6fc4349f61",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "property tax",
+        "confidence": 0.72528,
+        "type": "Home_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "DC has decided to increase the assessed value of my apartment by $50,000 just over the last year (and ~$20k the year before). Over this period of time, the estimates on Redfin/Zillow have actually decreased, and those estimates don't take into account other emergent problems with the building that would likely decrease value. HOWEVER--even these increased values are still lower than what I bought it for and hopefully still less than it's worth. So my questions are:\n\n1. Is there a risk that appealing the increase leads the assessors to decide that it's actually worth *more* and further increase the assessment?\n\n2. Has anyone had any success appealing these?\n\nThanks",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.709681,
+          "label": "positive"
+        },
+        "text": "assessed value of my apartment",
+        "confidence": 0.771407,
+        "type": "Home_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "934f118a23bde50759697490a8060e33a569a43d",
+    "filename": "relevant-dc-511.json",
+    "file_type": "json"
+  },
+  "title": "Appealing property tax increase? Are there risks?",
+  "created": "2020-03-25T21:15:00.000Z"
+}

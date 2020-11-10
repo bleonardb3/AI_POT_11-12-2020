@@ -1,0 +1,21 @@
+{
+  "id": "7167927bf8c7c881ae500ae5cce7407a",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "My wife is looking to get her bachelors in criminal justice. She has a low GPA and they will accept her. She has a good job, just wants a degree to possibly get a higher paying one. \n\nDoes anyone have any info on if the school is good or not? Know anyone that went there? \n\nAny info would be great. \n\nThanks!",
+  "enriched_text": {
+    "entities": []
+  },
+  "extracted_metadata": {
+    "sha1": "dd7ff93ba8c5990f3a85e1442d5ead06437380e7",
+    "filename": "relevant-dc-336.json",
+    "file_type": "json"
+  },
+  "title": "UMUC Global Campus?",
+  "created": "2020-04-04T04:20:32.000Z"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "b94d78f4a6a17ad21bccf6cf17d1c767",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Grad School",
+        "confidence": 0.90911,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Hi, hope everyone is doing well and staying healthy! I'm looking for some advice about grad school. I lived in VA all my life/ did undergrad at a VA school, and then moved to DC for a job and changed residency this past August. I'm now realizing this might have been a mistake since grad schools are SO much more as an out of state resident. I'd like to go to a VA or MD school- is my only option to move there for a year or so and then claim the in state tuition? I have been financially independent for two years, so don't think I could pretend to still live with my parents. Thanks in advance!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.64507,
+          "label": "positive"
+        },
+        "text": "grad school",
+        "confidence": 0.932409,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.940191,
+          "label": "negative"
+        },
+        "text": "grad schools",
+        "confidence": 0.857674,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "4d44b43f402ae7129198a242847633502a6ee416",
+    "filename": "relevant-dc-480.json",
+    "file_type": "json"
+  },
+  "title": "Grad School",
+  "created": "2020-03-27T11:25:23.000Z"
+}

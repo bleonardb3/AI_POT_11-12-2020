@@ -1,0 +1,37 @@
+{
+  "id": "8e5ef911b638960ecd8ad82110117714",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hello r/washingtondc ! \n\nI'm reaching out today to try and make a friend who works on the Hill. I interned last summer in the House and now that I've finished my Master's degree, I've been applying for some staff assistant positions on the Hill. \n\nIt's an exciting time in my life as I prepare to permanently move to DC. I'd love to make a friend who I can chat with about the hiring process and what to expect when it comes to transitioning into a full-time career on the Hill.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.850132,
+          "label": "positive"
+        },
+        "text": "applying for some staff assistant positions",
+        "confidence": 0.92472,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "f4a5cef5b4a9b2d680cf5e866af3f32be092af90",
+    "filename": "relevant-dc-209.json",
+    "file_type": "json"
+  },
+  "title": "Looking for a friend who works on the Hill",
+  "created": "2020-04-11T22:59:22.000Z"
+}

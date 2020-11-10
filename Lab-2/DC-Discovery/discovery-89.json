@@ -1,0 +1,38 @@
+{
+  "id": "a884c32567d3d3445f6ba304f119548d",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Does anyone know who in the city I should contact about this issue? \n\nI live in a rowhouse, and the building next to me is a rental unit that's contracted to the city as a particular type of grouphome. All I've been able to find out about the owners through internet searches is that it's a couple that live somewhere in Maryland. No contact info is available. \n\nThe problem is that the owners of the building have let the building fall into complete disrepair. Not only is this a problem for the tenants who are likely unable to represent themselves, it's also an issue for us as neighbors. Without going into too much detail, the issues with the house have begun to become a safety hazard. Debris falling off the building is the latest of many issues. \n\nDoes anyone have any idea where I should start on this?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.878531,
+          "label": "negative"
+        },
+        "text": "house",
+        "confidence": 0.9459,
+        "type": "Home_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "1f74064e69116fddaf555db76a3fd3821a210137",
+    "filename": "relevant-dc-176.json",
+    "file_type": "json"
+  },
+  "title": "What to do about neighbor's house.",
+  "created": "2020-04-14T03:17:11.000Z"
+}

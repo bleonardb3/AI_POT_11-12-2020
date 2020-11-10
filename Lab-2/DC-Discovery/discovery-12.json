@@ -1,0 +1,38 @@
+{
+  "id": "3c9614376d42be982cda9cb8da05719f",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I'm currently working on getting my CompTIA certs, and I was just wondering what the job market is like for entry level IT jobs in the DC area. I do have a college degree and I live in the area. Is the IT field in DC easy to break in without a security clearance?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "college degree",
+        "confidence": 0.890921,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "87319c89b1073e0946672efa56e93351c54fe656",
+    "filename": "relevant-dc-274.json",
+    "file_type": "json"
+  },
+  "title": "Entry level IT jobs in DC",
+  "created": "2020-04-08T06:00:01.000Z"
+}

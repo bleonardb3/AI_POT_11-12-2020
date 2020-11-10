@@ -1,0 +1,52 @@
+{
+  "id": "1a56a41b69311903e3cfd6b4d0345e36",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Recently accepted a job offer for Amazon to work at HQ2. Starting remote cause of coronavirus but I'll have to commute down to Crystal City/Arlington, VA eventually. \n\nI currently live in Anne Arundel county maryland, and I'm used to a 7 minute commute to the Fort up here. How fucked am I? What commute times can I reasonably expect and how can I mitigate the suck?\n\nWith absolutely no traffic on the roads, google maps is telling me the drive down to Crystal City is 35 mins. Should I try to ride the metro? Just drive? Looking for any advice",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "drive",
+        "confidence": 0.972862,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.854193,
+          "label": "negative"
+        },
+        "text": "drive",
+        "confidence": 0.898186,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "9e1b22ae04d309e8b55035c2aa104b0f70d972fe",
+    "filename": "relevant-dc-415.json",
+    "file_type": "json"
+  },
+  "title": "Commute to Arlington from MD?",
+  "created": "2020-03-31T08:13:11.000Z"
+}

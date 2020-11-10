@@ -1,0 +1,49 @@
+{
+  "id": "29b2c0fdd630c9e8399ff1429ceb5f7e",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "DMV",
+        "confidence": 0.725497,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Howdy everyone,\n\nUnfortunately I'm riding out the current pandemic at home back in Oklahoma.  I drove my '02 Subaru Outback out here and will be driving back... that being 1350 miles split between 2x10-hour days.  I've been taking my car out to a shop near some friends in Arlington for service but now wanting to take it somewhere else for a \"second opinion\".  Does anyone have any solid recommendations?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.638062,
+          "label": "negative"
+        },
+        "text": "my car",
+        "confidence": 0.56301,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "94b3a7f0d963602fa78351b2e3e51323d7b46929",
+    "filename": "relevant-dc-221.json",
+    "file_type": "json"
+  },
+  "title": "Reliable mechanics within DMV area",
+  "created": "2020-04-11T01:19:47.000Z"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "103ad3ac76fc211e1e8be1f9ec3e34ba",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I know this is just another moving to DC/rental post but thought I'd just come to air my grievances as I'm just as bored as everyone else right now: but what's the deal with the rental market in DC?! I'm moving there soon for a job and in searching for places it seems like there's nothing but the extremes. Either you pay <1000 to live in a rowhome with 4 other people you don't know in a less than ideal part of town, 1000-1500 to live in a rowhome in with 4 other people in the \"safer\" neighborhoods, or >1900 to live in any of the apartment buildings with a studio. Nevermind parking costs. Just seems tough to balance the pros and cons and whether one should pay 100 more for XYZ when value is all over the place. \n\nI've lived in several other high COL cities and it seems like none of them has been this polarizing in terms of rental options. \n\nAs a newcomer, I would love to be proven wrong here as it would only be a win win for me haha",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.818306,
+          "label": "negative"
+        },
+        "text": "rental market",
+        "confidence": 0.986068,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.256953,
+          "label": "negative"
+        },
+        "text": "apartment",
+        "confidence": 0.981658,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.888361,
+          "label": "negative"
+        },
+        "text": "rental",
+        "confidence": 0.96417,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.256953,
+          "label": "negative"
+        },
+        "text": "studio",
+        "confidence": 0.566007,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "2c6a03c83ae8790704d7e2542ecfb3f579f83094",
+    "filename": "relevant-dc-194.json",
+    "file_type": "json"
+  },
+  "title": "What is it with DC housing",
+  "created": "2020-04-12T23:54:43.000Z"
+}

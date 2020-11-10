@@ -1,0 +1,52 @@
+{
+  "id": "e8b1e19e722cdd4f07e0c26a83a1afdb",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I'll be moving to DC later this year and I'm interested in rentals listed through the IZ program for reduced rent. Does anyone know if there is a residency requirement where you've had to live in DC for a set amount of time prior to taking the orientation? Or can newcomers with limited incomes take part as well? Thanks in advance.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.886291,
+          "label": "positive"
+        },
+        "text": "rent",
+        "confidence": 0.983813,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.886291,
+          "label": "positive"
+        },
+        "text": "rentals",
+        "confidence": 0.859565,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "1a0b6a79d14b78da2e1d3025a62b51e15fd4054d",
+    "filename": "relevant-dc-501.json",
+    "file_type": "json"
+  },
+  "title": "Inclusionary Zoning (IZ) Program for Newcomes/Renters",
+  "created": "2020-03-26T07:40:50.000Z"
+}

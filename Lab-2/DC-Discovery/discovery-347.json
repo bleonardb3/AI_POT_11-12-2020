@@ -1,0 +1,37 @@
+{
+  "id": "740e64dea4eba9a54a8394d5d931ad55",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "We were just driving in the downtown Logan Circle area and we saw three different occasions of multiple cops and ambulances pulled over with what appears to be homeless individual. On one occasion they were helping someone get into the ambulance and on the other they were just assisting the person on the street. The other situations I couldn’t quite tell what was happening. Do you think they’re checking the homeless population for corona? This is only around 8 PM.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.72977,
+          "label": "negative"
+        },
+        "text": "driving",
+        "confidence": 0.887998,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "d4cf5b572263f3b659d1ded0f9491ec7eb743855",
+    "filename": "relevant-dc-333.json",
+    "file_type": "json"
+  },
+  "title": "Lots of cops/ambulance activity downtown",
+  "created": "2020-04-04T08:31:01.000Z"
+}

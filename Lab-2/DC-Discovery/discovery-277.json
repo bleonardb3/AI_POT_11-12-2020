@@ -1,0 +1,37 @@
+{
+  "id": "e4c6677b4c5d49b1cf47949a92d888bb",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Been considering leaving DC to spend some time with family instead, but wondering if the trains are crowded or what the situation is in general. I know it's a risk to me and my family either way, but the plan would be to just stay out with them in the exurbs until this plague blows over; just trying to evaluate it on a relative basis.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.773071,
+          "label": "negative"
+        },
+        "text": "trains",
+        "confidence": 0.770883,
+        "type": "No_Vehicle",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "e5d0a2bd023ffd42f92f0b1126114659670ce916",
+    "filename": "relevant-dc-55.json",
+    "file_type": "json"
+  },
+  "title": "Has anyone taken Amtrak to/from Union Station recently?",
+  "created": "2020-04-22T05:44:38.000Z"
+}

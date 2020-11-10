@@ -1,0 +1,53 @@
+{
+  "id": "92af7398522ba4a3dd5952f3d1439494",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I’m sure you are sick of the “moving to dc what neighborhood should I look at” posts, but I want to know what neighborhoods you’d recommend for commuting to Georgetown Law center which is across the street from the FBI field office building? Although I’ve been to D.C. before, I wasn’t able to visit with the intention of moving due to Covid, so I could use some help . I know most students live in NOMA which I’m not too excited about (if you live there and love it tell me why I’m wrong). I don’t mind commuting approximately 30 minutes each way. I’d prefer taking the metro but I’m accustomed to taking the bus as well. From researching I think Adams Morgan seems nice and I’m interested in Woodley Park bc it has a metro stop and is near Adams Morgan and the park. I’m moving with my significant other and we’d prefer a 1BR but are ok with a studio. We have money saved and she has a decent job so we can afford around  $2000 a month for rent but would prefer it closer to 2000 or under.\n\nEdit: S/O will be working near DuPont circle. And edited for clarity",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.823479,
+          "label": "positive"
+        },
+        "text": "rent",
+        "confidence": 0.942002,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.797134,
+          "label": "positive"
+        },
+        "text": "studio",
+        "confidence": 0.566007,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "ff75acf6d37a6a67e943187297c01366b07c125b",
+    "filename": "relevant-dc-271.json",
+    "file_type": "json"
+  },
+  "title": "Georgetown Law Commute",
+  "created": "2020-04-08T14:14:48.000Z"
+}

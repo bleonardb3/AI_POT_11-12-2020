@@ -1,0 +1,67 @@
+{
+  "id": "e84e5a7f59e034896ee475343ab6cb85",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hello everyone,\n\nI live in DC but have been stuck in quarantine in New England. I am thinking of driving back to the city using my parents car, but am wondering if anyone has tips about parking. My building has a few spots but they are all rented out right now. I don’t think I can sign up for a Residential Parking Pass, since the car won’t have DC plates. I read online that some wards have unrestricted parking, but I can’t find any information about where those would be. Any idea where I could find that information?\n\nThank you for your help!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.413163,
+          "label": "positive"
+        },
+        "text": "My building",
+        "confidence": 0.869609,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.951384,
+          "label": "negative"
+        },
+        "text": "Residential",
+        "confidence": 0.750296,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.592055,
+          "label": "negative"
+        },
+        "text": "my parents car",
+        "confidence": 0.700572,
+        "type": "No_Vehicle",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "2a9e75d12b20581387bd2967c3a591d3a1c85f24",
+    "filename": "relevant-dc-5.json",
+    "file_type": "json"
+  },
+  "title": "Dc Parking Locations",
+  "created": "2020-04-24T21:50:40.000Z"
+}

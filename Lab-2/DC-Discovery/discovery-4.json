@@ -1,0 +1,95 @@
+{
+  "id": "f72fb06f6ef653b5f65be39e34b6dfc8",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "health insurance",
+        "confidence": 0.822976,
+        "type": "Medically_Insured",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Hey all - I'm not sure if this is the place to ask, but I recently moved to DC for a PSC position and am trying to figure out which health insurance to get. My employer will reimburse 72% of the monthly premium, so I'm thinking a no or low deductible plan would make the most sense even though they're a bit more expensive. \n\nI'm pretty healthy but who knows what could happen in the next couple of months with COVID-19. I would mainly be using it to fill a monthly prescription and for going to the doctor if I have an occasional severe illness (usually only get really sick like once or twice a year). \n\nThe best option on DC Health Link seems to be the Kaiser Permanente DC Standard Platinum 0/20/Dental for $396/mo. Does anyone have experience with this plan or know if it's easy to find providers that take it in the area? Other recommendations or advice? \n\nThank you!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.297458,
+          "label": "negative"
+        },
+        "text": "deductible",
+        "confidence": 0.979421,
+        "type": "Medically_Insured",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.71482,
+          "label": "positive"
+        },
+        "text": "PSC position",
+        "confidence": 0.944947,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.71482,
+          "label": "positive"
+        },
+        "text": "health insurance",
+        "confidence": 0.768305,
+        "type": "Medically_Insured",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.297458,
+          "label": "negative"
+        },
+        "text": "My employer",
+        "confidence": 0.765426,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "93e2ad8c29d704bd5803c5310928e051ebfbc1ba",
+    "filename": "relevant-dc-390.json",
+    "file_type": "json"
+  },
+  "title": "Just moved to DC for contracting position and need some health insurance advice",
+  "created": "2020-04-01T04:56:30.000Z"
+}

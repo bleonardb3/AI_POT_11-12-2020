@@ -1,0 +1,37 @@
+{
+  "id": "940d987c5541e2c64c7b61f75eada5ba",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Library of Congress employee here. Quarantined for two weeks until cleared due to a fever and lightness in chest. Stay safe out there.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "employee",
+        "confidence": 0.564786,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "2d02a6ed1847b8bdc0e54d9a9c66f65f67189c37",
+    "filename": "relevant-dc-758.json",
+    "file_type": "json"
+  },
+  "title": "Anybody else in the quarantine gang?",
+  "created": "2020-03-18T06:51:07.000Z"
+}

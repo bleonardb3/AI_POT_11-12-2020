@@ -1,0 +1,94 @@
+{
+  "id": "b08899b02f67c73edb5a1b15e0911709",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Parking",
+        "confidence": 0.746318,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I'm considering taking a job in Georgetown for a year and a lot of apartments in the district nearby say there's street parking available. Do I have to have a residential parking permit to street park on all DC streets? I'm borrowing my parents' car from out of state and the insurance and title is under their name so I wouldn't qualify for it. Do Maryland or Virginia have similar rules for cars? What do you recommend I do in order to have a car without changing the insurance/title and not paying for a garage?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.657025,
+          "label": "positive"
+        },
+        "text": "apartments",
+        "confidence": 0.916527,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.924197,
+          "label": "negative"
+        },
+        "text": "car",
+        "confidence": 0.855057,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.657025,
+          "label": "positive"
+        },
+        "text": "parking",
+        "confidence": 0.776382,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "parking",
+        "confidence": 0.720079,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "c6777a5fde83ba4bd9ea613c533555fcc2113fad",
+    "filename": "relevant-dc-322.json",
+    "file_type": "json"
+  },
+  "title": "Moving to DC - Street Parking",
+  "created": "2020-04-05T03:29:56.000Z"
+}

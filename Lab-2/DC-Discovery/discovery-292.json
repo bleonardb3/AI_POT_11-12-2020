@@ -1,0 +1,52 @@
+{
+  "id": "f9befd5e9f8bf0c45020466cf08c610f",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Now that I have time to do whatever I want during this virus emergency, I want to take the time to ask a general question regarding both about internships and scholarships within the greater dc area. Are there any private or public sector scholarships for a person entering university but is an out of state online univ? I would like serious answers. Also are there any private or public sector internships for someone getting their bachelors in public health? any recommendations for a specific company/ department for the internships?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "bachelors in public health",
+        "confidence": 0.830124,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.534268,
+          "label": "negative"
+        },
+        "text": "entering university",
+        "confidence": 0.77473,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "774e52c73c40cb60b3c82a3bdb7d87a64a158865",
+    "filename": "relevant-dc-683.json",
+    "file_type": "json"
+  },
+  "title": "Question regarding public health internships and/or scholarships with the greater dc area",
+  "created": "2020-03-19T22:37:36.000Z"
+}

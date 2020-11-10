@@ -1,0 +1,53 @@
+{
+  "id": "6525d1c403992c75ed1f172c542e57aa",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hey All! Moving to DC for work. I really want to live in DC( georgetown/west end area). I wanna know how realistic that is if I have to commute(drive) to Reston everyday. \n\nI’m a city person and this past summer for my internship lived in Arlington and really hated how far it was from everything. \n\nAlso does anyone have any recommendations on nice apartment buildings to live in?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "apartment",
+        "confidence": 0.978436,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.700809,
+          "label": "positive"
+        },
+        "text": "drive",
+        "confidence": 0.878589,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "1b06f4462a554bdbed12ded1d5b4489637a97a7d",
+    "filename": "relevant-dc-217.json",
+    "file_type": "json"
+  },
+  "title": "Moving to DC: housing questions",
+  "created": "2020-04-11T03:55:56.000Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "beea0e3cfeae29eda0cb1325a6abe2c8",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "hey. i run two photography pages on Instagram, and i also got a new camera i would like to test out so i figured out my next subject matter would be showcasing how just the contrast b/t a \"dynamic\" DC and one that's near standstill.\n\ni know this may not be a great idea given the fact we're in the midst of a worldwide pandemic. but i can 1000% promise with a cherry on top that i'll follow social distancing, wear a mask, and use gloves (and properly dispose of them), and since i'll be walking around (and maybe using Metro), it could be considered recreation (?)\n\ni wanted to know what locations in the area that are usually busy and teaming with life are empty and desolate. locations such as streets, neighborhoods, attractions, etc.\n\ni also had a question about getting lunch because i know most places are closed for dining in, but i was wondering if i could do takeout and have a little fun picnic by myself in Farragut Sq or something haha\n\ni was also wondering if i would get any shit from law enforcement if they saw some dorky kid with two cameras walking around in the midst of a pandemic.\n\nagain, sorry if this generally isn't a good idea, it just seems almost something in a lifetime opportunity.",
+  "enriched_text": {
+    "entities": []
+  },
+  "extracted_metadata": {
+    "sha1": "3addc9d92bf65bd6c717dc121d80b7b1d69bd6bb",
+    "filename": "relevant-dc-27.json",
+    "file_type": "json"
+  },
+  "title": "best examples to show just how empty DC is?",
+  "created": "2020-04-23T14:36:35.000Z"
+}

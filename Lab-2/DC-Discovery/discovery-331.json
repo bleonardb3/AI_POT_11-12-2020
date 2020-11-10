@@ -1,0 +1,64 @@
+{
+  "id": "c2150b0cfcdcacf5def1420e98d2ba52",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "apartment",
+        "confidence": 0.943386,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I'm just starting apartment hunting for the fall (trying to move out of a basement finally!) and I feel like I'm missing something. I walk past all these fancy old 4-10 apartment complexes in NW with silly names like 'The Albemarle' and 'The Balfour,' but I never see any of them with listings posted on Zillow or Apartments.com. It's totally possible that none of them have openings, but some definitely have signs implying that they do. Is there some central place that has lots of DC housing listings? I find out hard to believe they aren't somewhere, even if they're not on the popular listing sites. Chasing down every complex individually is certainly a thing one could do, but I don't really want to have to do that.\n\nThanks!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.801704,
+          "label": "negative"
+        },
+        "text": "apartment",
+        "confidence": 0.987999,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.569978,
+          "label": "positive"
+        },
+        "text": "apartment",
+        "confidence": 0.925944,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "079ae897c003d3cb812819dc29db7fb24db05d24",
+    "filename": "relevant-dc-126.json",
+    "file_type": "json"
+  },
+  "title": "Where do all these stately old apartment complexes post their listings?",
+  "created": "2020-04-17T04:14:55.000Z"
+}

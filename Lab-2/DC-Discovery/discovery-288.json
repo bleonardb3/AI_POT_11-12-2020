@@ -1,0 +1,79 @@
+{
+  "id": "b34a7ff7548d40c12494f27d2c254e5a",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "laid off",
+        "confidence": 0.924959,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "My job let me go on Monday and I need to find a new one ASAP or another source of income. I have enough savings for April’s rent and spendings but that’s it.\n\n- I will be filing for unemployment. Does anyone know how long the approval process will take? And how much is given?\n- Do you have any other suggestions as far as applying to jobs? Should I focus on applying for remote jobs only?\n- My background is restaurant/customer service and independent artist (watercolor/oil)\n\nThanks for your time and any insights you can give!\n\nEDIT: I really appreciate everyone who reply/dm me about this! Your support and encouragements means a lot to me. You guys are literally the best ❤️",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "My job let me go",
+        "confidence": 0.902826,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.862602,
+          "label": "positive"
+        },
+        "text": "rent",
+        "confidence": 0.898482,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "unemployment",
+        "confidence": 0.879795,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "a0beea3fa9b36393da480c9d52f2862c21522bf0",
+    "filename": "relevant-dc-767.json",
+    "file_type": "json"
+  },
+  "title": "I’ve been laid off and need advice regarding finding a new job/source of income.",
+  "created": "2020-03-18T03:27:06.000Z"
+}

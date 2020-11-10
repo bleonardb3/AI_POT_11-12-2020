@@ -1,0 +1,124 @@
+{
+  "id": "c79475d8024718d4ae03a8be4fb30640",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "parking",
+        "confidence": 0.946092,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I am out driving around the city a lot right now (I work at a news network, and with my job there is no way to fully work from home) and I’ve noticed 5 or 6 times I’ve seen Parking Enforcement out ticketing cars in the last two days. This is way more than I usually see, and there are way less cars parked right now. All tickets appeared to be for expired meters. \n\nI’m all for increasing ticketing for red zones and illegal parking, we need those spots for emergency responders if this gets really bad. But we need to do what Los Angeles did and suspend all minor parking violations. We don’t need people going out and moving their cars every two hours.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.625268,
+          "label": "negative"
+        },
+        "text": "parking",
+        "confidence": 0.95824,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.66984,
+          "label": "negative"
+        },
+        "text": "Parking",
+        "confidence": 0.954493,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.66984,
+          "label": "negative"
+        },
+        "text": "driving",
+        "confidence": 0.888764,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.66984,
+          "label": "negative"
+        },
+        "text": "work from home",
+        "confidence": 0.883915,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.66984,
+          "label": "negative"
+        },
+        "text": "work at a news network",
+        "confidence": 0.866777,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.972845,
+          "label": "negative"
+        },
+        "text": "parking",
+        "confidence": 0.617628,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "ad305a9cfd2f27b6890e22eaf028f69715b653cb",
+    "filename": "relevant-dc-715.json",
+    "file_type": "json"
+  },
+  "title": "Anyone else notice an increase in parking enforcement?",
+  "created": "2020-03-19T03:39:22.000Z"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "e8d92510df4f9eb41d4d8116e621c386",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hey guys. I am moving to DC in July with a job working for the government. I want to know what neighborhoods in DC are mostly young millennials (Age 20-35)? I read a lot about DC being filled with young people who are creative and love travelling. Here are the factors I am using to choose a neighborhood:\n\n&#x200B;\n\n\\-Concentration of young people\n\n\\-Food options (Fast casual >>> fancy restaurants)\n\n\\-Vibrant nightlife close by\n\n\\-Good Date spots \n\n\\-Density\n\n\\-Access to Public Transportation\n\n&#x200B;\n\nI am likely going to live with roommates so quality renting options will be a factor too. ",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.870162,
+          "label": "positive"
+        },
+        "text": "job working for the government",
+        "confidence": 0.827461,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "cdd4b09471031abf5e863821102c844c045052da",
+    "filename": "relevant-dc-82.json",
+    "file_type": "json"
+  },
+  "title": "What Neighborhoods have the most Young People?",
+  "created": "2020-04-21T04:39:58.000Z"
+}

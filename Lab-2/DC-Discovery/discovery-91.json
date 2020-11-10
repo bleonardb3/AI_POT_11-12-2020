@@ -1,0 +1,38 @@
+{
+  "id": "5ac1cc0aa2f1099372efb465ad5077d0",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Please delete if this breaks any rules or is invoking panic.\n\nI'm a student in DC. We have been told by our RAs that the city is going on total shutdown by Thursday at the earliest. I have friends (permeant DC residents) who will not be able to re-enter the city until after then. Is there any truth to those rumors? \n\nI'm leaving the city within the day.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "student",
+        "confidence": 0.750618,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "62540c2247fbb6444eb82ae988b4deb6bce62306",
+    "filename": "relevant-dc-744.json",
+    "file_type": "json"
+  },
+  "title": "Any news on a possible shutdown of the city?",
+  "created": "2020-03-18T09:21:44.000Z"
+}

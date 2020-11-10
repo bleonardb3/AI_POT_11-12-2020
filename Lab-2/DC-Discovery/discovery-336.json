@@ -1,0 +1,52 @@
+{
+  "id": "2c4ebc944b5a3c9a31768d0b08acf0ff",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hello, I’m graduating from university in May, and barring the COVID-19 situation, I should be moving to Arlington (specifically Ballston) in early July. I’m worried about making friends/meeting people as I know absolutely N O B O D Y in the city and surrounding areas, and this is my first time moving to a large city alone! If this sounds like you, leave a comment and let’s see if we can get a meetup going for all us new grads!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.553422,
+          "label": "negative"
+        },
+        "text": "university",
+        "confidence": 0.870278,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.927834,
+          "label": "positive"
+        },
+        "text": "new grads",
+        "confidence": 0.700189,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "9892ee951063d1618791f7964d55566a0b602301",
+    "filename": "relevant-dc-142.json",
+    "file_type": "json"
+  },
+  "title": "Moving to Arlington after college? Let’s meet up!",
+  "created": "2020-04-16T06:20:00.000Z"
+}

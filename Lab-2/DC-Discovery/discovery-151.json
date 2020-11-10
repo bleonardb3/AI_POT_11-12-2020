@@ -1,0 +1,52 @@
+{
+  "id": "4b3f659b09d1a9a53dadff88417e2c41",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I recently moved, and my new building has a pretty great gym (though it’s currently closed alongside every other amenity in the building). I previously had a WSC membership at the Columbia Heights location. I’ve read about them being a nightmare for cancelation before—they’ve been sued by the District twice for their billing and cancellation practices. That’s even worse now, though, with everything being closed. So, any clue on how to cancel my membership in the age of Coronavirus when every location is shuttered?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.971075,
+          "label": "positive"
+        },
+        "text": "my new building",
+        "confidence": 0.754095,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.971075,
+          "label": "positive"
+        },
+        "text": "building",
+        "confidence": 0.58125,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "f2682ed6279446f6ea27a410b0a01fda1d0c1784",
+    "filename": "relevant-dc-447.json",
+    "file_type": "json"
+  },
+  "title": "How to cancel Washington Sports Club Membership",
+  "created": "2020-03-29T11:02:31.000Z"
+}

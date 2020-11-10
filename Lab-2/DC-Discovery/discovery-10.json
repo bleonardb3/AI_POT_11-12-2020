@@ -1,0 +1,68 @@
+{
+  "id": "44d0b90f4a7ea9a0990ccbc8956b1f1c",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "So I will be starting at Georgetown Law and living on campus in the fall. I also plan to bike as much as I can. As for transportation to dc, I plan to drive to the city and also take the buses leaving from union station (I live in NY).  \n\nSo, my question: Georgetown estimates the cost of transportation to be  $3,276 / year in DC. That seems rather high to me. How much should I realistically budget for transportation on the metro per year? (10 months)\n\n\nEDIT: I should have clarified I do not own a car my parents would just drop me off for moving in/out. Sorry for the confusion!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "starting at Georgetown Law",
+        "confidence": 0.842465,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "living on campus",
+        "confidence": 0.724392,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.876691,
+          "label": "negative"
+        },
+        "text": "car",
+        "confidence": 0.631554,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "c8c62ea81b8cf3c6d9101a5942920dd82322f7a0",
+    "filename": "relevant-dc-461.json",
+    "file_type": "json"
+  },
+  "title": "Question about cost of Transporation in DC",
+  "created": "2020-03-29T00:18:13.000Z"
+}

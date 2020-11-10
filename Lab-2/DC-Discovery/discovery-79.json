@@ -1,0 +1,38 @@
+{
+  "id": "f1855d8e5f31b629343bea7ea9bd1625",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "My Airbnb (which is actually a legal 1 bedroom/1 bathroom apartment) is empty until June and I’m happy to host someone from my community who is giving back to my community at no cost.\n\nUpdate to add location:  NE DC near Gallaudet/Union Market.\n\n2nd update: I’ve found an ER nurse who will be staying through April 25 but I’m committed to offering it through June 1 if anyone else has a need!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.722298,
+          "label": "positive"
+        },
+        "text": "apartment",
+        "confidence": 0.982171,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "06defaac8e2ec4e3e257de7dfd1774f0b32075c2",
+    "filename": "relevant-dc-460.json",
+    "file_type": "json"
+  },
+  "title": "Know a DC medical professional helping with the Covid efforts with a housing issue? (Can’t go home to family for fear of infecting them, for example.)",
+  "created": "2020-03-29T01:12:55.000Z"
+}

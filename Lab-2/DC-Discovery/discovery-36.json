@@ -1,0 +1,155 @@
+{
+  "id": "6cd5beecebb3fba4fc9caf41dd1468ac",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "roof",
+        "confidence": 0.989056,
+        "type": "Home_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Recently bought my first home in DC - the home needs a new flat roof. I have gotten a few estimates for a flat roof replacement which would also include replacing gutters and downspouts and adding attic insulation. They would remove old layers and put a whole new roof on. The estimates have ranged from 10500-14000 and there is a variation in material that would be used(metal, fibertite). The roof size is probably no bigger than 600 sq ft. \n\nCan anyone provide any insights on if these estimates sound accurate enough? I don't know if you need more specific info but I want to make sure these aren't atypical estimates. If you have any flat roof contractor recommendation, please PM me.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.631364,
+          "label": "positive"
+        },
+        "text": "roof",
+        "confidence": 0.996201,
+        "type": "Home_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.429322,
+          "label": "negative"
+        },
+        "text": "roof",
+        "confidence": 0.971227,
+        "type": "Home_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "roof",
+        "confidence": 0.967183,
+        "type": "Home_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.6122,
+          "label": "negative"
+        },
+        "text": "roof",
+        "confidence": 0.960236,
+        "type": "Home_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "roof",
+        "confidence": 0.939456,
+        "type": "Home_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.6122,
+          "label": "negative"
+        },
+        "text": "my first home",
+        "confidence": 0.807984,
+        "type": "Home_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.631364,
+          "label": "positive"
+        },
+        "text": "attic",
+        "confidence": 0.689072,
+        "type": "Home_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.6122,
+          "label": "negative"
+        },
+        "text": "home",
+        "confidence": 0.51382,
+        "type": "Home_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "b5549996bbe3b42c794537cfbce6c14ce1c06d16",
+    "filename": "relevant-dc-11.json",
+    "file_type": "json"
+  },
+  "title": "[Question] flat roof replacement/estimates- recommendations?",
+  "created": "2020-04-24T08:28:47.000Z"
+}

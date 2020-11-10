@@ -1,0 +1,83 @@
+{
+  "id": "350a805a49242cdb47a1def5a7b738e4",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hi everyone, I am moving to DC for the first time. I’ve done an extensive search on apartments that are near public transportation that I could take to work. I found an apartment near P and 9th and another near U and 14th. Suppose I am indifferent between the prices of the two apartments, is one area significantly less safe than the other? In particular, walking home from a metro station or bus stop in the evenings. Both areas have great bars & restaurants but should I be wary of walking proximate to either of those intersections? I’m aware U and 14th is probably super loud on weekends. \n\nThanks for your help and insight in advance!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "apartment",
+        "confidence": 0.991829,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.462272,
+          "label": "positive"
+        },
+        "text": "apartments",
+        "confidence": 0.934252,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.834438,
+          "label": "negative"
+        },
+        "text": "apartments",
+        "confidence": 0.921803,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.462272,
+          "label": "positive"
+        },
+        "text": "public transportation",
+        "confidence": 0.892814,
+        "type": "No_Vehicle",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "63e7b3999eacfe308d39e27c45ab359fa1a0098d",
+    "filename": "relevant-dc-349.json",
+    "file_type": "json"
+  },
+  "title": "Moving help: Cardozo or Shaw safety",
+  "created": "2020-04-03T06:16:08.000Z"
+}

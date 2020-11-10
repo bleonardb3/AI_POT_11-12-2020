@@ -1,0 +1,79 @@
+{
+  "id": "9e92da695524b63c32d54173bdf2b7ee",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "University",
+        "confidence": 0.860119,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I've been accepted to the MPP program at AU and at UMD, and I'm trying to decide where to go. My main concern with AU is housing. From my research, it seems studios near campus or on the Red Line start at $1500 - too much. My options then would be to room with somebody or live further away. I also worry I'd have to rent without having the chance to visit the property, given the pandemic. \n\nDoes anyone have any advice for my situation - good apartment options, places to avoid, or general pointers on finding D.C. housing?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.762589,
+          "label": "negative"
+        },
+        "text": "apartment",
+        "confidence": 0.974592,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.910882,
+          "label": "negative"
+        },
+        "text": "rent",
+        "confidence": 0.825939,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.538536,
+          "label": "negative"
+        },
+        "text": "studios",
+        "confidence": 0.776074,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "ec9318db79d01820961fc7056153f206b69c3ab9",
+    "filename": "relevant-dc-204.json",
+    "file_type": "json"
+  },
+  "title": "Housing near American University",
+  "created": "2020-04-12T07:17:28.000Z"
+}

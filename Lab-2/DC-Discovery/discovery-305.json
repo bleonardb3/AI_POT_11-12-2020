@@ -1,0 +1,37 @@
+{
+  "id": "d1b6d44de4eab272e02e0b96f45a2637",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "We are moving on Friday, 4/10....do you think it would be too early if we posted our “emergency reserved no parking “ signs for the moving truck at our new place on Saturday 4/4? It says to post at least 72 hours....worried that if we post it too early they will get ripped down, weather, etc. BUT Otherwise we would not be able to post the signs until 4/8...(we have limited access to a car )....thoughts ???",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.312419,
+          "label": "negative"
+        },
+        "text": "parking",
+        "confidence": 0.681934,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "d037dc213d5b10f18c30e6e928023d8193e2a0bf",
+    "filename": "relevant-dc-366.json",
+    "file_type": "json"
+  },
+  "title": "How early is too early to post our emergency reserved no parking signs for our moving truck ?",
+  "created": "2020-04-02T07:20:47.000Z"
+}

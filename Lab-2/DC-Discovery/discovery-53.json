@@ -1,0 +1,68 @@
+{
+  "id": "02d60be66f867063224265f7e8808118",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "My partner, our friend, and I are looking to move to the DC area sometime this winter, and we’re starting to research neighborhoods and suburbs to live in. We are not planning on having to commute into DC every day, but we would like to be able to (keep our cars drive to the metro and easily go to places (mostly the zoo) from there.\n\nIdeally:\n1. Quiet, safe area\n2. Within walking distance to a metro stop, or within a 15min drive to a metro with a large commuter lot\n3. <$3,000/month rent for 3 bedrooms\n\nAny suggestions?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "drive",
+        "confidence": 0.875928,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.496053,
+          "label": "positive"
+        },
+        "text": "drive",
+        "confidence": 0.867933,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.496053,
+          "label": "positive"
+        },
+        "text": "our cars",
+        "confidence": 0.804956,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "44552f973cf659a76bd2b3a85afbe6eb70720275",
+    "filename": "relevant-dc-76.json",
+    "file_type": "json"
+  },
+  "title": "Looking for the perfect neighborhood outside the city...",
+  "created": "2020-04-21T11:20:07.000Z"
+}

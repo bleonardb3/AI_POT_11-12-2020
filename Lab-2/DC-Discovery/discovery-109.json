@@ -1,0 +1,79 @@
+{
+  "id": "b581372a302adb9c4d3a5e8ac34e5384",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "apartment",
+        "confidence": 0.927583,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I'm looking for an apartment that commutes close to downtown. The rent that i can afford is $1100. Does anyone know any good apartments for me to checkout?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "apartments",
+        "confidence": 0.942555,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "rent",
+        "confidence": 0.927225,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "apartment",
+        "confidence": 0.895259,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "fd430d620da2103aa612fcfa4bd95a5aabeb46f4",
+    "filename": "relevant-dc-120.json",
+    "file_type": "json"
+  },
+  "title": "Need help looking for apartment in downtown D.C?",
+  "created": "2020-04-17T11:56:38.000Z"
+}

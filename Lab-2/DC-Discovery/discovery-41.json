@@ -1,0 +1,53 @@
+{
+  "id": "1f263a5b24d3f03c571ca113edca0d5e",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hi, I am wondering if there are any students out there who will be attending any graduate programs at UDC this fall. I will be in the speech program at UDC beginning in the fall and think it would be nice to meet people that will also be there. I am from Maryland and attended school in Baltimore.\nI am also wondering if there are any off campus student housing options that anyone knows about?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "off campus student housing options",
+        "confidence": 0.906288,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.781119,
+          "label": "negative"
+        },
+        "text": "students",
+        "confidence": 0.792946,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "07a3e803b2521517935be4b3b80be33026571e0f",
+    "filename": "relevant-dc-23.json",
+    "file_type": "json"
+  },
+  "title": "UDC incoming student",
+  "created": "2020-04-23T22:24:27.000Z"
+}

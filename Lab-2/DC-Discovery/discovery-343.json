@@ -1,0 +1,49 @@
+{
+  "id": "959762bf4a23cd0d85bfb99eae010377",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "mortgage",
+        "confidence": 0.667114,
+        "type": "Home_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "My fiance wants to qualify on his own to make sure we're keeping payments affordable, but if we do that, we can only afford in, like, parts of Prince George's County, where our commute will be longer. Is it common to base mortgages on one income, or, given the high cost of living here, do most dual income families live on both? What percentage of your pre-tax (or post-tax) income goes to it? Thanks in advance.\n\nEdit: We could afford EoTR, but the commute would be worse than living in PG. We could also afford a 1-bedroom condo, but we're looking for 2 bedrooms+, especially with us both working from home now.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "mortgages",
+        "confidence": 0.69688,
+        "type": "Home_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "3e4c7beadc2fd791b99c779b4dc4420220409a02",
+    "filename": "relevant-dc-434.json",
+    "file_type": "json"
+  },
+  "title": "Couples, what percentage of your income do you pay on your mortgage? Could you afford it on one income?",
+  "created": "2020-03-30T20:27:48.000Z"
+}

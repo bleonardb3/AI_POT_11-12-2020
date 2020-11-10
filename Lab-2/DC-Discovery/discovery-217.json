@@ -1,0 +1,21 @@
+{
+  "id": "b3406b66b49bd0f5488a6e0ba064f3cb",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hey all, just moved back to DC a couple months ago and haven’t had a chance to find a doctor thanks to COVID. Does anyone know providers in the area offering telehealth options?\n\nI have carefirst healthyblue advantage for what it’s worth. I mainly just need to get my recurring prescriptions through a new doctor.",
+  "enriched_text": {
+    "entities": []
+  },
+  "extracted_metadata": {
+    "sha1": "0de6ea091c39f989fe4d0e097ce87beb74490177",
+    "filename": "relevant-dc-45.json",
+    "file_type": "json"
+  },
+  "title": "Telehealth providers in the area?",
+  "created": "2020-04-22T22:57:04.000Z"
+}

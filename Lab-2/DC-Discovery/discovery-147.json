@@ -1,0 +1,49 @@
+{
+  "id": "a678137359ce15fcb3f491e29ea45bd9",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Trusted Health Plan",
+        "confidence": 0.93642,
+        "type": "Medically_Insured",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Also does Trusted have any Oral and Maxillofacial specialist? I have a spreading tooth infection that's going through my face and skull.\n\n\n\nThis is a D.C. based insurance service, it has to do with d.c. Mr.Moderator.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "insurance service",
+        "confidence": 0.769711,
+        "type": "Medically_Insured",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "42fe55c25d02563eb403c7881218c7b5229984c7",
+    "filename": "relevant-dc-717.json",
+    "file_type": "json"
+  },
+  "title": "Does Trusted Health Plan cover teeth cleanings?",
+  "created": "2020-03-19T03:20:16.000Z"
+}

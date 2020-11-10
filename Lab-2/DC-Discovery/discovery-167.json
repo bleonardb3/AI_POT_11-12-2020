@@ -1,0 +1,67 @@
+{
+  "id": "7a52e429037831ff2af3117d2e5f418f",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hey guys I was born and raised in the city dcps my whole life about to graduate and everybody heard of udc not the best but but very wallet friendly compared to all other options, 1 how was your experience like do people bash the school more than it should be? And second I’m planning to go there for workforce development one of their campuses is in Congress heights I know the south side but not like that should I have to worry about that campus like train, parking etc? Any other recommendations? (Trying to become a hvac technician)",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.781143,
+          "label": "negative"
+        },
+        "text": "about to graduate and everybody heard of udc",
+        "confidence": 0.934157,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.869092,
+          "label": "negative"
+        },
+        "text": "campus",
+        "confidence": 0.719641,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.869092,
+          "label": "negative"
+        },
+        "text": "campuses",
+        "confidence": 0.705065,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "5ffdee3915bf4b4435566c0a7fb8e7a506ac3405",
+    "filename": "relevant-dc-49.json",
+    "file_type": "json"
+  },
+  "title": "Your UDC thoughts and advice",
+  "created": "2020-04-22T14:58:40.000Z"
+}

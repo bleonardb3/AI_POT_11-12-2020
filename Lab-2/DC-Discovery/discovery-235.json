@@ -1,0 +1,82 @@
+{
+  "id": "5c7902515744f54a49c016843d59a8cd",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I have a garden level (half underground) patio with my condo,which is at its furthest about 6 feet away from the house. I am looking to get a small grill, ideally gas but possibly charcoal. The patio is fully cement, and the siding is some kind of plastic. Do the 10' rules apply here, and if so how strictly are rules like this enforced?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "patio",
+        "confidence": 0.934834,
+        "type": "Home_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.711448,
+          "label": "positive"
+        },
+        "text": "patio",
+        "confidence": 0.929419,
+        "type": "Home_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.711448,
+          "label": "positive"
+        },
+        "text": "house",
+        "confidence": 0.697828,
+        "type": "Home_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.711448,
+          "label": "positive"
+        },
+        "text": "condo",
+        "confidence": 0.62652,
+        "type": "Home_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "725e5b4a80915202820ba91f54fd73010d832d93",
+    "filename": "relevant-dc-12.json",
+    "file_type": "json"
+  },
+  "title": "Grill restrictions in DC and enforcement",
+  "created": "2020-04-24T07:42:33.000Z"
+}

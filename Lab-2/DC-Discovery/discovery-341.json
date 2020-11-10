@@ -1,0 +1,95 @@
+{
+  "id": "2fd18fef06e74c914a272a3c599bd63d",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "lease",
+        "confidence": 0.857736,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I need to break my lease early, and unfortunately my lease’s buyout option requires a $6,000 payment and 60 days notice. Obviously, I shouldn’t have signed this lease, but here we are. \n\nHas anyone ever had any luck getting out of some or all of a payment like that? How about the notice period? I figure there is no harm in asking them, but it is a pretty big management company and I doubt they care about a financial hardship or me as a person. I am wondering if there is a DC limit on buyout payments - 6k seems really harsh. I couldn’t track anything down in the rental laws. \n\nThanks for any input!\n\nEdit: never heard from OTA. The building will not budge on the fee or notice period (as expected). They will allow it to be paid in smaller chunks, though, which helps. Subleasing permitted but I’d be on the hook if the person didn’t pay.\n\nEdit 2: OTA reached out today by email.\n\nEdit 3: I heard back from an OTA attorney advisor. He was very understanding and provided a thoughtful response. Ultimately the fee is very high - among the highest he has seen. He stated that while a liquidated damage is acceptable to charge, a penalty is not. There is some point where the fee is so high it becomes an unenforceable penalty but he is not sure I am there. He said some other things but I think this is the basics.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.447503,
+          "mixed": "1",
+          "label": "positive"
+        },
+        "text": "rental",
+        "confidence": 0.996557,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.761605,
+          "label": "negative"
+        },
+        "text": "lease",
+        "confidence": 0.987279,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.967915,
+          "label": "negative"
+        },
+        "text": "lease",
+        "confidence": 0.985006,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.967915,
+          "label": "negative"
+        },
+        "text": "lease",
+        "confidence": 0.934898,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "272ab74118ff9e81145ae8afe019b8a3d431631b",
+    "filename": "relevant-dc-438.json",
+    "file_type": "json"
+  },
+  "title": "Breaking a lease payment",
+  "created": "2020-03-30T06:17:15.000Z"
+}

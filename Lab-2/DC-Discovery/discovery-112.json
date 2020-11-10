@@ -1,0 +1,21 @@
+{
+  "id": "e3800cc362244bc2de590108c2f713ca",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hi all, I've lived in the DMV for about a year now and a while back, I was planning on riding all 91 metro stops in one day. This obviously can't happen for the time being, but lately I was thinking about another version of this challenge- instead of passing through all of them in one day, what about stopping at all the metro stations and visiting one \"iconic\" thing near each stop? Not necessarily to be done in one day (that would be so expensive!), but I was wondering, what places would you choose for each metro stop? \n\nRules are the place can't be less than a 10 minute walk from the metro station its representing, and (this only matters for places where the metro stops are very close to each other) there can't be another metro stop closer to the place than the stop its chosen for. Closer to the stop, the better. And the \"place\" has to be something specific, like a particular building, statue, location, etc- not just a general area.\n\nBelow are a few examples I came up with (lol you can tell I live on the red line). Would love to hear y'all's ideas for other stops or if you have better ones for the ones I listed! I'm especially curious about stations that are more on the fringes.\n\n- Rockville: Rockville Town Square\n\n- Grosvenor-Strathmore: Strathmore Music Hall\n\n- Medical Center: NIH Building 10 Clinical Center\n\n- Bethesda: Bethesda Row (idk of a specific place on it though)\n\n- Woodley Park-Zoo/Adams Morgan: Smithsonian Zoo entrance(?)\n\n- Dupont Circle: Dupont Circle Fountain\n\n- Gallery Pl-Chinatown: Chinatown Arch\n\n- Union Station: tbh Union Station itself",
+  "enriched_text": {
+    "entities": []
+  },
+  "extracted_metadata": {
+    "sha1": "67f4cb1a5ab3378275e14b4fd7ffd639e2ae34a2",
+    "filename": "relevant-dc-222.json",
+    "file_type": "json"
+  },
+  "title": "Iconic places for each Metro stop?",
+  "created": "2020-04-10T23:49:31.000Z"
+}

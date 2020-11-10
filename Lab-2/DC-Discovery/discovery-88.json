@@ -1,0 +1,50 @@
+{
+  "id": "3da669c0b73414da7c557da48887f99e",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Car",
+        "confidence": 0.676109,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Had my car window smashed sometime in the past 2 days near DuPont. Found it this morning with nothing stolen, didn’t even take the hand sanitizer! Filed a report and waiting to hear a call back from an officer. Understanding that this is an unusual time for the PD, when do the officers get back to you? Assuming that they eventually do. Thanks!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "car",
+        "confidence": 0.85708,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "db84f2110bb525745b01364e0a05c04434792c88",
+    "filename": "relevant-dc-98.json",
+    "file_type": "json"
+  },
+  "title": "Car Break-in in DuPont",
+  "created": "2020-04-20T04:12:14.000Z"
+}

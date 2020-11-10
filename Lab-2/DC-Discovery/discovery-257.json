@@ -1,0 +1,37 @@
+{
+  "id": "d3820e607ba1dc8f93f95f970e605c3b",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "washingtondc",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hey, new resident.  After I got my license the DC BOE mailed me my voter registration card.  Now, in the last 3 months, they've mailed me new ones on 3 occasions.  Only once was because they moved our voting location.  What's up?  Am I supposed to do something like mail them something back?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "license",
+        "confidence": 0.871351,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "dd4a4abc8e09480afd940c5a05cb8d634fba8a4c",
+    "filename": "relevant-dc-594.json",
+    "file_type": "json"
+  },
+  "title": "DC BOE keeps mailing me new voter registration cards, why?",
+  "created": "2020-03-22T02:49:37.000Z"
+}
