@@ -1,0 +1,82 @@
+{
+  "id": "a867df20d916371d81c5e1e5eaf253e7",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "LosAngeles",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": " \n\n(I've Googled this extensively but it all seems quite grey at the moment.)\n\nWe live in a newer high rise downtown and our lease expires this month. Our next month's base rent is now listed at an increase of $802 (+19.4%), which seems insane even under normal circumstances.\n\nFrom my research it appears the Rent Control max only covers apartments built before 1978, which ours (2015), was definitely not.\n\nOn top of this we have received no notice, no renewal options and the Management will not respond to emails or calls for the last two weeks.\n\nDoes anyone have any insight/experience/advice with this?  \nI will continue to Google myself, you guys just seem to have a lot of helpful knowledge here. THANKS!!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.636942,
+          "label": "negative"
+        },
+        "text": "Rent",
+        "confidence": 0.95136,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.636942,
+          "label": "negative"
+        },
+        "text": "apartments",
+        "confidence": 0.926247,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.758935,
+          "label": "negative"
+        },
+        "text": "rent",
+        "confidence": 0.898437,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.856001,
+          "label": "positive"
+        },
+        "text": "lease",
+        "confidence": 0.868737,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "0aef1afecd688d0e24b7b6fa69339b48c877c5da",
+    "filename": "relevant-LA-405.json",
+    "file_type": "json"
+  },
+  "title": "Is this legal?",
+  "created": "2020-04-14T11:38:10.000Z"
+}

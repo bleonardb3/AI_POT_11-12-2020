@@ -1,0 +1,53 @@
+{
+  "id": "9c1ac843df2fd9e9feec9833a26e8aaf",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "LosAngeles",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hi all,\n\nSo I applied March 14th for unemployment I got my letter to certify for two weeks for unemployment the last week of March. \nEverything looked to be going smoothly and my payments were approved, but I'm still waiting on my card...anyone else in a similar situation?\nI've tried calling, but you guys know the deal with that. Basically tried any point of contact to no avail.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.490011,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.973535,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.490011,
+          "label": "negative"
+        },
+        "text": "two weeks for unemployment",
+        "confidence": 0.857622,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "7fd105aee225f2a1f5674a014fb61ff20537e76f",
+    "filename": "relevant-LA-408.json",
+    "file_type": "json"
+  },
+  "title": "Edd card- is anyone waiting on there card but payments have been certified?",
+  "created": "2020-04-14T09:17:57.000Z"
+}

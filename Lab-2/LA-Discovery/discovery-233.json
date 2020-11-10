@@ -1,0 +1,49 @@
+{
+  "id": "f0d807541076e2442d12f3ef3f5e59a0",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "LosAngeles",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Parking",
+        "confidence": 0.80478,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I just spoke to someone i was transferred to via 311. Just a heads up 2hr time limit in non metered, non permitted street is still being enforced. At least here in sherman oaks.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.642069,
+          "label": "negative"
+        },
+        "text": "2hr time limit in non metered, non permitted street",
+        "confidence": 0.903265,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "f0b820e4260aec103fc27cf93cfe8a8e080282ae",
+    "filename": "relevant-LA-883.json",
+    "file_type": "json"
+  },
+  "title": "Parking in a 2hr time limit",
+  "created": "2020-04-02T06:46:40.000Z"
+}

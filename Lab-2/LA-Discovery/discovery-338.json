@@ -1,0 +1,37 @@
+{
+  "id": "015a525ea8c09f880fcf074770b8ae22",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "LosAngeles",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "It's my wife's birthday this weekend and was wondering if anyone knew of any places within and around the city that are isolated where you could drive and park your car to enjoy outdoors for a picnic or something? I don't want to endanger anyone or break any county rules but was just hoping to get us outside of the house for a couple hours to make it at least a little memorable.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.430524,
+          "label": "negative"
+        },
+        "text": "drive and park your car",
+        "confidence": 0.922066,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "36b5681e5c55cfb8f1f549316b8e97116f8f48fe",
+    "filename": "relevant-LA-142.json",
+    "file_type": "json"
+  },
+  "title": "Isolated outdoors spot?",
+  "created": "2020-04-22T02:49:34.000Z"
+}

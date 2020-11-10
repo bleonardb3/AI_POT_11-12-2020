@@ -1,0 +1,21 @@
+{
+  "id": "5fb89a2ff27668c31b1896d88c04413c",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "LosAngeles",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Been with the same company for 4 years and every year so far we would get a raise and annual bonus for certain positions. We were told today that although we will still be getting our bonuses, there will be no raises.  Wondering if this is because of  coronavirus or just being frugal since they did not give a reason.   Are you getting an annual bonus this year or is this common throughout because of everything that’s going on?",
+  "enriched_text": {
+    "entities": []
+  },
+  "extracted_metadata": {
+    "sha1": "d680cb49798fbf22de22c28249c2dce1d4feca5c",
+    "filename": "relevant-LA-66.json",
+    "file_type": "json"
+  },
+  "title": "Are you getting a raise this year?",
+  "created": "2020-04-24T00:51:50.000Z"
+}

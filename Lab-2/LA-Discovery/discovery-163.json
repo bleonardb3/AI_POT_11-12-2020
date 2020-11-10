@@ -1,0 +1,79 @@
+{
+  "id": "029b4ab750e5a001a31bd93a85a1b171",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "LosAngeles",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment Info",
+        "confidence": 0.869684,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Sorry if this is been posted a few times already but I just got my EDD notice after filing a couple of weeks ago. I sort of need the money and can't afford to be in limbo for too long.\n\n1) My SSN is wrong \n\n2) It shows that I made no wages whatsoever and the employer mailing address is wrong but employer name is right\n\n3) It did not contain a EDD Customer Account # so I cant do anything online\n\n The first two are wrong, but the unemployment office is closed already and wont open until tomorrow.\n\nHas anyone else experienced this issue? Did calling resolve the issue? \n\nI'm sure I didn't input the wrong info but I can't even go back to view my submission since I dont have the account #. Any help would be greatly appreciated",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.963175,
+          "label": "negative"
+        },
+        "text": "unemployment office",
+        "confidence": 0.960747,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.8995,
+          "label": "negative"
+        },
+        "text": "EDD Customer Account #",
+        "confidence": 0.954508,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.889885,
+          "label": "negative"
+        },
+        "text": "my EDD notice",
+        "confidence": 0.940713,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "ccdd72981586d96d5e15cf8fd9429ae3d9cc9991",
+    "filename": "relevant-LA-556.json",
+    "file_type": "json"
+  },
+  "title": "Unemployment Info Wrong Please Help",
+  "created": "2020-04-10T06:17:23.000Z"
+}

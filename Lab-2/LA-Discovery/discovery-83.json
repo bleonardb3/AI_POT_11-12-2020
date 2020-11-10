@@ -1,0 +1,53 @@
+{
+  "id": "6746656e9da32a5c5e35a5077ecd694c",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "LosAngeles",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I am a first responder and everyday before and after work I'm stopping at 5-7 empty crosswalks becuase some genius decided all the crosswalks in DTLA should just cycle on and off instead of being used for their intended purpose. What city official decided that since there isn't much traffic we should double the amount of red lights and stopping?? This is incredibly annoying. Less people less cars... slow the people down. Not only is stop and go driving bad for car engines it is also bad for gas milage and the overall health of the climate. \n\nI know this post won't amount to anything but I'm venting. If the idea is to slow down cars...it shouldn't matter... people shouldn't be out on the streets anyways. Anyone else have ideas how to make this stop or who I could contact to ask why?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.921907,
+          "label": "negative"
+        },
+        "text": "car engines",
+        "confidence": 0.829565,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.79665,
+          "label": "negative"
+        },
+        "text": "first responder",
+        "confidence": 0.735571,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "a7d282815f30b07dd58f4d3b629bf20cfd24596a",
+    "filename": "relevant-LA-517.json",
+    "file_type": "json"
+  },
+  "title": "Whose bright idea was it to turn on all the crosswalks in DTLA?",
+  "created": "2020-04-11T01:57:51.000Z"
+}

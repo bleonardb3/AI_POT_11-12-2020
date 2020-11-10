@@ -1,0 +1,79 @@
+{
+  "id": "dc4e044c7d6a8660b55aa114d118c6a3",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "LosAngeles",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "My house",
+        "confidence": 0.948744,
+        "type": "Home_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "My house was broken into a couple of weeks ago. It was being tented a handful of weeks ago because we had a really bad termite problem during the summer. It the morning of the last day that my house was being tented is when they broke in, at 4 am in the morning. They had a little over 30 minutes in my house. Unfortunately, my bedroom was their treasure chest. \n\nThey took a lot of my items. Of course one can assign a monetary value to these items but they have a lot of sentimental value to me. If you see these online or in person, please let me know.\n\nTDLR: House was broken into and these items were stolen from me. They hold a lot of sentimental value to me.\n\n* Nikon D3200 + 35-55mm Kit Lens + 32 Gigabyte Monster SD Card - this was my first camera. I owned for at least 3 years, it been on a lot of vacations. It has taken memories that I associated with the camera. A lot of fun memories were taken with it. I learned all about cameras with this camera. I really miss not taking pictures with it. I did backup my SD card to my computer before my house got tented. You know, just in case 😞\n* Matt Black iPhone 7 Plus with Pitaka Case - This was my all-time favorite iPhone ever made. I originally bought an iPhone 7 Plus a while ago on eBay with the intent to fix it but it turned out that it had a bad Audio IC chip, a defect in the iPhone 7 series. So, I took that iPhone to Apple and they gave me a replacement iPhone 7 Plus for free. I wrote [a post on Reddit](https://www.reddit.com/r/apple/comments/8tboxc/unofficial_iphone_7_series_replacement_program/) about it, helping dozens of people fight Apple to get their device to be replaced. This post was mentioned in [an iFixit article](https://www.ifixit.com/News/32783/how-to-fix-a-grayed-out-speaker-icon-on-the-iphone-7-or-7-plus) too! This is the replacement iPhone 7 Plus.  I really miss it. **IMEI - 355350088520820 SN - FYQWR1JQHFY7**\n* Gold iPhone 5s - my sister gave it to me when she upgraded to an iPhone X. It has a lot of pictures on there that are very valuable to my sister. **IMEI - 013845007654893 SN - F2LMT9W2FFFM**\n* iPad 4th Generation + Original Box - this was the first Apple device that I bought with my own money. I used it every single day until I upgraded to an iPad Pro. **SN - DMPM9868F182**\n* Tournament of Roses 2019 Shoulder Backpack - this one hurts the most. I was in the 2019 Rose Parade as a banner carrier. I was one of the first scouts from the south bay to participate in any Rose Parade, as a banner carrier. In the months leading up the parade, I participated in as many Rose Parade Events/Activities as I could; despite the long drive to Pasadena. I enjoyed every single moment at those events, especially putting the fence around the Tournament House. I got to know my troop leaders very well through these events. Walking Rose Parade itself was an experience by itself. Walking around tv corner was a once in a lifetime opportunity, seeing all of the cameras pointing at me. It was an amazing 5+ mile walk. One of the events leading up the parade was a reception at the Tournament House, where I got to tour the Tournament House and I got my picture taken with the queen and her royal court. Also at the reception, I got this backpack. I held all of the memories from the rose parade with this backpack. This was their getaway backpack. I saw one of them wearing it in my family room, where there was an infrared camera. He was wearing it right there. He put all of my things in it, treating it as nothing. **It looks a lot like** [**this backpack**](https://photos.app.goo.gl/qdTd7arwN6HKDJNJ6) but it says 2019 instead of 2018. It's one of a kind.\n\nIf possible, could you keep an eye out for these items? I would really appreciate it. Thank you.\n\nSorry if I made any grammatical or spelling errors, got emotional writing this. Guess I'm still grieving.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.701226,
+          "label": "negative"
+        },
+        "text": "My house",
+        "confidence": 0.948744,
+        "type": "Home_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.885135,
+          "label": "negative"
+        },
+        "text": "my house",
+        "confidence": 0.918406,
+        "type": "Home_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.952293,
+          "label": "negative"
+        },
+        "text": "House",
+        "confidence": 0.726222,
+        "type": "Home_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "9282db3232ae3afb414b9322c739842af8f7925d",
+    "filename": "relevant-LA-535.json",
+    "file_type": "json"
+  },
+  "title": "My house was broken into and a lot of my stuff was stolen. Can you keep an eye out for these items?",
+  "created": "2020-04-10T13:01:31.000Z"
+}

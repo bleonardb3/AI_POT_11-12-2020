@@ -1,0 +1,79 @@
+{
+  "id": "607eda9dbb0575e62fde8360f4ae6a98",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "LosAngeles",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "group of students",
+        "confidence": 0.873698,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Hi there fellow Angelenos!\n\nI’m part of a group for a market research class at Cal State Northridge. We’ve been tasked with developing and administering a survey as a project for the class and we would like your help!\n\nThe survey is about deli sandwiches and your overall dining out habits (sorry to do this during a time when we’re not really leaving the house, but deadlines are deadlines unfortunately 😔). The survey should take about 5 minutes to complete. \n\nIf you have a few minutes and are willing to help out some college students, please click the link below. Thank you for your help!\n\n[Deli Sandwich Survey](Https://forms.gle/GQY9NYpHuLEjbbWY9)",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "college students",
+        "confidence": 0.926143,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.888431,
+          "label": "positive"
+        },
+        "text": "market research class at Cal State Northridge",
+        "confidence": 0.921778,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.888431,
+          "label": "positive"
+        },
+        "text": "project for the class",
+        "confidence": 0.842706,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "6915b9f1dae4c544555ebe611e488c3f8088bffd",
+    "filename": "relevant-LA-968.json",
+    "file_type": "json"
+  },
+  "title": "Help a group of students out? (survey for class)",
+  "created": "2020-03-31T08:40:18.000Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ba019c4229f2305089803d467180f6dd",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "LosAngeles",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "EDD office",
+        "confidence": 0.961742,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": " Is everyone else just getting a machine that tells you to fill out an application online and then hangs up? I have income from multiple states and so my options are to fax in my application or call and speak to a representative. I tried faxing in an application and waited the 10 days for a response but I didn't get anything... so I was hoping to check on the status or file again through the phone but nothing.",
+  "enriched_text": {
+    "entities": []
+  },
+  "extracted_metadata": {
+    "sha1": "6ce6cc0f42e50e02174a8599d63c3fe5a617d117",
+    "filename": "relevant-LA-948.json",
+    "file_type": "json"
+  },
+  "title": "can't get through to EDD office",
+  "created": "2020-04-01T00:42:24.000Z"
+}

@@ -1,0 +1,170 @@
+{
+  "id": "92ea9b995931da2a2ace1dab1f81f70a",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "LosAngeles",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "DMV Services",
+        "confidence": 0.85199,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I bought a personalized license plate a few weeks ago. Normally this requires the new plates being shipped to your local DMV office and then you’re required to go into the DMV with your old plates to exchange them for the personalized plates. However, the DMV isn’t taking any new appointments and doesn’t allow walk ins at this time. I thought I was out of luck until the corona restrictions were lifted. But today the DMV called me and offered to mail me my new plates and told me to destroy the old ones after they’ve been received. I thought this was great except they could have just done this anyway, even without the virus restrictions. Why were they requiring requiring people to come in person in the first place?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.908937,
+          "label": "negative"
+        },
+        "text": "DMV",
+        "confidence": 0.996884,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.7172,
+          "label": "positive"
+        },
+        "text": "a personalized license plate",
+        "confidence": 0.948521,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "personalized plates",
+        "confidence": 0.948013,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "your old plates",
+        "confidence": 0.92876,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.909218,
+          "label": "negative"
+        },
+        "text": "the DMV",
+        "confidence": 0.928421,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "new plates",
+        "confidence": 0.915291,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "your local DMV office",
+        "confidence": 0.840046,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "the DMV",
+        "confidence": 0.799036,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.908937,
+          "label": "negative"
+        },
+        "text": "my new plates",
+        "confidence": 0.751438,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "acb348962394ab3869744d5b2f22619ad567f0f1",
+    "filename": "relevant-LA-827.json",
+    "file_type": "json"
+  },
+  "title": "DMV Services",
+  "created": "2020-04-03T05:20:03.000Z"
+}

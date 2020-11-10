@@ -1,0 +1,50 @@
+{
+  "id": "9da708b822f93341c8ed7e1e7ac5046d",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "LosAngeles",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "apartment",
+        "confidence": 0.969469,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Hey all, \n\nI did a quick cursory search and couldn't find anything on this topic on the sub, but if someone has, feel free to direct me to it. \n\nWiseman Residential (boo, hiss) installed EV chargers in our garage last winter and I decided to order an EV. I've now discovered that they want to charge a $130 subscription fee to get access to them, which somewhat defeats the purpose of switching from gas to electric. \n\nI'm curious if anyone has experience fighting this kinda thing, or is aware of any city ordinances that would force them to let me install my own car charger or something to that effect.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.753328,
+          "label": "negative"
+        },
+        "text": "sub",
+        "confidence": 0.675561,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "5d944664a805dd762ee8f9f7d06cf223194fd1ea",
+    "filename": "relevant-LA-357.json",
+    "file_type": "json"
+  },
+  "title": "EV owners, are any of your LA apartment owners trying to screw you on charging?",
+  "created": "2020-04-15T10:37:14.000Z"
+}

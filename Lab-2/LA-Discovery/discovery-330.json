@@ -1,0 +1,64 @@
+{
+  "id": "253000782c8b90db346e7a7655a0e766",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "LosAngeles",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Building management",
+        "confidence": 0.887339,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "They posted a notice on our doors saying that they'll work out a rental payment plan if we fall under certain categories (loss of income, medical expenses etc). But the notice's tone and wording are very clear: they expect us to fucking pay up.\n\nOn one hand, it's kinda okay for us cause I started a new job and I've been working from home. My first paycheck is supposed to be on Friday so I think we'll just baaarely have enough. On the other, my partner's a freelancer and has not been getting paid. He asked one of his clients to send a check for the final payment or pay electronically for their pending project. Client said he'll mail a check. This was Monday and client is in San Diego. No check in the mail. My partner is now paranoid that something will fuck up with my new job's direct deposit.\n\nI fucking wish Garcetti and Newsom had passed rent/bill suspension. The eviction moratorium thing is okay, but it gives room for management companies and landlords to do exactly what mine did.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.889255,
+          "label": "negative"
+        },
+        "text": "rental payment plan",
+        "confidence": 0.90903,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.48791,
+          "label": "negative"
+        },
+        "text": "management companies and landlords",
+        "confidence": 0.783355,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "02d9a7719f878e8a3b0d9ac4055a9c31f6fa5577",
+    "filename": "relevant-LA-879.json",
+    "file_type": "json"
+  },
+  "title": "Building management won't be doing jack shit.",
+  "created": "2020-04-02T07:25:43.000Z"
+}

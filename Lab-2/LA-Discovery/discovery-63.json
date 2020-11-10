@@ -1,0 +1,38 @@
+{
+  "id": "05053ea5a39d3b751e28cd911f63a9e5",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "LosAngeles",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hey all, I am an essential worker and I recently got my stimulus money. I would like to spend it on a small business that could use some extra sales. Any good ideas?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.979901,
+          "label": "positive"
+        },
+        "text": "essential worker",
+        "confidence": 0.787075,
+        "type": "Hourly_Wage_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "4f4c115cdfdaa4e3ecf373a122efc05f240b46f9",
+    "filename": "relevant-LA-274.json",
+    "file_type": "json"
+  },
+  "title": "Local Small businesses?",
+  "created": "2020-04-17T14:05:36.000Z"
+}

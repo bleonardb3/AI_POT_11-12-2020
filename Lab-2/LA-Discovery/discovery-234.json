@@ -1,0 +1,49 @@
+{
+  "id": "60b4859b24d1674b4541c7b0595b5eb8",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "LosAngeles",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment",
+        "confidence": 0.804201,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Has anyone filed for unemployment and certified but the claim amount still says 0.00?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.8672,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.951821,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "f58f6b7abcee3d540decc03c29c4b96f91b398ab",
+    "filename": "relevant-LA-623.json",
+    "file_type": "json"
+  },
+  "title": "Unemployment [HELP]",
+  "created": "2020-04-09T01:41:00.000Z"
+}

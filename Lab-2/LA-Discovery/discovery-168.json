@@ -1,0 +1,67 @@
+{
+  "id": "241e89981314a9ab8166dbb8a08ff537",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "LosAngeles",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I have a toll roads account and Fastrak transponder. I have been using metro express lanes on the 110 and not getting charged a toll. Do I need a separate metro express lanes account or transponder? I thought my toll roads transponder could be used all over. Of course looking online has been of no use. Will call the help center if/when I get the chance but hoping someone has some insight. Thanks!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.890346,
+          "label": "negative"
+        },
+        "text": "using metro express lanes on the 110 and not getting charged a toll",
+        "confidence": 0.909861,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "a separate metro express lanes account or transponder?",
+        "confidence": 0.906932,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "my toll roads transponder",
+        "confidence": 0.875657,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "0bd1b4144819b2c2a53a3cb350290000b45abc2c",
+    "filename": "relevant-LA-697.json",
+    "file_type": "json"
+  },
+  "title": "Tollroads and Fastrak transponders",
+  "created": "2020-04-07T00:22:18.000Z"
+}

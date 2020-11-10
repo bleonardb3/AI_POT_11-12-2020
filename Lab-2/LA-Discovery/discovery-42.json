@@ -1,0 +1,38 @@
+{
+  "id": "f91ffb8e9456279d4114851a5d656f0f",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "LosAngeles",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Has anyone else gotten disqualified for their unemployment? My work is closed down until after the quarantine so I’m not sure if because I’m not “fired” I didn’t qualify? Or maybe because I was supposed to be “able to work” and didn’t? Just freaking out a bit because I need the money (obviously) and can’t get a hold of anyone from EDD (of course). Any information or tips would be helpful. Thank you.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.618257,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.739427,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "0df31ec7f1be7d78cf9e5d7b737f4212685bb29c",
+    "filename": "relevant-LA-345.json",
+    "file_type": "json"
+  },
+  "title": "Disqualified from EDD?",
+  "created": "2020-04-16T01:14:02.000Z"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "23fe927acb055a69ee057dc21f3b0fdd",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "LosAngeles",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Has anyone been approved for this yet? I’m getting pushback from the loan officer even though our gross sales are $600,000 last year and credit is decent.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.826297,
+          "label": "negative"
+        },
+        "text": "our gross sales are $600,000 last year",
+        "confidence": 0.89118,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "be64b48122e7e6af8192fba6233eb4e34a8480be",
+    "filename": "relevant-LA-688.json",
+    "file_type": "json"
+  },
+  "title": "City of Los Angeles Micro-loan Coronavirus",
+  "created": "2020-04-07T06:46:54.000Z"
+}

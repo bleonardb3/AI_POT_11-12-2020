@@ -1,0 +1,37 @@
+{
+  "id": "8bd46d1a1dcf10d019167d102a70cf24",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "LosAngeles",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hi everyone!\nHas any of you applied for UI when the COVID19 hit? Did you receive any response? It's been 2 weeks for me and I still haven't gotten response from them. All I have is the confirmation number.\nDo you know if there's a way we can maybe check the status online or somehow get a hold of someone there?\n\nFeel free to ask or leave your comment here for others here regarding EDD/COVID19.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "applied for UI",
+        "confidence": 0.991103,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "da3c05557aee6c9ea8ae74d47e158e0171e1d507",
+    "filename": "relevant-LA-383.json",
+    "file_type": "json"
+  },
+  "title": "EDD California",
+  "created": "2020-04-15T01:06:06.000Z"
+}

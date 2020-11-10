@@ -1,0 +1,33 @@
+{
+  "id": "ba60546f8828d1d686e832cda10958b4",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "LosAngeles",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "California EDD Website Is Not Loading",
+        "confidence": 0.926501,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I've tried on different devices and others have said the same thing. The site is being bombarded with users trying to certify for their benefits and not loading. If you can wait until later in the evening or another day then it should work. I have only been able to get to trying to certify for the first week but it died right after that.",
+  "enriched_text": {
+    "entities": []
+  },
+  "extracted_metadata": {
+    "sha1": "0cbf87fb7ca214b542b0f33c9127cfbe59ccb22c",
+    "filename": "relevant-LA-169.json",
+    "file_type": "json"
+  },
+  "title": "It's Not Just You, The California EDD Website Is Not Loading.",
+  "created": "2020-04-21T02:27:51.000Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "b07622b9ab003948de06d67d5d3a13d3",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "LosAngeles",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Asking for those who wish to donate to individuals and families most affected by the pandemic. Thanks.",
+  "enriched_text": {
+    "entities": []
+  },
+  "extracted_metadata": {
+    "sha1": "cec30ca0ead7d9f71070b89a22d8a2f44e2cd9f9",
+    "filename": "relevant-LA-339.json",
+    "file_type": "json"
+  },
+  "title": "Can anyone suggest a local charity to donate a portion of the stimulus check to?",
+  "created": "2020-04-16T02:09:38.000Z"
+}

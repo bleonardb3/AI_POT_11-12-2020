@@ -1,0 +1,37 @@
+{
+  "id": "9a7205e025771751c13d520145561923",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "LosAngeles",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I’ve got a friend trying to leave her partner ASAP. She’s currently trying to find work as an essential worker but her partner supported her financially so money is tight right now.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "essential worker",
+        "confidence": 0.773576,
+        "type": "Hourly_Wage_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "d6308aed7af1f0b041050499ab45d3f73846a05d",
+    "filename": "relevant-LA-252.json",
+    "file_type": "json"
+  },
+  "title": "Heavy topic but anybody know of any resources for folks trying to leave abusive relationships during quarantine? I’ve got a friend trying to leave her partner ASAP",
+  "created": "2020-04-18T04:26:09.000Z"
+}

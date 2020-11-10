@@ -1,0 +1,21 @@
+{
+  "id": "9fc25eb4c455858646ddefb499b14593",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "LosAngeles",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Mine are. And instead of complaining about them I will just be glad that everyone in **my** family is staying home and following the rule.   \n\n*just because you can get away with something doesn't mean you should*",
+  "enriched_text": {
+    "entities": []
+  },
+  "extracted_metadata": {
+    "sha1": "75a493b1ee90ee73eada48f7c3a24235d0dc500c",
+    "filename": "relevant-LA-451.json",
+    "file_type": "json"
+  },
+  "title": "Sound off if your neighbors are having relatives over",
+  "created": "2020-04-13T06:56:06.000Z"
+}

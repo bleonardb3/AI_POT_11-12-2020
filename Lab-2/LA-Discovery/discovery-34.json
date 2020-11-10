@@ -1,0 +1,50 @@
+{
+  "id": "d89a8dcf42e5713aa53c5c3e033e604f",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "LosAngeles",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "eddd debit card",
+        "confidence": 0.908389,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Hey guys,\n\nIts been q couple days since they issued my first payment and yet ibstill have not recieved any debit card in the mail. Been a whole week. I was planning to call bank of america to give emegency cash if thata possible as i have read the edd website for it. Has anyone done this before maybe recently? Kinda stuck in a rut right niw and inneed money.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.539366,
+          "label": "positive"
+        },
+        "text": "edd",
+        "confidence": 0.920505,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "6683460cf054fc350ba16035caf07c4388cc0204",
+    "filename": "relevant-LA-228.json",
+    "file_type": "json"
+  },
+  "title": "Has any tried requesting emergency cash assistance from the eddd debit card?",
+  "created": "2020-04-19T00:33:16.000Z"
+}

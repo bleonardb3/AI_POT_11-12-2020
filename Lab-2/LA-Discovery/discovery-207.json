@@ -1,0 +1,37 @@
+{
+  "id": "909d8b4e95be08a9bb3a1b88fbf13a75",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "LosAngeles",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I don't miss the traffic, the crowds or the smog. I don't miss work. Tbh I don't venture frequently outside the house in an effort to avoid all these things. But I really miss my weekly sanctuary, the Iliad Bookshop in Noho. There is something so calming about that place. The musty book smell, the store's two kitties, the old couches and the armchairs. Plus, their prices for books are amazing ($1-$7 on average).",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "traffic",
+        "confidence": 0.728408,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "ee94e30d516c98a54e8c11f8f4480951996c8504",
+    "filename": "relevant-LA-588.json",
+    "file_type": "json"
+  },
+  "title": "What places do you miss frequenting since the shutdown?",
+  "created": "2020-04-09T15:51:34.000Z"
+}

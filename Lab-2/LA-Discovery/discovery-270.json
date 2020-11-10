@@ -1,0 +1,49 @@
+{
+  "id": "6affc463ccec28647847213f4bbe7146",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "LosAngeles",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment",
+        "confidence": 0.777109,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Just dropping a friendly “check your unemployment payout” to everyone who has been lucky enough to get everything sorted out. \n\nThe additional $600 a week just came through for the last two weeks payments, so you should already see it in your payout from  yesterday. \n\nThis certainly helps calm the nerves down substantially!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.822698,
+          "label": "positive"
+        },
+        "text": "check your unemployment payout",
+        "confidence": 0.859061,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "134a41ddc4c3ed788c275b0f1d5c971b20456078",
+    "filename": "relevant-LA-441.json",
+    "file_type": "json"
+  },
+  "title": "Unemployment Payments",
+  "created": "2020-04-13T17:38:47.000Z"
+}

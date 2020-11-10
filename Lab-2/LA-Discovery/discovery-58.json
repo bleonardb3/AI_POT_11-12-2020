@@ -1,0 +1,125 @@
+{
+  "id": "60384595aa39a83f832e0249e840f1c4",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "LosAngeles",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment",
+        "confidence": 0.964502,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Sister started working one month before the pandemic hit and became unemployed due to the virus;  it was her first job so she has limited overall work history. She filed for unemployment to get the PUA but the EDD portal says her \"Claim Balance\" is $0 due to lack of work earnings, I assume. I know she doesn't qualify for regular unemployment due to not enough earnings, but I've seen the CARES act eligibilities and it mentions limited work history as a qualification. Has anyone been in this situation that ACTUALLY only received the PUA ($600)?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.806487,
+          "label": "negative"
+        },
+        "text": "PUA",
+        "confidence": 0.988895,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.9236,
+          "label": "negative"
+        },
+        "text": "filed for unemployment",
+        "confidence": 0.987143,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.9236,
+          "label": "negative"
+        },
+        "text": "PUA",
+        "confidence": 0.978165,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.931802,
+          "label": "negative"
+        },
+        "text": "unemployed",
+        "confidence": 0.953174,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.939607,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.916725,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.9236,
+          "label": "negative"
+        },
+        "text": "EDD",
+        "confidence": 0.718529,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "4248466fbecba19eac713ce611a7eda76ebde2c0",
+    "filename": "relevant-LA-402.json",
+    "file_type": "json"
+  },
+  "title": "Has anyone received the Pandemic Unemployment Assistance without qualifying for regular unemployment?",
+  "created": "2020-04-14T12:33:08.000Z"
+}

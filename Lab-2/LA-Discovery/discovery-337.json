@@ -1,0 +1,52 @@
+{
+  "id": "8987498ae39dd5e30e67b30a1e8fd69b",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "LosAngeles",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Its become really difficult for me to get quarters. Local bank branches are now closed, the arcade with the change macine is closed, and I've exhausted the good favor of my local store which means more frequent trips out to break change at a time when I'm trying to adhere to social distancing.  Has anyones building management adressed this? I'm going to approach my building manager but not feeling too hopeful.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.899469,
+          "label": "negative"
+        },
+        "text": "my building manager",
+        "confidence": 0.911051,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "building management",
+        "confidence": 0.909139,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "66882c9d29b2a2b4a7596a4be492ebe3d7cc6bc2",
+    "filename": "relevant-LA-970.json",
+    "file_type": "json"
+  },
+  "title": "Laundry Machines and Quarters",
+  "created": "2020-03-31T08:18:08.000Z"
+}
