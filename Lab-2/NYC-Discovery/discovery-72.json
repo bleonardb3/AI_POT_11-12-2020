@@ -1,0 +1,142 @@
+{
+  "id": "37a86a73f6e90b0f96bb108a8d954c6d",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "author_fullname": "t2_14mwwl",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": " \n\nI don't know if these things are determined at federal, state, or whatever level, but:\n\n&#x200B;\n\nI can't afford to live where I do anymore, so I've been working myself to death to find a place I can afford. I was quite excited when I found something that both had numbers that weren't exorbitantly overpriced, and also wasn't a scam. Navigating through two different apartment complexes websites, I realized I'd finally found a place I could afford to live without starving to death, and went to send applications to both. Then popped up this little chart, talking about it was some kind of special low income affordable housing thing, and that the same apartments had different rent based on your income. The advertisements that led me to these apartments were of course showing the lowest possible price.\n\n&#x200B;\n\nSo I go through these charts for each building, and find the highest rent I could possibly pay without literally dying, look over to see the income cap for that number, and it's (per year) F-ING THOUSANDS below what I make. Somebody who was actually making a small enough amount of money to get that rent, couldn't afford that rent, and would need the even cheaper options, which they aren't eligible for. And I'm talking studio apartments, freaking STUDIOS. So then I looked for where it would put me at my income, and its basically the same price as what I have now, so if I went and moved into either of these \"affordable housing\" buildings my cost of living would go up, because they are farther away from where I work. I already can't afford this place, why the hell would my financial situation get worse by moving into an affordable housing unit?!? This it total BS, the income caps are EXCEEDINGLY higher than they should be.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.889293,
+          "label": "negative"
+        },
+        "text": "rent",
+        "confidence": 0.975729,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.531681,
+          "label": "negative"
+        },
+        "text": "rent",
+        "confidence": 0.95637,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.619744,
+          "label": "positive"
+        },
+        "text": "apartment",
+        "confidence": 0.946096,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.889293,
+          "label": "negative"
+        },
+        "text": "rent",
+        "confidence": 0.934731,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.551272,
+          "label": "positive"
+        },
+        "text": "rent",
+        "confidence": 0.931745,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.551272,
+          "label": "positive"
+        },
+        "text": "apartments",
+        "confidence": 0.849783,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "apartments",
+        "confidence": 0.846721,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "apartments",
+        "confidence": 0.740428,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "7fc50102f01e834d70d8f80bf020a3f7e0db5787",
+    "filename": "t2_14mwwl.json",
+    "file_type": "json"
+  },
+  "title": "Affordable housing income caps are way to f-ing low"
+}

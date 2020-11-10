@@ -1,0 +1,36 @@
+{
+  "id": "1e7501005e5bf996e696f742f18b01e3",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_4cd5sfck",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Has anyone else lost their job? Scared? Don’t know what to do?? Me too. Things are f—king weird right now. The only light shining in the darkness at this moment is that fact that I have a dog.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.730837,
+          "label": "negative"
+        },
+        "text": "lost their job",
+        "confidence": 0.832003,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "eb01bac5509dc80ce7ed79e8c03a483d2fe1c618",
+    "filename": "t2_4cd5sfck.json",
+    "file_type": "json"
+  },
+  "title": "Is anyone else totally overwhelmed?"
+}

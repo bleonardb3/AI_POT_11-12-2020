@@ -1,0 +1,51 @@
+{
+  "id": "9107d57caefbe3bfa7eaaba0d9503a81",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_xg5n7",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "So here's the deal. I'm a college student. I'm working for a transportation company as dispatch/office manager. My boss is an exploitative shitstain and classifies me as an \"independent contractor\" (which I'm technically not) ie i file a 1099. Given the concerns lately around travel being that tourists made up 90% of our business, it's slowed down dramatically. I'm sure a full nyc lockdown is coming sooner or later which would mean i'd be let go. Being that I'm classified under 1099, I would not be eligible for unemployment. If lockdown does indeed happen, wouldn't be able to find a job either. Meanwhile I have to pay my own tuition--with no avenue of income for the near future. What in the world am I supposed to do?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "college student",
+        "confidence": 0.99578,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "my own tuition",
+        "confidence": 0.875569,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "023fba62eccaedc0e90103a68305bd0bedbafd4b",
+    "filename": "t2_xg5n7.json",
+    "file_type": "json"
+  },
+  "title": "Going to probably lose my job. Pretty terrified, have no idea what to do"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "639fb3f9f87ba2e7e54739b22a9eccc4",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "author_fullname": "t2_3y2vg5w1",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "got laid off",
+        "confidence": 0.991333,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "text": "file for unemployment",
+        "confidence": 0.927089,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I got one month of severance does this disqualify me?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.961045,
+          "label": "negative"
+        },
+        "text": "one month of severance",
+        "confidence": 0.891959,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "a63ed765697f339f4e8b398c4ac62e8584c32b3a",
+    "filename": "t2_3y2vg5w1.json",
+    "file_type": "json"
+  },
+  "title": "Worked in NYC but live in CT—where do I file for unemployment? (got laid off)"
+}

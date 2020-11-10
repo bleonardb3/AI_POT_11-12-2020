@@ -1,0 +1,48 @@
+{
+  "id": "266ba862cb9992784d7067d63bf1c92d",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_4f6a4",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment",
+        "confidence": 0.626187,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I recently go furloughed (according to the letter March 23) however they didn’t notify me until April 2nd. I was able to file my claim on April 3rd and claimed on Monday April 6th. I checked the payment history this morning and it’s paying me for the week ending April 5th but not the week ending on the 29th? \n\nI claimed as soon as I could and was wondering if there’s a way to remedy this or if anyone had additional info? Google has given me nothing so far. \n\nThanks!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.80943,
+          "label": "negative"
+        },
+        "text": "go furloughed",
+        "confidence": 0.815729,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "a5dc4c1afe2dab02b8fa7ae0d430410c94362a8c",
+    "filename": "t2_4f6a4.json",
+    "file_type": "json"
+  },
+  "title": "Unemployment confusion"
+}

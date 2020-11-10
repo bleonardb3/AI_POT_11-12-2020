@@ -1,0 +1,63 @@
+{
+  "id": "bdd0f0e4d617c9567cc5e2021c50f12f",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_ut9ka",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "UI and PUA claims",
+        "confidence": 0.94105,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I filed for UI back in mid March, and recently again for PUA but I haven’t got calls back for either claims?? Is this taking forever for anyone else or am I doing something wrong?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.955378,
+          "label": "negative"
+        },
+        "text": "PUA",
+        "confidence": 0.978782,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.955378,
+          "label": "negative"
+        },
+        "text": "filed for UI",
+        "confidence": 0.905956,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "e1ddf7e7df3406da2ebb3e426d8469e2932664ab",
+    "filename": "t2_ut9ka.json",
+    "file_type": "json"
+  },
+  "title": "Are everyone’s UI and PUA claims taking forever to process?"
+}

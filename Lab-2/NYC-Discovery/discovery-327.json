@@ -1,0 +1,29 @@
+{
+  "id": "0bb4ca3d4139e6e0569e6b60cc3b4f37",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_25qnvw5h",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment office",
+        "confidence": 0.935554,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "",
+  "extracted_metadata": {
+    "sha1": "61d036293a0fdfc01bd9c156448a78f6301669b9",
+    "filename": "t2_25qnvw5h.json",
+    "file_type": "json"
+  },
+  "title": "I called the unemployment office 100 times from opening time. Never got through."
+}

@@ -1,0 +1,63 @@
+{
+  "id": "a7d034f758fdc28485dbdedf49f42be5",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_36herj8t",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment",
+        "confidence": 0.839384,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Last Tuesday I filed for unemployment and I entered my bank info for direct deposit. I said I would get a test deposit in five days but I haven't received it.\n\nAnd today I sign in to claim my weekly benefits, and it is asking if my deposits were 'verified'. Im not sure i fi should re-enter the bank info or not?\n\nAnybody else gone through this?\n\n[see here](https://i.imgur.com/JTLhzei.png)",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.484093,
+          "label": "negative"
+        },
+        "text": "filed for unemployment",
+        "confidence": 0.973578,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.485861,
+          "label": "positive"
+        },
+        "text": "claim my weekly benefits",
+        "confidence": 0.90517,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "0ee9fef3d8c313ae16d1cd33d2cffb246531c6b7",
+    "filename": "t2_36herj8t.json",
+    "file_type": "json"
+  },
+  "title": "Unemployment direct deposit"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "0b7f6dc85595a30b0a0ebc2ff9a87c30",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_5ajar",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hey Everyone,\n\nI work a corporate job Monday-Friday and bartend weekends (New Yorks expensive u know).\n\nDue to the current situation, the bar has closed and my corporate job has cut  hours. I am now making 50% of what I was prior to the outbreak.\n\nMy question for you all is if I qualify for any sort of partial unemployment? Can anyone offer some advice?\n\nThanks all, be safe!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "I work a corporate job Monday-Friday",
+        "confidence": 0.918825,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.805555,
+          "label": "negative"
+        },
+        "text": "my corporate job has cut  hours",
+        "confidence": 0.914807,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "b3377f926655236e5ad7060ef2b89300f79f070b",
+    "filename": "t2_5ajar.json",
+    "file_type": "json"
+  },
+  "title": "Partial Unemployment?"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "eaa45528e394138bb19d145dd32d6eed",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_2gx2i3d",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "to file for unemployment",
+        "confidence": 0.942865,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I was unemployed for a while in 2019 and maxed out my unemployment benefits then. I started a new job at the beginning of March but got laid off yesterday because of the pandemic. \n\nNow I can't file online because it says I already have a valid claim on file, and whenever I try calling the automated system hangs up on me when I put my info in. I know normally I wouldn't be eligible but I figure I should be now due to the current situation. I've tried a dozen different options and can't get a person on the phone no matter what. Does anyone know what I can do??",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.605715,
+          "label": "negative"
+        },
+        "text": "got laid off",
+        "confidence": 0.98214,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.821503,
+          "label": "negative"
+        },
+        "text": "unemployed",
+        "confidence": 0.756498,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.821503,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.723825,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "f6a35bcfc2162937063ea5a57b074c72ed270410",
+    "filename": "t2_2gx2i3d.json",
+    "file_type": "json"
+  },
+  "title": "Not sure how to file for unemployment? Weird situation"
+}

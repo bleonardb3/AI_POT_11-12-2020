@@ -1,0 +1,48 @@
+{
+  "id": "182be653f19c1d06dc9fc753e88ecb51",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_3h0qbvzi",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment",
+        "confidence": 0.645639,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Is there anywhere I can go and wait in line? It's been 2 weeks and I have 6000+ attempted calls to the unemployment insurance line to file my claim. I'm happy to wait 8 hours in a line outdoors, I just need this to happen. Where can I go?  \n\n\nThanks in advance, hope you are all staying safe.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.869498,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.998766,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "99cab8ddc74bcb39d2ef3303cd228ce13d344d85",
+    "filename": "t2_3h0qbvzi.json",
+    "file_type": "json"
+  },
+  "title": "Unemployment Benefits - calling doesn't work"
+}

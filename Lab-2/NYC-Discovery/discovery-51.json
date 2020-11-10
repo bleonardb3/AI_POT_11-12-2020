@@ -1,0 +1,49 @@
+{
+  "id": "3f00be53b76703a85dc837a387aa69b5",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "author_fullname": "t2_ci2aa",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment",
+        "confidence": 0.691163,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I began filing for unemployment on the online portal on March 23rd and was unable to complete it and was told to call to complete my application.\n\nI have called every day since, some days 100x some days 1000x, but still unable to get through.\n\nMy question is, once I do finally get through will I be able to receive the money I have missed over these last 2 weeks due to NYS technical inability or I am screwed and will only get my 1st regular check whenever I get through?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.823879,
+          "label": "negative"
+        },
+        "text": "filing for unemployment",
+        "confidence": 0.891188,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "a6f7ee53fa88b110ea4f1599b6fb554388ff6bd9",
+    "filename": "t2_ci2aa.json",
+    "file_type": "json"
+  },
+  "title": "Unemployment: Unable to get through since March 23rd"
+}

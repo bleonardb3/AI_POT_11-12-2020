@@ -1,0 +1,43 @@
+{
+  "id": "60f94ef0274247d09afd0cb5426122fe",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_sngre",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment claim",
+        "confidence": 0.991559,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "text": "I got my claim done",
+        "confidence": 0.850723,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "It still has a lot of timeout errors, but at least I was able to eventually get it done.",
+  "enriched_text": {
+    "entities": []
+  },
+  "extracted_metadata": {
+    "sha1": "21d2b8930699c6006028a7e727faa984869f3be4",
+    "filename": "t2_sngre.json",
+    "file_type": "json"
+  },
+  "title": "The NYC Unemployment claim website worked at 2:30am on Sunday. I got my claim done. Try it at that time if you're having trouble."
+}

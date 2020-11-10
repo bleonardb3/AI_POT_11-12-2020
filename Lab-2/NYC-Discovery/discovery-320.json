@@ -1,0 +1,119 @@
+{
+  "id": "eb4f187c144fd8df216d39ac843a909b",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_xuquj",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment Claim",
+        "confidence": 0.932382,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "text": "UI",
+        "confidence": 0.546779,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I'm really hoping someone can offer me some insight into what I can do here. I've called the NY Unemployment phone number literally over 2,000 times regarding this and haven't been able to speak with a human. Very close to smashing my face through a wall. Bills are approaching and I'm starting to freak out here.\n\nI was laid off the same day as my fellow former employees (Friday, 3/20). Our manager was too afraid to come into work (COVID fears) but had required all of us to come in - then laid us off at the beginning of the day over a conference call and then expected us to work a full workday. Cute, right? I filed my claim the following Monday 3/23.\n\nAs of today, Wednesday 4/8, my claim status is still \"pending\" but a few of my fellow former employees already started receiving benefits last week even though I was the first to file since my last name fell on the Monday - their last names required them to file that Tuesday, 3/24.\n\nSo above I stated I've called the DOL UI number a ton of times. Here's what happens. You repeatedly call and get a busy signal - intermittently, there's an automated \"...high call volume, please call back\" message. Then after \\~45 attempts, you get thru to the DOL, press your digits to weave thru the labyrinth of call routing, to get to the part where you are to inquire about the status of the claim and speak with an agent by pressing 3. You hit \"3\" and then bam, it says, \"We're sorry, we are receiving an extremely high volume of calls at this time...\" and HANGS UP! THE HUMANITY OF IT ALL! Rinse and repeat.\n\nFor reference, a few things:\n\n\\- When I call it says my claim is valid.\n\n\\- I selected direct deposit when applying for UI.\n\n\\- I've already received the letter that states how much $ I am to receive.\n\n\\- I've filed all of my weekly claims so I'm current on that.\n\n\\- One thing that I find strange, when I check the status of my claim online, the $ amount I am to expect says \"$0\" even tho the letter in the mail stated the proper $ amount.\n\nAnyone going thru the same thing? Are they just overloaded over there or is something wrong with my paperwork? I am starting to lose my mind over this.\n\nMany thanks in advance!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.84774,
+          "label": "negative"
+        },
+        "text": "Unemployment",
+        "confidence": 0.985215,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.650462,
+          "label": "negative"
+        },
+        "text": "weekly claims",
+        "confidence": 0.968866,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "applying for UI",
+        "confidence": 0.967801,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.601713,
+          "label": "negative"
+        },
+        "text": "my claim",
+        "confidence": 0.921562,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "I filed my claim",
+        "confidence": 0.855053,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "71bedced71a5d07f208568d962b8e97ac4315100",
+    "filename": "t2_xuquj.json",
+    "file_type": "json"
+  },
+  "title": "Unemployment Claim Status Pending - called the DOL UI number LITERALLY 2,000 times"
+}

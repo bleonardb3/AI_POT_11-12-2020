@@ -1,0 +1,21 @@
+{
+  "id": "7285fa993beac0b8c86b015feb22255d",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "author_fullname": "t2_425nzn8p",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "For a low income patient with no insurance, is the NYU dental clinic a good option? I’m in need of two fillings and can’t front a 2k bill, but I’m terrified to walk into the clinic for fear of them slapping a high price tag on the treatment. \n\nCan anyone speak from experience?",
+  "enriched_text": {
+    "entities": []
+  },
+  "extracted_metadata": {
+    "sha1": "31ad7e17567b5c24c4fd65dc567c03a64a194131",
+    "filename": "t2_425nzn8p.json",
+    "file_type": "json"
+  },
+  "title": "NYU Dental Clinic worth it?"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "72d88632c6cf39911261db9970d1814a",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_2n110fue",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I work in digital marketing for major consumer brands (mostly beauty). Last summer I switched to a new/role company and shortly after they were acquired. A week ago I was let go due to the new owners along with half the company.\n\nI’m pretty down about it because the last year my career has been rocky. I’ve been feeling exhausted and want to fix my attitude before I aggressively apply but curious what ppl feel the job market is like here.\n\nI’ve never had real issues getting interviews but am unsure if it’s smart to allow myself a few weeks off if I need it.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "I was let go",
+        "confidence": 0.891051,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "fd7a55c97623c107fe2de5bd3d13572dfc6ded2c",
+    "filename": "t2_2n110fue.json",
+    "file_type": "json"
+  },
+  "title": "Laid off.."
+}

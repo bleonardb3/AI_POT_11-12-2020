@@ -1,0 +1,49 @@
+{
+  "id": "f0a7a1b9a2456e429364e086dca46d1e",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "author_fullname": "t2_494m89a",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment",
+        "confidence": 0.985877,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Has anyone found a way to get through to unemployment? Even worse, I’m unable to even get into my account (haven’t used in years) as it won’t let me reset my password.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "unemployment",
+        "confidence": 0.896089,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "9bcf7e5394a7e5b0f22c12433b0c03a9006a4f84",
+    "filename": "t2_494m89a.json",
+    "file_type": "json"
+  },
+  "title": "Filing unemployment"
+}

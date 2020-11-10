@@ -1,0 +1,63 @@
+{
+  "id": "7e78e135dc5f13423f477e9682bfaaf7",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_4rfbya2s",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment",
+        "confidence": 0.971976,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Filed for unemployment as a result of COVID-19 closure. Two payments have been released to the debit card since I filed two weeks ago, however I have not received the debit card in the mail yet. I have also tried to register for direct deposit numerous times, fill out the online form, and get no test deposits or any confirmation of it going through. Should I be worried my card got lost in the mail? I live in an apt building so I’m wondering if I should ask my neighbors?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "apt",
+        "confidence": 0.992239,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "Filed for unemployment",
+        "confidence": 0.934139,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "20a2d35bea9ff84e91459bb5791e88fa7121c2c6",
+    "filename": "t2_4rfbya2s.json",
+    "file_type": "json"
+  },
+  "title": "New to unemployment, have not received the debit card yet"
+}

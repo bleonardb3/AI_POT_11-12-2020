@@ -1,0 +1,63 @@
+{
+  "id": "0289f705b9e54f2696d0d812d7b68fd8",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_5x0ngn7f",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment",
+        "confidence": 0.808608,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Trying to get through to the unemployment help line with no luck and the question I have is not addressed on their website. I'm hoping someone here can help me out.\n\nMy last day of work was March 13th and I haven't filed yet. Why not? Because the way it works is, they look at wages earned during calendar quarters before the one in which you file. If you file in April they will look at Oct-Dec 2019 + Jan-March 2020. I was employed September 2019 - March 2020 so that means I need to wait until April to file, right?\n\nI know that that's the case under normal circumstances and maybe I should have filed right away but I thought if I did that and the same rules still apply then that would just create additional complications which I would have to sort out with the unemployment office.\n\nThe Department of Labor website says if your last name begins with G-N file on a Tuesday (and my last name is in that range). I guess that means I need to wait until Tuesday April 7th to file or should I file right away since there is such a high volume?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.944527,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.996322,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.630328,
+          "label": "negative"
+        },
+        "text": "unemployment office",
+        "confidence": 0.841238,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "57539a31217cde9dedb76c9be16d94481a080b3d",
+    "filename": "t2_5x0ngn7f.json",
+    "file_type": "json"
+  },
+  "title": "Unemployment: Should I wait to file or should I file right now?"
+}

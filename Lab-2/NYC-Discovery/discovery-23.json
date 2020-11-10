@@ -1,0 +1,94 @@
+{
+  "id": "a6f13a1efd3c8bd0e111a4053032e290",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "author_fullname": "t2_qf01r",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment",
+        "confidence": 0.93775,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "So I was actually laid off from work about 5 months ago since my company was in the process of moving around to stay up and running. The promise was my boss would offer me a job within 3 months of laying me off once they figured everything out. Seemed okay to me, I decided to apply for unemployment and collect benefits while looking for similarly paid work.\n\nObviously now, the job offer never came and my old company is on freeze until this whole situation blows over. My benefits are set to expire in 3-4 weeks and I'm wondering what exactly the rules are for extension. \n\nI've heard that unemployment extensions in NYS can only be activated in times of crisis. Is this not a crisis with unemployment levels at a record high? Is the extension something you have to request from the state or do I need to wait for NYS to confirm extensions are allowed before applying for one?\n\nAny information would be appreciated. Stay safe out there.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.810153,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.99445,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.842771,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.988542,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.474208,
+          "label": "positive"
+        },
+        "text": "laid off from work",
+        "confidence": 0.864869,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.609287,
+          "label": "positive"
+        },
+        "text": "unemployment",
+        "confidence": 0.758412,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "54e43899cb4efe3b4cc2b7e0f956e32ee0319fe6",
+    "filename": "t2_qf01r.json",
+    "file_type": "json"
+  },
+  "title": "NYS Unemployment extension?"
+}

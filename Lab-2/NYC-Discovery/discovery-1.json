@@ -1,0 +1,94 @@
+{
+  "id": "f7181e61aec2d2de8e67f34ff137ca07",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "author_fullname": "t2_mguoa",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment",
+        "confidence": 0.998412,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I have reached a point of not knowing what else to do, other than reach out to news agencies to possibly shed light on the situation of Unemployment Insurance here in NYC. \n\nI, along with thousands of others, filed for UIB over a month ago and have yet to receive any word about whether my claim is accepted or not. Getting in touch with the DoL is impossible, their lines don't even have a queue option. After spending over 5 minutes in a touch-tone operating system, you are advised that they are 'experiencing a high volume of callers' and to 'try back later'. After calling everyday for weeks now, I am no closer to getting an answer than I was when I started this. \n\nGroups on Facebook like Restaurant Worker Solidarity NYC will show hundreds of posts of people in the same position. None of us have any idea about what to do, and there's no money coming in. I haven't received any income for a month and a half, have not paid rent, am depending on my sweetheart to help pay for groceries, and still have tuition payments due to Columbia University. Money is tight and I am at the end of my rope. \n\nI appreciate everything Cuomo has done thus far, his press briefings are more informative than anything our Federal Agencies are broadcasting, but it doesn't seem like any state/local officials are actually being held accountable for the SHITSTORM that is the DoL response to this pandemic. Why hasn't their telephone operating system improved since they observed a spike in cases? Why are the touch-tone operating systems not offering a queue for pending cases? Why are we being told by officials in Cuomo's office (after waiting 3 hours to speak to someone) that if we leave our names and numbers we'll receive a phone call back within 3 days (I've called since the start of last week, every day, and have not received any return phone calls)? \n\nWe are being left out of the conversation with no resources, and no voice. Seeking a platform that could potentially shine light on this issue.\n\n&#x200B;\n\nEDIT: \n\n1. I don't understand why this is being downvoted. I'm trying to bring awareness to a tough situation that thousands of NYers are in, likely 90% or more in a worse situation than myself. Yet this message is being downvoted? Weird. \n2. I was able to get in touch with someone from Cuomo's office yesterday who said she would call me at 9am this morning and get me connected with someone in the Labor Dept. As promised, she called me within the hour this morning and I was transferred to the DoL, but after being on hold for approximately 15 minutes I was sent to a voicemail box. No idea if my voicemail will be received and the call returned, but we'll just have to wait it out and see. I reiterated my message twice to confirm all information, so there should be no issue of not hearing the message/it's contents clearly. \n3. Cuomo's office (the only resource I've had *any* shot at getting in touch with an actual human thus far) this morning is also auto-hanging up due to extremely high volume of callers. No queue. \n4. I appreciate all of your feedback, and am sorry to hear that so many of you are going through the same thing as me. Hopefully this will get worked out sooner rather than later. ",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.807739,
+          "label": "negative"
+        },
+        "text": "Unemployment Insurance",
+        "confidence": 0.932281,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.501315,
+          "label": "negative"
+        },
+        "text": "rent",
+        "confidence": 0.930692,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.731524,
+          "label": "negative"
+        },
+        "text": "UIB",
+        "confidence": 0.819388,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.714214,
+          "label": "negative"
+        },
+        "text": "tuition payments due to Columbia University",
+        "confidence": 0.773987,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "16973e3eec42b4b3196bc55a22f5ed3390a22ec1",
+    "filename": "t2_mguoa.json",
+    "file_type": "json"
+  },
+  "title": "DoL and Unemployment Claims"
+}

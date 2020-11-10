@@ -1,0 +1,20 @@
+{
+  "id": "8dabd0aa4d8574a2fd696d932dde432f",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_1nybjk7e",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hey all,\n\nMy salary was recently cut by a fifth because of COVID-19. Am I able to file for partial unemployment or any other type of aid? It seems like there's so much misinformation out there, and I'm kind of feeling overwhelmed.",
+  "enriched_text": {
+    "entities": []
+  },
+  "extracted_metadata": {
+    "sha1": "9e969149e3393c87b1f2c564cfebbbae4bb6894d",
+    "filename": "t2_1nybjk7e.json",
+    "file_type": "json"
+  },
+  "title": "My salary was cut by 20% because of COVID-19–Any aid?"
+}

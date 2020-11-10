@@ -1,0 +1,78 @@
+{
+  "id": "7b871e55995592c0ae6e598f2c2d02eb",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_217huap3",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment",
+        "confidence": 0.922382,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I received this email from DOL this morning. Should I answer it? Anyone get this? The email address looks legit and ends with [@labor.ny.gov](mailto:Carmelina.Mateo@labor.ny.gov)\n\nGood Morning dear Valued Customer,\n\nWe received notification that you have filed a claim for Unemployment Insurance (UI) benefits, and we would like to assist you at this time.  Although the office is presently closed, the XXXXX Career Center staff have transitioned to telecommuting during the COVID-19 pandemic, and we are now scheduling “virtual” appointments.\n\nWe would like to schedule you for a virtual appointment by telephone or videoconferencing to acquaint you with our services and resources.  \n\nThis email serves to notify you that I will be calling you to provide services on XXXX, between 10:00 and 2:00 pm.  The number I have on file for you is this.  If this time presents a conflict, or if you have changed your number, please let me know.  If you can participate via videoconference, please let me know that as well. Otherwise, I respectfully request you’ll answer my call, which will show no  number  or restricted  on your caller ID.   \n\nDuring your appointment, I will provide you with information and resources that you may need during this time.\n\nWe extend wishes of health and safety to you and your family.  We are here to assist you and look forward to working with you.\n\nPlease note that I do not work for the Unemployment Insurance Division and will not ask you for any personally identifiable information such as your date of birth or social security number, nor will I ask for financial information.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.848802,
+          "label": "negative"
+        },
+        "text": "Unemployment Insurance",
+        "confidence": 0.835967,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.737518,
+          "label": "positive"
+        },
+        "text": "Unemployment Insurance",
+        "confidence": 0.734083,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.737518,
+          "label": "positive"
+        },
+        "text": "UI",
+        "confidence": 0.612038,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "9063a22ab7ca884a7ae34f6fc662158501b7e1f0",
+    "filename": "t2_217huap3.json",
+    "file_type": "json"
+  },
+  "title": "Anyone get this NY Unemployment email about a phone call?"
+}

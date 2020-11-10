@@ -1,0 +1,63 @@
+{
+  "id": "82d2ebcfa2576feb65c503095d0a2b7e",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_4x2nfqkt",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment",
+        "confidence": 0.941647,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Got laid off temporarily due to covid-19 and filed online on Monday, 3/23. I haven’t “claimed my weekly benefits” yet since it’s only been a few days, but I’m curious if anyone has actually received their funds that might have filed in the weeks before?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.75454,
+          "label": "negative"
+        },
+        "text": "claimed my weekly benefits",
+        "confidence": 0.994799,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "Got laid off",
+        "confidence": 0.952026,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "0610d1db94a7b142ade6f2426192db53d7b04c8b",
+    "filename": "t2_4x2nfqkt.json",
+    "file_type": "json"
+  },
+  "title": "Has anyone actually received funds from unemployment yet?"
+}

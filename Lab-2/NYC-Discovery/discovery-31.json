@@ -1,0 +1,55 @@
+{
+  "id": "0654f48585dc43434870dcaa80c057ee",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "author_fullname": "t2_guy4f",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "to file for unemployment",
+        "confidence": 0.993651,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "text": "claims",
+        "confidence": 0.668839,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "text": "Claims",
+        "confidence": 0.605554,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Each time I call, I go through all the menus, enter my personal info, and then get the message that they're experiencing a high call volume and to call back later.\n\nDoes anyone know of any tips to get through?\n\n\nEDIT: I called again this morning at exactly 8am and after being on hold for 45 minutes I got through.",
+  "enriched_text": {
+    "entities": []
+  },
+  "extracted_metadata": {
+    "sha1": "e02bae472d13030ca6e097cc0b32fb8bb78720bd",
+    "filename": "t2_guy4f.json",
+    "file_type": "json"
+  },
+  "title": "Trying to file for unemployment and I need to call the Telephone Claims Center and speak with a claims specialist to complete my claim. I've been trying all day and can't get through."
+}

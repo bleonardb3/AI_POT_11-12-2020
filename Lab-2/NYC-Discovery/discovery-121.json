@@ -1,0 +1,48 @@
+{
+  "id": "3ba4ade3a0d02da8c25101586c2db433",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_bnukf",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment",
+        "confidence": 0.987254,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I filed my claim online, and then it says you have to call: 888-209-8124 to complete your claim. It takes around 50 tries to get through (One time I got through on the 3rd try, one time on try 120), then you speak to a robot, put in your information (Social, password, press a bunch of numbers etc) and then the robot... hangs up on you. HE JUST HANGS UP ON YOU AND TELLS YOU TO CALL BACK. And repeat.\n\nDOES ANYONE HAVE A SOLUTION TO THIS?\n\nAt this rate I feel like im just not going to be able to get unemployment. Everyone I know who's had to call has not been able to finish their claim and I just don't know what to do. \n\nJust wondering if anyone in r/nyc has any tips because im going fucking mad.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.636596,
+          "label": "negative"
+        },
+        "text": "I filed my claim online",
+        "confidence": 0.839789,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "9363e9d762953fff880d581c849d3f3c8536c61b",
+    "filename": "t2_bnukf.json",
+    "file_type": "json"
+  },
+  "title": "Has anyone been able to get through the unemployment phone number?"
+}

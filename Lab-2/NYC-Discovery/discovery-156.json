@@ -1,0 +1,29 @@
+{
+  "id": "a7a13970a1b6e81af18f726deaa8b4ba",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_aq1f3",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment",
+        "confidence": 0.85463,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "",
+  "extracted_metadata": {
+    "sha1": "dd7e5690f5caa245cfd0118b66676414ae50cc9d",
+    "filename": "t2_aq1f3.json",
+    "file_type": "json"
+  },
+  "title": "Anyone else seeing this as their only option when they apply for unemployment online?"
+}

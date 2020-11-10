@@ -1,0 +1,48 @@
+{
+  "id": "852caa1d38e6f4eccf5e3d35300353b7",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_lpkvv",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment claim",
+        "confidence": 0.859178,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "My last name starts with A , but I was able to file my claim yesterday (Tuesday) and it went through would this cause any problems , also when I completed the form I had to fill out a questionnaire and it said I didn’t have to call any number and that I log back into the website on the 15th to claim something. Do you guys know anything by about this ?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.828082,
+          "label": "negative"
+        },
+        "text": "my claim",
+        "confidence": 0.867264,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "4e00c71c57cb307b9b852c97e850139b273f558f",
+    "filename": "t2_lpkvv.json",
+    "file_type": "json"
+  },
+  "title": "Unemployment claim last name"
+}

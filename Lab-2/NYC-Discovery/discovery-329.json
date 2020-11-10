@@ -1,0 +1,32 @@
+{
+  "id": "af5838ab96ea4974bdcc0cdf1c6077e9",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_3ey7w2ro",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Filed for unemployment",
+        "confidence": 0.935203,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Hey guys, as the title says I have been waiting weeks to hear something back and never received the call back that was promised within 72 hours. Really have no idea what to do now and have pretty much just given up on it. I am self employed so I wasn’t able to be approved on the spot by applying online. They needed to verify some of my info so I was initially told to call the number (the infamous one where nobody could ever get through), and then they came out with the call back system (which I never received). Anybody in the same boat? \n\nThanks",
+  "enriched_text": {
+    "entities": []
+  },
+  "extracted_metadata": {
+    "sha1": "25e43244301b66a3c6dc522acd9ac86ad3f051c2",
+    "filename": "t2_3ey7w2ro.json",
+    "file_type": "json"
+  },
+  "title": "Filed for unemployment...heard nothing back...what now?"
+}

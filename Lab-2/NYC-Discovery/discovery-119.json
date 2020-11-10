@@ -1,0 +1,32 @@
+{
+  "id": "52990659cb1e889b9e9dca3b26062153",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_63jggnb0",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment",
+        "confidence": 0.743079,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Like everyone else, I call THOUSANDS of times a day and get NOWHERE. What the fuck kind of system is this? Our useless governer would rather facetime with his jock cunt of a brother than address the real issues that are facing New Yorkers. This is such absolute bullshit and it is unconscionable that in the state of NY in the country of the US that we would have such fumbling idiots as our leaders who can't staff a call center.",
+  "enriched_text": {
+    "entities": []
+  },
+  "extracted_metadata": {
+    "sha1": "59a92a248c9ef3e102f259720317121e1d9631cd",
+    "filename": "t2_63jggnb0.json",
+    "file_type": "json"
+  },
+  "title": "Unemployment is IMPOSSIBLE"
+}

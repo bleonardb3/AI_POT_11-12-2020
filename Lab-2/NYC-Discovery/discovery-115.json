@@ -1,0 +1,63 @@
+{
+  "id": "bf1aeaa971c1becb2bdc7820e55362e9",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_7kwt3",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment claim",
+        "confidence": 0.981243,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Has anyone had this problem? I lost the job I've had for five years due to the virus and I filed for unemployment Monday and it says my claim is in pending status still.\n\nHas anyone had this problem/know how to fix it or who I should call? I tried the hotline but couldn't get an actual person on the line so the call system pretty much told me the same thing that the website is.\n\nI have about 100 bucks left to my name I really can't have this stuck pending for much longer.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.975248,
+          "label": "negative"
+        },
+        "text": "filed for unemployment",
+        "confidence": 0.983909,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.975248,
+          "label": "negative"
+        },
+        "text": "I lost the job",
+        "confidence": 0.970073,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "6d3127250c8f855813b74ae95543d28cf417da56",
+    "filename": "t2_7kwt3.json",
+    "file_type": "json"
+  },
+  "title": "Please help: Unemployment claim stuck in pending status"
+}

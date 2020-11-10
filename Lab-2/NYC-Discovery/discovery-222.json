@@ -1,0 +1,63 @@
+{
+  "id": "2e1d6a9b1060ecb8849d67e64a9acaf2",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_3fd1tcmk",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "filing unemployment",
+        "confidence": 0.853576,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Hi all - hope everyone is staying as sane and healthy as possible through all this crazy. I combed through most of the unemployment questions posted but haven’t seen this answered and the FAQS on the nyc.gov site were only somewhat helpful. Would appreciate any answers!\n\nI was furloughed until further notice by the retailer I work for in the city effective today (4/1) due to the virus. They are guaranteeing us pay through this week (4/4), and then giving us the option to use accrued vacation for next week (4/5-4/11) if we choose but no pay after that. As far as I understand it if I use my vacation I wouldn’t be able to claim any unemployment benefits until the following week starting 4/12, is that correct? \n\nAssuming that’s true my question is whether I should go ahead and file now or on 4/5 since that’s when the furlough starts and just wait to start claiming until after the vacation week? Or should I wait to file completely until 4/12? \n\nThanks in advance!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.743984,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.976465,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.788747,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.96885,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "ceff15565471d36baec92569304f29043f27979f",
+    "filename": "t2_3fd1tcmk.json",
+    "file_type": "json"
+  },
+  "title": "Timing of filing unemployment? Just furloughed"
+}

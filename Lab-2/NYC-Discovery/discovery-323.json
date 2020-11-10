@@ -1,0 +1,78 @@
+{
+  "id": "a719fd1bc68f1ae1447c329abc7ad935",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_5i8yu3qx",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "rent",
+        "confidence": 0.876335,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Just wondering if anyone in NYC (Brooklyn) knows how I can make $1,100 by Feb 1. I’ve been unemployed and depleted my savings. I have a job trail on Friday but won’t have rent until after it’s due. Any ideas how to make cash quick before I miss my rent??",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.970485,
+          "label": "negative"
+        },
+        "text": "unemployed",
+        "confidence": 0.974988,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.977176,
+          "label": "negative"
+        },
+        "text": "rent",
+        "confidence": 0.966608,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.89413,
+          "label": "negative"
+        },
+        "text": "rent",
+        "confidence": 0.897167,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "31e8385feec6788212e56f842442b7d5b27c6e94",
+    "filename": "t2_5i8yu3qx.json",
+    "file_type": "json"
+  },
+  "title": "I’m desperate to make rent"
+}

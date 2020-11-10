@@ -1,0 +1,32 @@
+{
+  "id": "02fd16318c17fa2eae29177f19f4b2e2",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_61d4gfvj",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment",
+        "confidence": 0.994217,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": " I was not instructed to call to finish, so I’m assuming I have completed the application. ‬",
+  "enriched_text": {
+    "entities": []
+  },
+  "extracted_metadata": {
+    "sha1": "2506ed9c8c7f1b875246560e3c979f66714fd68d",
+    "filename": "t2_61d4gfvj.json",
+    "file_type": "json"
+  },
+  "title": "Does anyone know ‪how long it will take to get first unemployment direct deposit after completing the online application?"
+}

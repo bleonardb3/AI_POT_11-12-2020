@@ -1,0 +1,63 @@
+{
+  "id": "3737f1c90382f6b88079d36df4a8bed4",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_r6xi0",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "NYS 2019 Tax Refund",
+        "confidence": 0.778648,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I filed on 12/30/2019 through TurboTax, and I checked my status on the NYS Dept of Taxation website and it says:  \"We sent you a letter requesting information to verify the amount withholding you claimed on your return\". I double checked my W2 and the information submitted and they match perfectly. Whatever. I sent them the additional W2 info directly on their site on 3/14. It's 4/3 and no refund or update. I searched online and apparently hundreds of other NYers got similar notices. Is this a stalling/delaying tactic because NYS is low on funds due to buying resources for the pandemic? Need this money more than ever and I filed super early",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.920553,
+          "label": "positive"
+        },
+        "text": "my W2",
+        "confidence": 0.877052,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "the additional W2 info",
+        "confidence": 0.818762,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "bd397d4b1938551d993779bbef96395819c20d8f",
+    "filename": "t2_r6xi0.json",
+    "file_type": "json"
+  },
+  "title": "Did anyone get back their NYS 2019 Tax Refund yet?"
+}

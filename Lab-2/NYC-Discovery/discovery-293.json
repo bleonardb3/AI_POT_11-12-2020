@@ -1,0 +1,51 @@
+{
+  "id": "1414265c41139e93c882e233ee18ae33",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_5fulwn1f",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Filed for unemployment finished my claim by phone yesterday. The representative said they would mail me  instructions and debit card. Today I received a phone call from someone saying they needed to follow up with my claim. They said they needed to collect personal info so they would email me confirmation for who they are. The email gives her name, cell number and says she is Manager of Business Services for Western NY for the NYS department of labor. The area code is Buffalo. She hung up on me by accident and then tried calling back. Just wondering if anyone had someone call them to follow up and if this is legit?\n\nJust worth mentioning she sent me another email saying her calls are going directly to her personal cell cause she’s working from home. She said she’s going to move on to the next person if I don’t call her back.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "Filed for unemployment",
+        "confidence": 0.935248,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "my claim",
+        "confidence": 0.786747,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "79a3598d689400e45975f9c140dfde04f6c25f66",
+    "filename": "t2_5fulwn1f.json",
+    "file_type": "json"
+  },
+  "title": "department of labor scam?"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "85e40ec69cd53dde100e6b8092cf0e7c",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "author_fullname": "t2_x4c9o",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment",
+        "confidence": 0.929611,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "So they said they updated their site and whatnot  \nI just checked the NYC unemployment site and checked if I have to still call in and to my surprise I see it showing that I have to file a whole new claim entirely on their site.   \nPrior to this It was on the message that others had where I had to call in to finish my claim  \n\n\nAnyone else just checked and notice that they have to refile entirely? (They just updated it not so long ago so check)  \nor is it just a few people? God I hope this means I dont need to call when I re-do it tomorrow. (since apps are closed at this hour)/.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.789578,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.986609,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.789578,
+          "label": "negative"
+        },
+        "text": "new claim",
+        "confidence": 0.938996,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.489179,
+          "label": "negative"
+        },
+        "text": "my claim",
+        "confidence": 0.92205,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "f7aaabfce8206612e3baea64586c36714b2633cb",
+    "filename": "t2_x4c9o.json",
+    "file_type": "json"
+  },
+  "title": "Anyone else who has to reclaim? (unemployment)"
+}

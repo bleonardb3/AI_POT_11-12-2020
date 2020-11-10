@@ -1,0 +1,63 @@
+{
+  "id": "6b83d1d1dd8fdb3b012f3ce962668339",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_dumoemk",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment",
+        "confidence": 0.992832,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "The title. Can’t file unemployment without my PIN (the robot hangs up on you), can’t change or recover my PIN (robot hangs up on you). Need unemployment to survive. \n\nHas anyone had the same experience? Did you figure out a workaround? Please share!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "unemployment",
+        "confidence": 0.98673,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.876045,
+          "label": "negative"
+        },
+        "text": "file unemployment",
+        "confidence": 0.867874,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "95a9590a3cc7b814cf8394ee8658eaea4fd0c0e5",
+    "filename": "t2_dumoemk.json",
+    "file_type": "json"
+  },
+  "title": "Help with unemployment hotline? I’ve forgotten my PIN, but when I select the option to “change my pin” the menu robot tells me they’re too busy to take my call and hangs up on me."
+}

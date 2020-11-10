@@ -1,0 +1,41 @@
+{
+  "id": "0a7730439062650401e3cc98ae608186",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "author_fullname": "t2_sb7sd",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment",
+        "confidence": 0.995661,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "text": "UI",
+        "confidence": 0.79353,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "",
+  "extracted_metadata": {
+    "sha1": "d7579dfdb669d97482a077c373c3f40a4d67831b",
+    "filename": "t2_sb7sd.json",
+    "file_type": "json"
+  },
+  "title": "NYS unemployment direct deposit: When i updated my direct deposit info I received a deposit (NYS DOL UI DD UI DD $0.00) what is this?"
+}

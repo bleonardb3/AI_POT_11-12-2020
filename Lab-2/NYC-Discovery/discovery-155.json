@@ -1,0 +1,48 @@
+{
+  "id": "224b01de15b14e786bf0039951afa1fb",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_fh4dp",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment",
+        "confidence": 0.84146,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Anyone that’s already claimed a week do you also see that under the payment history tab after you go thru weekly claim section? I setup direct deposit too, how long does it usually take?\n\nSorry for all the questions just been stressing out about money and I’m just assuming worst that something will mess up last minute. Thank you for any help",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "claimed a week",
+        "confidence": 0.905866,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "c4c8d9981dc8052fd511d3ff431d02341d3f1729",
+    "filename": "t2_fh4dp.json",
+    "file_type": "json"
+  },
+  "title": "Unemployment Payment Pending Status"
+}

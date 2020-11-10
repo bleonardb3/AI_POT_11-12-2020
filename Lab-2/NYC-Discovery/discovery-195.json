@@ -1,0 +1,78 @@
+{
+  "id": "89e521467a6f27479911934995f6a952",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_hi5zk",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment claim",
+        "confidence": 0.959819,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I filed for unemployment 2 weeks ago. It said I had to call in to complete. I know a couple of days ago they rolled out the new system. Its Sunday and I still have not been contacted. Also when I log into the NYGOV portal to check my unemployment claim there is nothing there anymore. I just get the page about filing for some tax form. Did anybody else experience this? Should I refile my claim?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "filed for unemployment",
+        "confidence": 0.988204,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.749581,
+          "label": "negative"
+        },
+        "text": "unemployment claim",
+        "confidence": 0.987596,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "refile my claim",
+        "confidence": 0.885555,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "6202232ae68a2a42d9a7f7c4e706ba69edc80472",
+    "filename": "t2_hi5zk.json",
+    "file_type": "json"
+  },
+  "title": "Unemployment claim is now gone?"
+}

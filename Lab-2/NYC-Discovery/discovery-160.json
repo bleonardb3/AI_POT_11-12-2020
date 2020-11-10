@@ -1,0 +1,81 @@
+{
+  "id": "8d1ad59b34968a17a636a46d943bc570",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_297g1zuh",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I’m moving from Canada to New York for grad school this fall and have a few logistical questions that are stressing me out:\n\n\\-I’m a student so will not be making 40x rent and have no local guarantor. I know that there are lease guarantor services, but I really do not want to be paying if there are other ways I can prove financial ability. Has anyone been in a similar situation, what have you done? \n\n&#x200B;\n\n\\-I’m only allowed to land in the US 30 days before the start of my program because of Visa requirements. Is it feasible to find a place in this time-frame? Would it be recommended to find a place online before I land or to land and apartment search once I'm in the country?\n\n&#x200B;\n\nAny input is appreciated, thank you!!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.848019,
+          "label": "negative"
+        },
+        "text": "grad school",
+        "confidence": 0.959015,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.429988,
+          "label": "negative"
+        },
+        "text": "lease",
+        "confidence": 0.833079,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "apartment",
+        "confidence": 0.771054,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.902164,
+          "label": "negative"
+        },
+        "text": "rent",
+        "confidence": 0.566557,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "2f353cb1f6d97e9f80ad2243de407ee08c62327e",
+    "filename": "t2_297g1zuh.json",
+    "file_type": "json"
+  },
+  "title": "Moving and renting in NYC as an international student"
+}

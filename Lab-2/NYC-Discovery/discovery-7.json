@@ -1,0 +1,79 @@
+{
+  "id": "a047e36a0cc36173f26552546fbea88b",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "author_fullname": "t2_2wkagjf1",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment",
+        "confidence": 0.70808,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Hello everyone. Hopefully you are staying safe in this crazy time\n\nI was finally able to file for unemployment last week online and I’ve been checking the status everyday. Today it says that my claim is pending. What does this mean? My coworkers have gotten unemployment within 3 days or so but it seems I am going to have to wait. What reasons could there possibly be for a pending claim? Thank you for the responses and help\n\nThere doesn’t seem to be any answers online and I’ve tried calling in all morning but haven’t been able to get through",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.873806,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.995398,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.574888,
+          "label": "positive"
+        },
+        "text": "to file for unemployment",
+        "confidence": 0.980427,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.570075,
+          "label": "negative"
+        },
+        "text": "my claim",
+        "confidence": 0.888858,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "ac156759767e3feaf8a10f82151fc26532af2009",
+    "filename": "t2_2wkagjf1.json",
+    "file_type": "json"
+  },
+  "title": "My claim is in pending for unemployment"
+}

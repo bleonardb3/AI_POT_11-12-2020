@@ -1,0 +1,21 @@
+{
+  "id": "fa36421582a0aced743f573946edafde",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "author_fullname": "t2_2l2ri23a",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Our daycare hasn't mentioned what happens to our money now that they're closed. Obviously I don't want them to hit hard times, but we all are, and our family needs the money. Before I broach the topic with them I'd like to know if there's any official guidance in place.",
+  "enriched_text": {
+    "entities": []
+  },
+  "extracted_metadata": {
+    "sha1": "7954dbb96f2bfd73faf6f29e6190db411c0ecc45",
+    "filename": "t2_2l2ri23a.json",
+    "file_type": "json"
+  },
+  "title": "Should daycare be providing families refunds?"
+}

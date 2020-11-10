@@ -1,0 +1,49 @@
+{
+  "id": "5949e1a6d9f7dd9548265a36296d6c54",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "author_fullname": "t2_12e606",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment",
+        "confidence": 0.98151,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I filed originally under the old system on 3/24, was never able to make it through, then they chagned the system around 10 days ago. I got a recording saying someone would call me within 72 hours and that I don't need to file with the new system. They never called. So I filed again under the new system about four days ago. I got a printout saying someone would call me within 72 hours. Nobody did.\n\nI don't know if this is typical or not.\n\nEdit: I should mention I didn't lose my job due to covid, it happened a few months ago and I never bothered to file becuase I thought I'd find a new job quickly... but covid made me realize that isn't going to happen anytime soon so I'm rushing to file now. I know, that was really stupid.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.909786,
+          "label": "negative"
+        },
+        "text": "lose my job",
+        "confidence": 0.858465,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "4b940655a730d67f9ab3e1348ba34de2f3b7c85b",
+    "filename": "t2_12e606.json",
+    "file_type": "json"
+  },
+  "title": "It's been over a week since they changed the unemployment system to \"don't call us, we'll call you\". Has anyone else NOT been called yet?"
+}

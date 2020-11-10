@@ -1,0 +1,81 @@
+{
+  "id": "12a9aa25f6a6656fa454ee962b5b4a8e",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_5ey37vll",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Copy and pasted from different post I made. Is in Brooklyn nyc - subleased with no proof of address for 23 days. I got laid off, said no to my roommate about continuing our relationship due to mental health reasons and stress and am being bullied out of my room I’ve been subletting as an immigrant that’s already terrified. They’ve already vandalized my bedroom, burnt my childhood photos that cannot be replaced and set fire to some of my clothing. They tried to take my dog because they like him and think my vets advice is wrong. I have no income due to my immigrant status in this country. I lost my job teaching classical piano and walking dogs. I have until Monday to figure something out with $0 in my pocket and no family to help me. I am fucking terrified. Am in NYC, Brooklyn if anyone can help or offer advice. I am just scared about my dog. Reason this began in the first place - I said no to dating my roommate.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.797481,
+          "label": "negative"
+        },
+        "text": "I lost my job",
+        "confidence": 0.99737,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.987928,
+          "label": "negative"
+        },
+        "text": "got laid off",
+        "confidence": 0.987303,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "I have no income",
+        "confidence": 0.952439,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.908188,
+          "label": "negative"
+        },
+        "text": "$0 in my pocket",
+        "confidence": 0.813084,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "86dac73c0757ecfa796c606dfa5b0cfe446f219f",
+    "filename": "t2_5ey37vll.json",
+    "file_type": "json"
+  },
+  "title": "Being kicked out by roommates."
+}

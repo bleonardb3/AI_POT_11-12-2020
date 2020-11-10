@@ -1,0 +1,81 @@
+{
+  "id": "166b45548ee78ba0dc0ccf3389c82acb",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_9ixx2",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I just got the renewal offer from my landlord and they’re of course trying to raise my rent again, by over 4%. I’ll try to get them to back off the increase, but if they don’t, then what? My lease is up in July. I’m either going to lose my job or get a severe reduction in salary by then. \n\nThoughts?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.626505,
+          "label": "negative"
+        },
+        "text": "landlord",
+        "confidence": 0.969378,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "lease",
+        "confidence": 0.939444,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.626505,
+          "label": "negative"
+        },
+        "text": "rent",
+        "confidence": 0.934994,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.870693,
+          "label": "negative"
+        },
+        "text": "severe reduction in salary",
+        "confidence": 0.739079,
+        "type": "Hourly_Wage_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "019affdd5239a200eb0a8e2f795d709f13ade489",
+    "filename": "t2_9ixx2.json",
+    "file_type": "json"
+  },
+  "title": "Raising rents"
+}

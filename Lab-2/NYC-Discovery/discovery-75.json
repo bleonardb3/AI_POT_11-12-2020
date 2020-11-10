@@ -1,0 +1,64 @@
+{
+  "id": "48a789ec5d8468e45ddf9e4824cf0c63",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "author_fullname": "t2_56c8qiio",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment",
+        "confidence": 0.994473,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Hello, \n\n&#x200B;\n\nI filed for UI on 3/27 via the web and submit everything just fine. \n\nI got a message in my inbox from them saying:\n\n*We have received the claim you recently filed on our website. However, you need to speak to an agent to complete it as soon as possible.*\n\n*To do this, please call our Telephone Claims Center toll free at 888-209-8124. Select your language, then press 9 for the Main Menu. At the Main Menu, press 2 - \"To complete your claim...\" Please follow the instructions and wait on the line until a representative is available to help you.*\n\n&#x200B;\n\nHowever on the main page it says: \n\n**Please do not call if you already have a UI claim; it will only make it difficult for others to reach an agent.**\n\n&#x200B;\n\n Do I need to call this number, or am I ok?\n\n&#x200B;\n\nThanks",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "UI claim",
+        "confidence": 0.993442,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.629058,
+          "label": "positive"
+        },
+        "text": "filed for UI",
+        "confidence": 0.906059,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "f0083dee45d886e3ed901a82196d571d5b574419",
+    "filename": "t2_56c8qiio.json",
+    "file_type": "json"
+  },
+  "title": "Unemployment Insurance Question"
+}

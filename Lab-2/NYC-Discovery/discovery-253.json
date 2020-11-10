@@ -1,0 +1,48 @@
+{
+  "id": "2146262556bd0fd5445c072a03d47f14",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_4vwe5269",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment",
+        "confidence": 0.992668,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "After you received your robotic call and after they eventually called you, how long did it take for them to update the page where it said you only completed half of your claim etc, to completed and ready to go?  \nIts been two days already for me after the call but I was told it should of been ready already for me , when she told me before hanging up.  \nHow long it take you to get your page updated to completed? Its still telling me to call.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.492897,
+          "label": "negative"
+        },
+        "text": "your claim",
+        "confidence": 0.768973,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "6e8de62f4c09d24222f21e3d88502b6a8f476c3c",
+    "filename": "t2_4vwe5269.json",
+    "file_type": "json"
+  },
+  "title": "For those who received a call from the unemployment"
+}

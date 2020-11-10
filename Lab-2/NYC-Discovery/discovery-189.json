@@ -1,0 +1,63 @@
+{
+  "id": "cbb1a50fd3ea0e2b915c580e9bf861c1",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_3q7zoulc",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment",
+        "confidence": 0.939159,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Applied for unemployment like around March 20 for my dad. Finally got a call back last week. Lady approved my case and told me claim benefits weekly starting this past sunday. I did so and no money had been deposited into my dads account. Does anybody know why? I can’t even call and have given up calling at this point",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "unemployment",
+        "confidence": 0.971936,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.346342,
+          "label": "positive"
+        },
+        "text": "claim benefits weekly",
+        "confidence": 0.864727,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "92b87eadb0c31a96258e889b2f6c6d6ba7459070",
+    "filename": "t2_3q7zoulc.json",
+    "file_type": "json"
+  },
+  "title": "unemployment help"
+}

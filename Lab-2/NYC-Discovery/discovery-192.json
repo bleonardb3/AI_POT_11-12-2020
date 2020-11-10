@@ -1,0 +1,32 @@
+{
+  "id": "d37eaaeef7eb22ad185bb4cfe925f726",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_16atp3du",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "UI",
+        "confidence": 0.718793,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I filed on April 1st and never received a number to call, claim is still pending even though I claimed the $0 benefits for the first week. Am I supposed to call a number? Everybody is talking about not being able to get through on the line but I’ve never even had a number to call so I’m just a tad confused by all of this. I know the American system isn’t exactly as streamlined as possible but I’m really left in the dark here wondering what to do. \n\nAny help is greatly appreciated! Thanks in advance",
+  "enriched_text": {
+    "entities": []
+  },
+  "extracted_metadata": {
+    "sha1": "6372d844b4fa307387504c6474090ce1375e6a17",
+    "filename": "t2_16atp3du.json",
+    "file_type": "json"
+  },
+  "title": "New American citizen trying to understand UI. Not going through for anybody else?"
+}

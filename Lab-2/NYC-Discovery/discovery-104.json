@@ -1,0 +1,111 @@
+{
+  "id": "3870408e56651fc18ff9451b500d560e",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_z3zxw",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hi all, like many I have just found myself with out a job and just sitting at home with upcoming rent bills. My lease doesn't end until July and I doubt I could find anyone to move on right now to take over. If I went back to my home state I know there's a job waiting for me and a rent free room at a parent's house so I'm really considering leaving since all my work has been cancelled for the foreseeable future, but am I really stuck in my lease? And with the new travel restrictions I'm not sure if I could rent a car to drive home. I'm in a position where I'll be okay for about the end of May but if I don't have any money coming in soon I can't stay. I know lots of people have left rather hastily due to the upcoming travel restrictions but I just am not prepared to leave right now. Any advice?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.861958,
+          "label": "negative"
+        },
+        "text": "lease",
+        "confidence": 0.985323,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.788236,
+          "label": "negative"
+        },
+        "text": "lease",
+        "confidence": 0.959314,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.921597,
+          "label": "negative"
+        },
+        "text": "rent",
+        "confidence": 0.95427,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.620253,
+          "label": "negative"
+        },
+        "text": "drive",
+        "confidence": 0.949366,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.387837,
+          "label": "positive"
+        },
+        "text": "rent",
+        "confidence": 0.94644,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.620253,
+          "label": "negative"
+        },
+        "text": "rent a car",
+        "confidence": 0.93236,
+        "type": "No_Vehicle",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "d9201ce6cd320a6e3ce8b59e292f4cc38bb1b6a1",
+    "filename": "t2_z3zxw.json",
+    "file_type": "json"
+  },
+  "title": "Stuck?"
+}

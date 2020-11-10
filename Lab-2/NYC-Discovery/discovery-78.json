@@ -1,0 +1,49 @@
+{
+  "id": "d770c7d1b3b8c26b7452ef018773e49e",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "author_fullname": "t2_3k1rd",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment",
+        "confidence": 0.84556,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I've filed 3 times trying to get unemployment insurance. I first filed thru the original website a month ago, tried to call, no answer. filed again 2 weeks with the next system and they called me to confirm info, still no results. 3rd time was today, another updated system, submission confirmed, waiting for a call.\n\nI find there are 2 different websites. \nhttps://applications.labor.ny.gov/Individual/\nhttps://unemployment.labor.ny.gov\n\nWhats going on?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "unemployment",
+        "confidence": 0.990215,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "0c5553ca2a212e3fbf4dfd36a7b5d99f7fd06169",
+    "filename": "t2_3k1rd.json",
+    "file_type": "json"
+  },
+  "title": "Double Unemployment websites."
+}

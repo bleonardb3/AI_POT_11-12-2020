@@ -1,0 +1,29 @@
+{
+  "id": "1cb1aee434d9efe8429184cd957eeaf4",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_15qv1c7t",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "to file for unemployment",
+        "confidence": 0.982755,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "",
+  "extracted_metadata": {
+    "sha1": "b6710381ed5f1716d15bb61081e5a3bbf4c78c35",
+    "filename": "t2_15qv1c7t.json",
+    "file_type": "json"
+  },
+  "title": "For anybody trying to file for unemployment but your session keeps timing out, use this AutoFill extension from Chrome! Completed the app in less than a minute."
+}

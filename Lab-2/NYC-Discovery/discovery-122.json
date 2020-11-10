@@ -1,0 +1,48 @@
+{
+  "id": "60c85d1dd88e12e99e7042771e1a72d4",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_1v9rvqq",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment",
+        "confidence": 0.805525,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "This is my first time ever claiming unemployment. I claimed both this and last week, is there a number to call so I can ask whats going on? I know it’s probably because of the massive amounts of people applying but I just want to double check, I just thought that the 7 day fee was waived and even so, its been more than 7 days. I’ve  checked my payment history and its still at 0.00 and pending. If anyone knows a number that I can contact please send it my way",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.34746,
+          "label": "positive"
+        },
+        "text": "unemployment",
+        "confidence": 0.902712,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "8f6458974ed015b338f90b6c89df548230cfaa29",
+    "filename": "t2_1v9rvqq.json",
+    "file_type": "json"
+  },
+  "title": "I applied for unemployment benefits on the week of 03/23, still have absolutely no money."
+}

@@ -1,0 +1,184 @@
+{
+  "id": "616315bd3afa0a3d081f42dab274aec6",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_5imqi7yo",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "medicaid",
+        "confidence": 0.831918,
+        "type": "Medically_Insured",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I don't know where else to go for these answers (googling has been very confusing to me). I'll try to keep this short.\n\nI am in my final year of medical school in New York and have lived in the Midwest up until med school. I am now over 26 and applied for medicaid since I have no income and can no longer use my parents' insurance. I have not really considered myself a NY State resident until now since I am only here for school and don't know where I will be in 6 months when I graduate (and I will cancel my medicaid then, since my medical residency program will provide health insurance).\n\nHowever, my home state denied me for medicaid, saying that I have been in NY for several years. So I applied for NY medicaid and was accepted without any real proof of being a resident except giving my apartment address.\n\nMy drivers license is still from the midwest. I guess I need to switch this over to NY now? And I will file NY taxes for the past year? (have not filed in med school since I have had no income). Is there anything else I need to do to be a \"NY resident\"?\n\nI am really confused about how this whole \"residency\" thing works but I am afraid that my medicaid will somehow be denied if I need to use it. I'd really appreciate anyone that can shed some light on this for me or point me in the right direction.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.845198,
+          "label": "negative"
+        },
+        "text": "medicaid",
+        "confidence": 0.99235,
+        "type": "Medically_Insured",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.764296,
+          "label": "negative"
+        },
+        "text": "medicaid",
+        "confidence": 0.992196,
+        "type": "Medically_Insured",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.524094,
+          "label": "negative"
+        },
+        "text": "drivers license",
+        "confidence": 0.98966,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.845198,
+          "label": "negative"
+        },
+        "text": "I have no income",
+        "confidence": 0.974973,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.990938,
+          "label": "negative"
+        },
+        "text": "medicaid",
+        "confidence": 0.970121,
+        "type": "Medically_Insured",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.521227,
+          "label": "positive"
+        },
+        "text": "medicaid",
+        "confidence": 0.967916,
+        "type": "Medically_Insured",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.859224,
+          "label": "negative"
+        },
+        "text": "medicaid",
+        "confidence": 0.956973,
+        "type": "Medically_Insured",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.774996,
+          "label": "negative"
+        },
+        "text": "med school",
+        "confidence": 0.953124,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.50449,
+          "mixed": "1",
+          "label": "negative"
+        },
+        "text": "med school",
+        "confidence": 0.920026,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.44157,
+          "label": "positive"
+        },
+        "text": "final year of medical school",
+        "confidence": 0.895464,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "073dda1555ba10de5cb274a1aff3b72a9f46463b",
+    "filename": "t2_5imqi7yo.json",
+    "file_type": "json"
+  },
+  "title": "Question about medicaid/NY state residency"
+}

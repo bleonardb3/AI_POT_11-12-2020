@@ -1,0 +1,48 @@
+{
+  "id": "fe874fdc50d04177839de44a86d436c0",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_3y9abuhb",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment",
+        "confidence": 0.580341,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "So I filed for unemployment over 3 weeks ago and it still says pending status and I have not heard anything about the amount. My three other coworkers filed on the same day and theirs all went through. My mom and I can’t get through to anyone but the situation is getting scary. How much longer would waiting be considered normal. Also do part time workers get the additional $600? \nThanks.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.939513,
+          "label": "negative"
+        },
+        "text": "filed for unemployment",
+        "confidence": 0.973989,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "a84d5797cb2a972635a63548416c24443655ca4f",
+    "filename": "t2_3y9abuhb.json",
+    "file_type": "json"
+  },
+  "title": "Unemployment question"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "dd2cb1e137630fe182ff59211abb75c9",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_j9juy",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "PUA",
+        "confidence": 0.970816,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "aight bros long story short i applied for UI march 27th, just got denied today and also invited to apply for PUA, and i cannot upload my goddamn 1099 to their shitty ass website. all i get is a \"there was a problem with the system, please try again later\" this is fucking ridiculous the website is working fine and ive tried to upload it in multiple file types.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.998094,
+          "label": "negative"
+        },
+        "text": "applied for UI",
+        "confidence": 0.984049,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.998094,
+          "label": "negative"
+        },
+        "text": "apply for PUA",
+        "confidence": 0.843927,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "b220eb684a185a5da8caa88a9c4d44c5651a01bc",
+    "filename": "t2_j9juy.json",
+    "file_type": "json"
+  },
+  "title": "Cannot upload documents for PUA"
+}

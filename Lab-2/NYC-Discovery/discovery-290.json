@@ -1,0 +1,93 @@
+{
+  "id": "89749a0f6379581bfb9c11c6586106f4",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_338uy9nd",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "landlord",
+        "confidence": 0.82838,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I have a idea that now when you rent a apartment there will be a paper you will need to sign saying that you chose the broker on your own accord even though this broker has an exclusive with the landlord. If you make a fuss about signing it they will not rent you the Apartment. This will allow the broker to keep collecting the fee from the tenant \n\nAnyone else feel this way?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.806077,
+          "label": "positive"
+        },
+        "text": "tenant",
+        "confidence": 0.989696,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.764942,
+          "label": "positive"
+        },
+        "text": "landlord",
+        "confidence": 0.970891,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.764942,
+          "label": "positive"
+        },
+        "text": "rent a apartment",
+        "confidence": 0.896378,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.864984,
+          "label": "negative"
+        },
+        "text": "rent you the Apartment",
+        "confidence": 0.85421,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "af349822357a747f2a2005c5dce20bd1a4c92821",
+    "filename": "t2_338uy9nd.json",
+    "file_type": "json"
+  },
+  "title": "Anyone else thing landlord will start skirting the new broker rule"
+}

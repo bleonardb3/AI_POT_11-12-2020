@@ -1,0 +1,93 @@
+{
+  "id": "9e1c36289d5a9f0f83c284e10bb8c4bd",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_43vv3g3u",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment claim",
+        "confidence": 0.986853,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Hi All,\n\nI lost my job on the 17th of March due to Covid19, and applied for unemployment the same day. I didn’t need to call and finished my application online. \n\nI checked this morning and it still says my claim is pending? I have not received any funds yet though I have filled out the claim benefits questionnaire already. \n\nIs anyone else having the same situation??\n\nEdit: my message in my inbox says 3-6 weeks but I thought that was being waived??",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.841733,
+          "label": "negative"
+        },
+        "text": "I lost my job",
+        "confidence": 0.997357,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.841733,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.946809,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.85979,
+          "label": "negative"
+        },
+        "text": "claim benefits",
+        "confidence": 0.92904,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.860325,
+          "label": "negative"
+        },
+        "text": "my claim",
+        "confidence": 0.925898,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "f56099bebb797012112a5eccc911eafc219fed52",
+    "filename": "t2_43vv3g3u.json",
+    "file_type": "json"
+  },
+  "title": "Unemployment claim still pending?"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "989a1315869c486709b644225c5e5c4f",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_10vf1c",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment",
+        "confidence": 0.862622,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Question, pls:\n\nWhen I called unemployment to finalize my status, the rep said there'd be a link through which to upload my 1099s + cover letter. I've found no such option on the UI website. Just filed second weekly claim, btw, and account says my claims are pending, but I've seen no cash thus far. I'm wondering if this is simply a slow process, or if I fouled up somewhere. I'd like to send them my proof of income, too.\nDoes anyone where to upload or have the fax #?\nThanks.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "UI",
+        "confidence": 0.966087,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.921623,
+          "label": "negative"
+        },
+        "text": "filed second weekly claim",
+        "confidence": 0.958327,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.661082,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.875281,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "bf76cc533c2ead2397ca3e5d272b11dd7daf1e6f",
+    "filename": "t2_10vf1c.json",
+    "file_type": "json"
+  },
+  "title": "Unemployment Benefits for Freelancers"
+}

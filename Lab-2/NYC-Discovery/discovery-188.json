@@ -1,0 +1,63 @@
+{
+  "id": "4a4d3da98b4244fb1a9fbad7540e300c",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_296i7bnq",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "temporarily laid off",
+        "confidence": 0.698935,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I work (I guess worked) for a PR agency and they temporarily laid me off, as well as a handful of other employees for the next 8 weeks... Maybe even more. I just don’t know what to think. I don’t know how to afford life here. Even with me collecting unemployment it’s still not enough because bills and rent. The toughest part is that I can’t even really look for a new job because who is hiring during this time. \n\nFor real, screw coronavirus and all the damage it’s causing to everyone and their loved ones.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.97356,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.965522,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.90108,
+          "label": "negative"
+        },
+        "text": "rent",
+        "confidence": 0.856763,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "20f4bba6988d2574b602d7697a6a9bf7dcf814cd",
+    "filename": "t2_296i7bnq.json",
+    "file_type": "json"
+  },
+  "title": "I got temporarily laid off and I know that there are so many people in the same situation but it’s still just as frightening and overwhelming"
+}

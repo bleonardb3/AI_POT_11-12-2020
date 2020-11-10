@@ -1,0 +1,51 @@
+{
+  "id": "3ac2f7b7459476a601477f1837054ccb",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_50vd0hfj",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I've been trying to register for unemployment for days and the site keeps timing out or crashing, and now it is completely down. I understand we are currently going through a tough time, and thankfully I am not in immediate need of unemployment funds, but this is unacceptable. It will take weeks from registration for people to start getting the aid they need to stay in their homes and pay essential bills, and every day this system isn't even functioning is another day those people go without.\n\nI don't have a job now because of this outbreak, but you do. DO YOUR FUCKING JOBS!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.874508,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.979453,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.925217,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.964424,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "ac6afbfe397cf75794c5114045daaa7ae39330c0",
+    "filename": "t2_50vd0hfj.json",
+    "file_type": "json"
+  },
+  "title": "NY State Department of Labor: Sincerely, go fuck yourselves"
+}

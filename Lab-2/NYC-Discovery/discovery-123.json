@@ -1,0 +1,51 @@
+{
+  "id": "ee25f7545be1316381437cbe2ccacb6f",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_6w5gu",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I have genuinely called these people close to 600 times now and I've probably gotten to that SSN + Pin # step maybe a little less than 30 times and still have not been able to complete my claim. \n\nMeanwhile, people who filed starting this Monday under the CARES Act completed everything online a-okay. I filed last Thursday. Can you not reverse or drop the claim or something?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.9546,
+          "label": "negative"
+        },
+        "text": "have not been able to complete my claim",
+        "confidence": 0.887024,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.455576,
+          "label": "negative"
+        },
+        "text": "CARES Act",
+        "confidence": 0.744137,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "fc0c14c025a377fd141d86baf43f67b12c719eb7",
+    "filename": "t2_6w5gu.json",
+    "file_type": "json"
+  },
+  "title": "Anybody else call the Department of Labor over 500 times now and still haven't gotten through?"
+}

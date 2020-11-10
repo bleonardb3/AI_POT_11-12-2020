@@ -1,0 +1,78 @@
+{
+  "id": "5e716b07d8aa36e0a9f9d1cdec79a8bd",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_5lyhu9",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment",
+        "confidence": 0.895356,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Howdy Everyone, \n\nQuestion / Advice Needed\n\nI applied for unemployment benefits mid march , and finally got through the overloaded call system system to finish my application / confirm with a real person the week after.  In my online gateway here [applications.labor.ny.gov/Individual/](https://applications.labor.ny.gov/Individual/) when i click on  \"unemployment services\" and get brought to the second domain [uihp2.labor.ny.gov](https://uihp2.labor.ny.gov) to submit my weekly claims for benefits, for the past 2 weeks i have had a \"Weekly benefit amount\" of $0.00 and a maximum payable amount of $0.00... (for direct deposit) This has me a bit worried. I filed as an independent contractor but there is no way for me to speak to anyone about this because the call service will not work for me anymore as i already have completed my claim... There is a notice on the page that states \"Your claim is in pending status. No payments have been made on your claim.\" \n\nHas this happened to anyone else? \n\nAny advice / solutions? \n\nDo you think since i registered as an independent contractor that i am not eligible for payments or could it be that they have not gotten around to making payments\n\nThanks Gentlemen",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.274566,
+          "label": "negative"
+        },
+        "text": "weekly claims",
+        "confidence": 0.978318,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.274566,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.956234,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.68468,
+          "label": "positive"
+        },
+        "text": "unemployment",
+        "confidence": 0.927919,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "0b8ce5729caceccda52defaefe806daa745a74db",
+    "filename": "t2_5lyhu9.json",
+    "file_type": "json"
+  },
+  "title": "unemployment benefits question"
+}

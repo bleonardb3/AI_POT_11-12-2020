@@ -1,0 +1,78 @@
+{
+  "id": "9bc886a1457f8fe9af7c759cb586a0b8",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_44k8b2tm",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment",
+        "confidence": 0.860194,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Times are really tough for me and I have literally 0 income rn, Im unable to pay rent or bills. I really need that unemployment, but i don’t know if I can get it if I work under the books.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.965477,
+          "label": "negative"
+        },
+        "text": "rent",
+        "confidence": 0.97813,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.778694,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.925337,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.965477,
+          "label": "negative"
+        },
+        "text": "0 income",
+        "confidence": 0.56679,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "206e7c3d19a4c202507bd091f90ae9450c80c6d6",
+    "filename": "t2_44k8b2tm.json",
+    "file_type": "json"
+  },
+  "title": "Can I get unemployment if I get paid under the books?"
+}

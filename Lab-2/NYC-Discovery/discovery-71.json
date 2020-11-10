@@ -1,0 +1,172 @@
+{
+  "id": "77155da4beb655b183a2f20506b50ef4",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "author_fullname": "t2_5a9hn",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I’m looking for some advice regarding my current landlord and rent payments. \n\nI mail my check on time every month. There first three months he wasn’t in the city, so they were not cashed for those months, then cashed all at once. The money was there, but it was a constant source of anxiety that i had to ensure that about 7k in rent was in my bank account and it couldn’t be touched for that time frame. He came back to the city, but still waits until nearly the end of the month to cash checks. Annoying, but I can live. I’m pretty sure it’s a rent stabilized landlord tactic. Forget rent didn’t come out, spend some, check bounces, you can get evicted. \n\n\nThe real issue is I send my checks to an address in south williamsburg, if you live in northern bk chances are you know someone who mails rent there. There was even an article about it. It is just essentially hundreds of PO boxes. But you address the check to “suite ###” I thought at first it was an actual office. \n\n\nAlmost every time I send my check he messages me and is like where is your rent? All I can say is I sent it. I also take photos of the checks written. \nThe first one or two times he was like it’s probably mixed up in another box or whatever, it’ll turn up. It eventually did. Another didn’t. I had to pay a stop payment and write a new check. The passed few months, I’ll message and ask if it arrived yet. I didn’t this month, and again he’s like I don’t have it, it’s weird you always seem to have this issue. To appease him I am physically meeting him to hand over the check. \n\nHe suggested I post date 6 months so i’m not late. I am absolutely not comfortable with that. \nI have repeatedly asked if there is an online way I can pay, so it is immediate. He just says he is working on it for the future. I quickpayed my deposit, so I know he can use it. \n\n\nCan I be ousted for this? I have asked if he has received them, sent photos of me at the mailbox with them, and suggested other methods so he gets his rent. It’s a rent stabilized apartment that i definitely do not want to leave.  I’ve only been here 7 months, so i’m not sure if this is normal for everyone in the building.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "rent",
+        "confidence": 0.998374,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.762121,
+          "label": "negative"
+        },
+        "text": "rent",
+        "confidence": 0.978341,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.776683,
+          "label": "negative"
+        },
+        "text": "rent",
+        "confidence": 0.975949,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "rent",
+        "confidence": 0.968534,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "rent",
+        "confidence": 0.955643,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.755556,
+          "label": "negative"
+        },
+        "text": "rent stabilized apartment",
+        "confidence": 0.946346,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "landlord",
+        "confidence": 0.924869,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.861868,
+          "label": "negative"
+        },
+        "text": "rent",
+        "confidence": 0.900094,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "rent payments",
+        "confidence": 0.855196,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "current landlord",
+        "confidence": 0.733012,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "4d64061af0fabbb96d86cf2edeb21a4cd0501c99",
+    "filename": "t2_5a9hn.json",
+    "file_type": "json"
+  },
+  "title": "Landlord rent check issues"
+}

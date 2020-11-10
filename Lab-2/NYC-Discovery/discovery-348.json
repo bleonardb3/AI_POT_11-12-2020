@@ -1,0 +1,32 @@
+{
+  "id": "aa3666b179dfac5a6134d8e44ba4fa4e",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_3grg2",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "to file for Unemployment Insurance",
+        "confidence": 0.969623,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I am unable to process my application after about page 8.  The phones are all down and I cant get through to anyone.  Anyone have any advice how to expedite this process?  I have tried logging in and filling this out about 20x per day, periodically throughout in order to find an open window.",
+  "enriched_text": {
+    "entities": []
+  },
+  "extracted_metadata": {
+    "sha1": "79ec51c6280d8216f419f246af1a37aa054fb2cd",
+    "filename": "t2_3grg2.json",
+    "file_type": "json"
+  },
+  "title": "Attempting to file for Unemployment Insurance online for a week, website keeps kicking me off"
+}

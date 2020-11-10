@@ -1,0 +1,48 @@
+{
+  "id": "ed89e7035385a98027eeaaea31ebafde",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_gx7udea",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment",
+        "confidence": 0.911769,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "It’s going to be the equivalent of contacting God to get this fixed unless this is how they do it now. Never filed unemployment and i’m confused as fuck.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.975815,
+          "label": "negative"
+        },
+        "text": "filed unemployment",
+        "confidence": 0.950434,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "0e1cd5d9f7e2cde59066c90918b90c5d3e316a51",
+    "filename": "t2_gx7udea.json",
+    "file_type": "json"
+  },
+  "title": "Anyone else get an unemployment benefits debit card when they chose direct deposit?"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "a66955af25c86d4d9a07b7da7ab7c5cc",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_60nvcqoi",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment",
+        "confidence": 0.889097,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I filed for unemployment almost a full month ago. Was able to file online with ease. For whatever reason it says I have to call to finish my claim. \n\nI have been calling 900+ times every single day since then. Have not once got through to anyone. It's now almost a full month and I have been without pay and all my bills are due. \n\nI'm at a loss of words on what to do",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "filed for unemployment",
+        "confidence": 0.985334,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "my claim",
+        "confidence": 0.955222,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "2983a511053d96d8ded75bbdab23a1d71042426d",
+    "filename": "t2_60nvcqoi.json",
+    "file_type": "json"
+  },
+  "title": "3 full weeks of unemployment calls..."
+}

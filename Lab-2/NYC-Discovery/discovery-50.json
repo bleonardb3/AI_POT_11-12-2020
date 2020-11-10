@@ -1,0 +1,64 @@
+{
+  "id": "053f4105710edcf1de7405852b352ef4",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "author_fullname": "t2_64yivbqo",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment",
+        "confidence": 0.939341,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Many states have publicly declared that they are waiving the work search requirement for those able to claim unemployment but I am unable to find information on whether NY is doing so as well. I was temporarily laid off due my work closing due to covid-19 and plan to come back to my workplace once it is open, which makes the work search requirement complicated. Does anyone have information or know of a official source that lets us know?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.511267,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.912235,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.587485,
+          "label": "negative"
+        },
+        "text": "laid off",
+        "confidence": 0.76984,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "9a8184cfe61caabf536ebbf9d8ddafa86cb75a72",
+    "filename": "t2_64yivbqo.json",
+    "file_type": "json"
+  },
+  "title": "For those collecting unemployment benefits, is the work search requirement waived?"
+}

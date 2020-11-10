@@ -1,0 +1,52 @@
+{
+  "id": "1c851bdfb441b846d1dd680407c190d9",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "author_fullname": "t2_2wpw8ea",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Honest question, hear me out.\n\nI was born in the city and while my mom had to move us to Jersey because rent here was too high, my family was always here and I identified as a New Yorker all my life before anything else. This spring marks six years out of college, and about four working full-time, and I still can't make enough to reasonably move out of living at home while still saving some income. Been trying to find a new job but even with experience I've found it tough to get offers with decent salaries and the atmosphere in the city feels more and more oppressive every day.\n\nI guess I'd like to get some other people's perspectives in this. I have a decent social life here but my boyfriend lives out of state in suburbia and I've been contemplating moving in with him. The change would be daunting but reports are consistent that more and more people are leaving the city and not enough are coming in to replace them. So what's the real feel gang?\n\nEdit: This post got a lot bigger than I expected so I won't have the time/energy to respond to everyone, but thanks for sharing your thoughts. I didn't think I would be the only one but I'm surprised how many have had the same thoughts and feelings. Makes me feel less alone. Hope you have a good week!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.312719,
+          "label": "positive"
+        },
+        "text": "rent",
+        "confidence": 0.940358,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.392369,
+          "label": "positive"
+        },
+        "text": "working full-time",
+        "confidence": 0.897299,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "e3faebff198674a5f67ed01e1c7fc80e6bf89258",
+    "filename": "t2_2wpw8ea.json",
+    "file_type": "json"
+  },
+  "title": "Have any natives ever considered leaving?"
+}

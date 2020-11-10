@@ -1,0 +1,48 @@
+{
+  "id": "a260b9a5bb961f26cac0e4ed75a98a14",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_5nplvppe",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment",
+        "confidence": 0.728859,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Does anyone know what the peak times are? Any tips to finish the application? \n\nWhenever I call I get a hang up tone, if I try to file online I either get a crash message and if I go past the first set of questions I’ll get timed out and lose all progress. \n\nThanks",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.798987,
+          "label": "negative"
+        },
+        "text": "file online",
+        "confidence": 0.794803,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "f88dda077416d1f5e9363a2bd394c83bfba54310",
+    "filename": "t2_5nplvppe.json",
+    "file_type": "json"
+  },
+  "title": "Best time to call or file online for unemployment"
+}

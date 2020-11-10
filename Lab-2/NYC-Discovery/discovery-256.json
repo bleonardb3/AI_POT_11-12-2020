@@ -1,0 +1,51 @@
+{
+  "id": "6bd1bab41cd6c5af4cace7e516c10908",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_91m0t",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Work as a bartender and was laid off. I'll be handing my very generous stimulus right to my landlord. Feels like a bailout but not for working people...",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.967632,
+          "label": "positive"
+        },
+        "text": "landlord",
+        "confidence": 0.990526,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "was laid off",
+        "confidence": 0.791874,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "c02389de61cfce906c391ab4bd4faec437d8657b",
+    "filename": "t2_91m0t.json",
+    "file_type": "json"
+  },
+  "title": "Is anyone else paying April with their stimulus check with nothing left over?"
+}

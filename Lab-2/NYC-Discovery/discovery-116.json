@@ -1,0 +1,48 @@
+{
+  "id": "85ad3410ff2badd4fa0d135c76d06ddc",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_6ds91",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment",
+        "confidence": 0.686177,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I filed my claim about 2 weeks ago and got a message telling me to call a number and finish it through a phonecall. Ive been calling everyday over 300 times and still cant get ahold of a rep. Anyone else in the same boat? What should i do",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.789062,
+          "label": "negative"
+        },
+        "text": "I filed my claim",
+        "confidence": 0.887098,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "8c615cbbae2998918f066155277f6d27ef90e8b6",
+    "filename": "t2_6ds91.json",
+    "file_type": "json"
+  },
+  "title": "Unemployment"
+}

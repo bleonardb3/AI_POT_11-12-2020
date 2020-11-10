@@ -1,0 +1,51 @@
+{
+  "id": "ff82907e8ec0b2f015f94fc9e649bf80",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_5ax9b89y",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hey everyone. 19 year old nyc college student here. So back when COVID-19 ramped up and began shutting workplaces down, I was furloughed from my sales associate job and told to file for unemployment. So I did. A little bit before the pandemic started, I started a another part time job (extremely part time). Though I got furloughed from my main part time job, the latter part time job allows me to work from home during this time. I only work once or twice a week with this job from home. I recently got a warning from unemployment about not reporting income. I did not report it due to the payment processing at this job being delayed due to the virus, but reported it when I got the warning. Am I still eligible to receive unemployment benefits as someone who was furloughed from one job but still working from home at another (as long as I report income and days worked)? I would think that since I was initially eligible for it I would still be, but the warning made me uneasy about claiming benefits. Unemployment and all the terms attached to it can get a little confusing and the last thing I want to do is make a mistake and get charged by the state for overpayment or mistakenly get charged with fraud.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "college student",
+        "confidence": 0.992548,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.273232,
+          "label": "positive"
+        },
+        "text": "work from home",
+        "confidence": 0.716853,
+        "type": "Hourly_Wage_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "8a735cc1e88f0ba5d280b48d0068e1f1500f958a",
+    "filename": "t2_5ax9b89y.json",
+    "file_type": "json"
+  },
+  "title": "unemployment question"
+}

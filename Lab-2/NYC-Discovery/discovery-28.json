@@ -1,0 +1,64 @@
+{
+  "id": "1b1ab42979c7a6e91fa3e920b898f714",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "author_fullname": "t2_4ndsv",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment",
+        "confidence": 0.872235,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I filed for unemployment online, filled out the Direct Deposit info, and then claimed benefits the next week on the phone which is now pending.  I claimed them again last week on Wednesday.  I still haven't received anything, and when I call is says pending.  How long is this supposed to take?  Am I maybe missing something I was supposed to do to make this go through?  its been over 2 weeks, and it's impossible to get a human being on the phone for help.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.771334,
+          "label": "negative"
+        },
+        "text": "filed for unemployment",
+        "confidence": 0.989722,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.771334,
+          "label": "negative"
+        },
+        "text": "claimed benefits",
+        "confidence": 0.80803,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "82cb6cfbb46c0e619f2d451bbb934d953afef349",
+    "filename": "t2_4ndsv.json",
+    "file_type": "json"
+  },
+  "title": "How long does it take for a pending claim for unemployment benefits to go through?"
+}

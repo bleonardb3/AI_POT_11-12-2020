@@ -1,0 +1,51 @@
+{
+  "id": "e7ebcfb3c0581126f4e1747e24564fbe",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_5v3mlobl",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hello New Yorkers, before I begin I do not have covid-19. What I do have is a different perspective on this. I am a dog walker/ food delivery biker. For about the last 20 days I have had to stay put and not work as you can imagine all my dog clients are home and no longer will need my services for foreseeable future. I am in the higher risk bracket for the virus so I decided to self quarantine earlier than government guideline. Living paycheck to paycheck I never thought something would take out my ability to do both jobs. I work in nyc and live in jersey city so even though I have been sneezing for the last week I cannot get it checked out as it would cost me money that I don't have. Today I am on the last $14 and I have no choice but to work. I will take all the precautions and avoid contact with customers. It only makes me wonder how many other thousands like me exist in our own neighborhoods. Please be kind to anyone who has to work through these and just know that if they could they absolutely would stay at home and please tip your delivery drivers well for at least the next few days.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.771331,
+          "label": "negative"
+        },
+        "text": "dog walker/ food delivery biker",
+        "confidence": 0.940362,
+        "type": "Hourly_Wage_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.405497,
+          "label": "negative"
+        },
+        "text": "delivery drivers",
+        "confidence": 0.883993,
+        "type": "Hourly_Wage_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "e35ece328fb6f0ab59fd2be9b2a20b14226a6c7d",
+    "filename": "t2_5v3mlobl.json",
+    "file_type": "json"
+  },
+  "title": "This is my Covid-19 Story"
+}

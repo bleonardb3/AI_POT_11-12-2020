@@ -1,0 +1,63 @@
+{
+  "id": "0049c8f87248365a7b378a18cbfc574b",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_14krit",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment",
+        "confidence": 0.58955,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Like I filed a claim online and it says to go to \"Account Overview\" but that shit doesn't exist and the unemployment insurance tab tells me I can claim benefits but all it does is start up the unemployment claim again. What a shitshow",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.98565,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.997207,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.98565,
+          "label": "negative"
+        },
+        "text": "unemployment claim",
+        "confidence": 0.929035,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "ff73345554a82290a6dfe0ad376272cfff1b43c2",
+    "filename": "t2_14krit.json",
+    "file_type": "json"
+  },
+  "title": "Anyone else confused with the online unemployment messages?"
+}

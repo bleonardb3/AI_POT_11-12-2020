@@ -1,0 +1,36 @@
+{
+  "id": "34ac33052f0c4033f6ae6756cbaf4f69",
+  "result_metadata": {
+    "score": 1
+  },
+  "author_fullname": "t2_4s3dlsjm",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I've been calling nonstop for the past 30 minutes, and can't even connect using the -8124 number. I can get through about three prompts with the -7365, but it automatically disconnects once I get to the Unemployment Insurance prompt.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.596058,
+          "label": "negative"
+        },
+        "text": "Unemployment",
+        "confidence": 0.999729,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "84c48f541083c880dc779037bc35769ae2d62703",
+    "filename": "t2_4s3dlsjm.json",
+    "file_type": "json"
+  },
+  "title": "Is anyone willing to share an extension or a better number for the NY Department of Labor?"
+}
