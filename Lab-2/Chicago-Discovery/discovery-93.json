@@ -1,0 +1,65 @@
+{
+  "id": "e0df254a92ac7adfe29fc76fcb31cd7a",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "chicago",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment",
+        "confidence": 0.926455,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I got in touch with IDES today to check on the status of my claim, and they let me know that I will get a letter in the mail about when to certify and that it will take them minimum 1 week, more likely 2 weeks, to reprocess all the self-employed claims. You'll need to provide proof of income like taxes or 1099's at some point. Apply now, you'll get a letter telling you when to certify. Make sure to certify and at some point in the next few weeks IDES will have been able to reprocess all the self-employed/gig worker claims.\n\n\nSomeone can correct me if i'm wrong here, but the stimulus bill that was signed today provides $600/week for 4 months to all the unemployed, and it makes it so that all the folks that are self-employed are eligible for the normal unemployment which lasts something like 26 weeks (?) and i think maybe they extended that too an extra 13 weeks but I may be wrong on that front.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.801874,
+          "label": "negative"
+        },
+        "text": "unemployed",
+        "confidence": 0.847306,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.801874,
+          "label": "negative"
+        },
+        "text": "normal unemployment",
+        "confidence": 0.755846,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "b31319dbf00df0dfb363218cd0a11f1dab101e44",
+    "filename": "relevant-chicago-731.json",
+    "file_type": "json"
+  },
+  "title": "PSA: If you are self-employed or a gig worker, you need to apply for unemployment yesterday.",
+  "created": "2020-03-29T08:18:13.000Z"
+}

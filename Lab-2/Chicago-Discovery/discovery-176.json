@@ -1,0 +1,37 @@
+{
+  "id": "b7d68d0dc6010be9b3d2b4846dd7de04",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "chicago",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I noticed more and more Starbucks are opening up for mobile orders only. I’ve got a handful of free drinks through their app. Healthcare professionals: reply to this thread with your Starbucks order and your pickup location (double-check the location is open and allows order ahead). I should be able to get 5-7 drinks for free – I'll reply once I've exhausted all my free drinks.\n\nI feel incredibly fortunate to have the ability to collect a full salary while working from home during all this. **Hats off to all the nurses, doctors and other healthcare professionals working during this mess. Hope everyone has a Happy Hump Day!**",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.957027,
+          "label": "positive"
+        },
+        "text": "collect a full salary while working from home",
+        "confidence": 0.915635,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "b0fcb922e7eee118cd1bae15541359a104cd2e86",
+    "filename": "relevant-chicago-434.json",
+    "file_type": "json"
+  },
+  "title": "Healthcare Professionals: Can I buy you a coffee?",
+  "created": "2020-04-08T21:26:30.000Z"
+}

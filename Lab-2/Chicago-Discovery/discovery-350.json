@@ -1,0 +1,135 @@
+{
+  "id": "fc4c9b1256292ff41437b916c3bbf41e",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "chicago",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "occupied apartments",
+        "confidence": 0.972403,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "text": "landlords",
+        "confidence": 0.959265,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "As the questions asks, are landlords actually allowed to do this? I had my alderman refer me to tenant rights but haven’t heard anything back. Speaking with a lawyer they said they recording a virtual tour is a nice compromise and didn’t seem aware that in person showing if occupied units is actually prohibited.\n\nTo add insult to injury, they are posting these videos publicly on YouTube with the unit numbers along with the name of the apartment, so on top of potentially getting sick we are being forced to publish our private property online for anyone to see.\n\nPrior to knowing the very public way they were distributing these videos we offered to record one only to be told the format would have to be perfect or we’d have to keep recording until we got it correct.\n\nI see a lot of posts about how Chicago is a very tenant friendly city, but I don’t see it right now.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.851141,
+          "label": "positive"
+        },
+        "text": "tenant",
+        "confidence": 0.988851,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.859835,
+          "label": "negative"
+        },
+        "text": "tenant rights",
+        "confidence": 0.985134,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "landlords",
+        "confidence": 0.981085,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.950063,
+          "label": "negative"
+        },
+        "text": "unit numbers",
+        "confidence": 0.978405,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.950063,
+          "label": "negative"
+        },
+        "text": "apartment",
+        "confidence": 0.96356,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.546045,
+          "label": "negative"
+        },
+        "text": "occupied units",
+        "confidence": 0.953297,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "cd7adba3ce6a3553d74295fb8d90be977f3ee881",
+    "filename": "relevant-chicago-39.json",
+    "file_type": "json"
+  },
+  "title": "Are landlords really allowed to enter occupied apartments to film new virtual tours?",
+  "created": "2020-04-24T07:42:46.000Z"
+}

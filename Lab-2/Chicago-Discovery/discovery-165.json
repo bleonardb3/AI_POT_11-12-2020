@@ -1,0 +1,49 @@
+{
+  "id": "eefe8615a4462654b85109359989f78a",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "chicago",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment",
+        "confidence": 0.790834,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Is the unemployment site having problems? I can't even call in. I eventually just get disconnected...",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.718884,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.994311,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "5e7afc07caff4c8fc41cf711638f523c3ba5348c",
+    "filename": "relevant-chicago-628.json",
+    "file_type": "json"
+  },
+  "title": "Can't file certification for Unemployment",
+  "created": "2020-04-02T20:52:46.000Z"
+}

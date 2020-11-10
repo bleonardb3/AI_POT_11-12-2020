@@ -1,0 +1,65 @@
+{
+  "id": "d8f54490c35e8789e5937b94b8acd60d",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "chicago",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment Insurance",
+        "confidence": 0.898215,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I can't find an answer online and the phones are busy. My employer wants me to come in for 10-20 hours per week after I just sat at home not working for the past 7 days. That's good news, but the income would be roughly the same as me getting unemployment insurance. So...if there was a certain amount of hours I could work while also getting unemployment insurance, I would hopefully try and do that.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.341084,
+          "label": "positive"
+        },
+        "text": "unemployment insurance",
+        "confidence": 0.945988,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.258675,
+          "mixed": "1",
+          "label": "positive"
+        },
+        "text": "unemployment insurance",
+        "confidence": 0.892854,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "4600d2646756bba156ca6d013b9cb3d5703a3493",
+    "filename": "relevant-chicago-847.json",
+    "file_type": "json"
+  },
+  "title": "How many hours can I work while on Unemployment Insurance through IDES?",
+  "created": "2020-03-26T22:35:51.000Z"
+}

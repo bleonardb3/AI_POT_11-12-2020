@@ -1,0 +1,50 @@
+{
+  "id": "311bd41c5f893d30023316a27d092106",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "chicago",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Our small printing company",
+        "confidence": 0.831225,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I’ve seen a lot of businesses boarded up or have small printed out signs on pieces of paper saying “Still Open” or “Delivery and Pickup Available.” If we were to help small businesses make larger, eye-catching signs or signs with positive messages on them, do you think that would help at all? We’d obviously make it cheap or offer payment plans since these businesses are struggling to stay open. Let me know if you know a business that could benefit from this in some way. Just want to do my part as well as keep our small business from going under as well. Stay safe and healthy!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.72196,
+          "label": "positive"
+        },
+        "text": "our small business",
+        "confidence": 0.915951,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "ffe3f5ddba7652bc59493512ccf411df2a6f01b6",
+    "filename": "relevant-chicago-840.json",
+    "file_type": "json"
+  },
+  "title": "Our small printing company is trying to figure out how we can help the community",
+  "created": "2020-03-27T02:30:30.000Z"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "74ec064e85a084409d1b93fa28a78366",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "chicago",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Cheesies is giving healthcare workers 50% off orders, Allbords was giving away a free pair of shoes (until they ran out), Sweetgreen is also running a deal. Are there any other restaurants or businesses giving discounts to healthcare workers? (I posted this before but it got buried in the Megathread)",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "healthcare workers",
+        "confidence": 0.958742,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.636108,
+          "label": "negative"
+        },
+        "text": "healthcare workers",
+        "confidence": 0.917851,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "a2d9cd51486414fb475a6762d053fcbb98e81317",
+    "filename": "relevant-chicago-917.json",
+    "file_type": "json"
+  },
+  "title": "Healthcare worker discounts",
+  "created": "2020-03-24T23:13:53.000Z"
+}

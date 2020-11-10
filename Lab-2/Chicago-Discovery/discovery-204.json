@@ -1,0 +1,79 @@
+{
+  "id": "0f82c71265f500156b27aac1cbf853dd",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "chicago",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Vehicle",
+        "confidence": 0.884529,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I can't find a concrete answer but this is what I have found through some research but would love for someone who has experience with this to give me an answer. If a car is older than 8 years old, \"Vehicles more than 8 model years old shall not be required to complete a successful inspection required under Section 3-308.\" Can I just show up to the DMV with the salvage certificate and get the vehicle registered because the vehicle is older than 8 years? I'm sure someone here has registered a salvage title car that was older than 8 years.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.573086,
+          "label": "negative"
+        },
+        "text": "DMV",
+        "confidence": 0.974662,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.573086,
+          "label": "negative"
+        },
+        "text": "vehicle",
+        "confidence": 0.949867,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "car",
+        "confidence": 0.851472,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "571e531ee1189c798eee899429abdd2967cc3802",
+    "filename": "relevant-chicago-471.json",
+    "file_type": "json"
+  },
+  "title": "Salvage Title to a Rebuilt Title for a Vehicle That Is Older Than 8 Years",
+  "created": "2020-04-07T03:21:18.000Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a8e957d9888b992ae45b4cd7bc706f71",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "chicago",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "It's looking highly likely I will get furloughed in the next few weeks. Can I collect on unemployment?",
+  "enriched_text": {
+    "entities": []
+  },
+  "extracted_metadata": {
+    "sha1": "07494514ac863b45f04e108655a408ffe53a614a",
+    "filename": "relevant-chicago-767.json",
+    "file_type": "json"
+  },
+  "title": "Do people that are furloughed in Chicago / Illinois qualify for unemployment benefits?",
+  "created": "2020-03-28T09:37:11.000Z"
+}

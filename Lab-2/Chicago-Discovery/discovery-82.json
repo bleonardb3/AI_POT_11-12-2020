@@ -1,0 +1,110 @@
+{
+  "id": "9d6d910e419943e2662a2545e449637f",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "chicago",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Driver's License",
+        "confidence": 0.942738,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "So, I'm asking for a friend.\n\nTheir Illinois license had expired earlier in 2020 and they never made it into renew it. The DMV has been closed (as much of the world). Apparently in order to file for unemployment, they must have a valid State ID or Driver's License. Therefore, are there any other avenues that my friend can seek, in order to file for unemployment during these strange times?\n\nThanks folks. Stay home!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "DMV",
+        "confidence": 0.97493,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.738989,
+          "label": "negative"
+        },
+        "text": "Driver's License",
+        "confidence": 0.948987,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.669713,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.940164,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.611211,
+          "label": "negative"
+        },
+        "text": "license",
+        "confidence": 0.896907,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.801896,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.764586,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "70506fcaab5cb08bf3295b476d5c614bd19687b9",
+    "filename": "relevant-chicago-880.json",
+    "file_type": "json"
+  },
+  "title": "[Question] Driver's License expired, and cannot file for unemployment?",
+  "created": "2020-03-26T01:14:46.000Z"
+}

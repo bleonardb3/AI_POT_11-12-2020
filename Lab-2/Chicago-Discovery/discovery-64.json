@@ -1,0 +1,22 @@
+{
+  "id": "4b6a474597630552e3c5f90ec70f6a10",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "chicago",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I've read about all the Norwegian settlements in the 1800's, but I want to know if there are any places in Chicago that's prominently Norwegian that are still active. I speak Norwegian, and I want to put my skills to the test, so to speak.\n\nEdit: Tusen takk for all the replies! When I get time i'll go through all the resources you all linked!",
+  "enriched_text": {
+    "entities": []
+  },
+  "extracted_metadata": {
+    "sha1": "7cb240180cf54a842949a563a9bc45309e2d5b6b",
+    "filename": "relevant-chicago-478.json",
+    "file_type": "json"
+  },
+  "title": "Are there any active Norwegian communities in Chicago?",
+  "created": "2020-04-06T12:39:27.000Z"
+}

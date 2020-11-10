@@ -1,0 +1,37 @@
+{
+  "id": "57fc439c1caff590df2af92d61279038",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "chicago",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "For some reason I can't file a claim for unemployment online. the website just won't let me register but I've been calling for two days and the number is not working. Has anyone had the same problem? How did you resolve it?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.787712,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.992892,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "76be9e45d19f1929406e3c5086f129dbf7f70240",
+    "filename": "relevant-chicago-902.json",
+    "file_type": "json"
+  },
+  "title": "Can anyone please help?",
+  "created": "2020-03-25T04:10:08.000Z"
+}

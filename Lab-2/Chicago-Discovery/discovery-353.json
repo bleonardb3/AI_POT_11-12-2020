@@ -1,0 +1,64 @@
+{
+  "id": "d23d57ae8c28d25f1a78b8160b821314",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "chicago",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployed",
+        "confidence": 0.926079,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Im seeing a ton of unemployment post and I got laid off during this myself.  So, im curious to see what industries are really being impacted in Chicago specifically\n\nLike is it all service/hospitality industry jobs getting killed? Or are the corporate jobs getting laid off as well?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.489235,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.975,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.489235,
+          "label": "negative"
+        },
+        "text": "I got laid off",
+        "confidence": 0.804067,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "a3851c8353307e125a188ceb9cf46c7f99ec9512",
+    "filename": "relevant-chicago-529.json",
+    "file_type": "json"
+  },
+  "title": "For those of you unemployed right now, what industry were you in?",
+  "created": "2020-04-05T04:08:31.000Z"
+}

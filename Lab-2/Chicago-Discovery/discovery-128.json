@@ -1,0 +1,37 @@
+{
+  "id": "543c2c37a4fb6537fb1d45c24e44df8c",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "chicago",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I hired a roofer off of yelp a while ago, and the guy wanted half the money for a job up front. He said he couldn't take credit card, and I could do check or quickpay - Because I am an idiot, I sent via quickpay. Also being doubly an idiot, I sent him the full amount, not the half up front.\n\n&#x200B;\n\nRight after I paid him, he got super sketchy - hard to reach on the phone (yelp doesn't even have an address listed for him) , and delaying when he'd come to do the job. Then he started telling me he is going through a bankrupcy right now - won't do the job and I shouldn't bother pursuing him in court as i'll get pennies on the dollar back if I do. \n\nChase have refused to help, saying quickpay is the same as cash. \n\n&#x200B;\n\nI know so much of this is my fault because I was the idiot who paid someone up front without looking too much in to it.  Has anyone been through anything like this? Am I best just letting this go as a very painful and expensive lesson?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.582394,
+          "label": "negative"
+        },
+        "text": "roofer",
+        "confidence": 0.589001,
+        "type": "Home_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "ff897a1b0b1ca306115e11016d8bf43f86e80266",
+    "filename": "relevant-chicago-908.json",
+    "file_type": "json"
+  },
+  "title": "Is small claims court / better business bureau something worth pursuing in Chicago?",
+  "created": "2020-03-25T02:23:22.000Z"
+}

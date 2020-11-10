@@ -1,0 +1,94 @@
+{
+  "id": "c98dad12b894a7e0234e1c516798c6e7",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "chicago",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "drive",
+        "confidence": 0.972922,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I have an immunocompromised parent and rather than flying to Northwest Indiana, I was planning on driving from Washington to limit exposures where I’d be more susceptible to contracting the virus (no airports, no planes, no public transit, no interactions period).\n\nI’ve been self-isolating for the past 16 days, and on this “road trip” I’d sleep in the car to once again avoid other humans. I’d likely do it within two days, beginning EOW.\n\nThat said, I’m trying to understand if I’d even be able to drive through Illinois given the current “Stay At Home” mandate. Does anyone have any insight into whether I would be able to or not? Have they eliminated incoming and outgoing traffic across state lines?\n\nThanks so much.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "drive",
+        "confidence": 0.972922,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.838511,
+          "label": "negative"
+        },
+        "text": "car",
+        "confidence": 0.840622,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.743301,
+          "label": "negative"
+        },
+        "text": "driving",
+        "confidence": 0.835953,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.838511,
+          "label": "negative"
+        },
+        "text": "road trip",
+        "confidence": 0.806436,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "256640925ee6032912240179cdfd13597a3a635d",
+    "filename": "relevant-chicago-982.json",
+    "file_type": "json"
+  },
+  "title": "Am I able to drive through Illinois?",
+  "created": "2020-03-23T01:15:45.000Z"
+}

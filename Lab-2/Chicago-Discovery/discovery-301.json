@@ -1,0 +1,64 @@
+{
+  "id": "65e4bf59591c68c51529de7641de873f",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "chicago",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Rental market",
+        "confidence": 0.811332,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Anyone have any ideas on what is going to happen to the rental market in the coming weeks?  My lease is up end of April and I have a few options, but wondering if maybe I should give it a week to see what happens.  Looking forward to any insights.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.646055,
+          "label": "negative"
+        },
+        "text": "rental market",
+        "confidence": 0.983152,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.463237,
+          "label": "negative"
+        },
+        "text": "lease",
+        "confidence": 0.939444,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "1ae4eb4cf1ef90f6c4fa9d87cfb92b94cc6f6e60",
+    "filename": "relevant-chicago-892.json",
+    "file_type": "json"
+  },
+  "title": "Chicago Rental market",
+  "created": "2020-03-25T11:47:20.000Z"
+}

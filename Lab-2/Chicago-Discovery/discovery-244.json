@@ -1,0 +1,49 @@
+{
+  "id": "20104624a137fc225700fa3476314e7e",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "chicago",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "filed for unemployment",
+        "confidence": 0.965981,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "For reference, I do not live with my dad and I live in a different state. We have a languge barrier so I feel like 1) he is misunderstanding the application process, 2) i am misunderstanding what he is saying, 3) the unemployment process in Illinois is really that messy right now.\n\nHe is a gig worker btw and gets 1099s.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.965613,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.977474,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "7a08a781cf1518ea8a1cff77416964fee4d762e5",
+    "filename": "relevant-chicago-357.json",
+    "file_type": "json"
+  },
+  "title": "Dad filed for unemployment 3 weeks ago. He is still waiting to get certified and has to apply every other week. Is this normal?",
+  "created": "2020-04-11T05:44:02.000Z"
+}

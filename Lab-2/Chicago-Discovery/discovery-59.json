@@ -1,0 +1,38 @@
+{
+  "id": "415ab4a0f3b5675bcf31980753088a70",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "chicago",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I live in 60640 area. Right now, I am very sick and need to see my doctor very soon. The only problem is my cat, an 8-year old orange female (spayed) cat. I adopted her since she was 2 months old so she never knew anyone but me. (I live alone.)\n\nSweet, cuddly, chubby and vocal, you will fall in love with her when you see her. She needs two things daily beside food: water and wheat grass. The grass will her oral and dental health in excellent condition. The food, 2 packs of Pretty Please will come with her. Also, a supplement for joint health “TDC” (30 pills left). I cut the tip of the pill and squeeze it on my finger, Money’d lick it. (The feeding time for this is around 5 AM). Drinkwell fountain water and Aquaphoric self watering planter (7”), will also included.\n\nPlease DM me and I’ll give my phone number and Money’s pix.\n\nI never asked help from a total stranger. But I have no choice. Please help my cat and me.\n\nThanks\n\nEDIT\nTo everyone who offers to help, I was able to get help from  a very kind Reddit. She picked my cat Money at 10:30. Thank you to all with offer and kind wishes.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.827422,
+          "label": "positive"
+        },
+        "text": "dental",
+        "confidence": 0.785475,
+        "type": "Medically_Insured",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "a9ba2853b76f2569fd1ec82e0c9523bbc272a9b3",
+    "filename": "relevant-chicago-802.json",
+    "file_type": "json"
+  },
+  "title": "I need someone or a family to take in my cat while I’m in a hospital.",
+  "created": "2020-03-28T00:55:32.000Z"
+}

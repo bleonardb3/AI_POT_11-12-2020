@@ -1,0 +1,65 @@
+{
+  "id": "289f0ddee7f89401bd4a99f3c6b1de0a",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "chicago",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "nurse at Mercy Hospital & Medical Center",
+        "confidence": 0.935589,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "As the title states, my wife is an RN at Mercy Hospital & Medical Center. Unfortunately, at the advent of the virus, most-if not all-N95s were stolen. Her floor, which since last week is dedicated to COVID-19 patients, is completely unprepared in terms of PPE.   \n\n\n**Does anyone out there have any N95s that they could sell or trade for?** I'm trying to provision my wife and her team with proper PPE. I can buy the masks or offer to trade my services (software engineering).   \n\n\nThank you ahead of time, Chicago. Please stay at home to protect the ones we love, and stay safe.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.629299,
+          "label": "positive"
+        },
+        "text": "RN",
+        "confidence": 0.94449,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.975105,
+          "label": "positive"
+        },
+        "text": "my services (software engineering)",
+        "confidence": 0.813189,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "2c65d2a1e3cfb1ddd15a1a96f827dd5c9dc5120d",
+    "filename": "relevant-chicago-842.json",
+    "file_type": "json"
+  },
+  "title": "My wife is a nurse at Mercy Hospital & Medical Center. They don't have any N95s.",
+  "created": "2020-03-27T01:35:21.000Z"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "86ea60eccb5191e59db690de67c6fc87",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "chicago",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Furlough unemployment",
+        "confidence": 0.659903,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I'm applying/filling out the unemployment forms online.  However, furlough/or something like temp layoff isn't an option for reason for separation.  Would it be laid off even though this is for a minimum of 6 weeks?  Or is there a completely different website to file for CV19 reasons that I'm not finding on google?\n\nThank you - hang in there everyone!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "furlough/or something like temp layoff",
+        "confidence": 0.88186,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "applying/filling out the unemployment forms",
+        "confidence": 0.838539,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "8fd79296b986b4031368b9156e1d24d1af2cd3b9",
+    "filename": "relevant-chicago-868.json",
+    "file_type": "json"
+  },
+  "title": "Furlough unemployment question",
+  "created": "2020-03-26T06:53:03.000Z"
+}

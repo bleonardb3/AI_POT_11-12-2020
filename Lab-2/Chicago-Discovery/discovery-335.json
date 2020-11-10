@@ -1,0 +1,37 @@
+{
+  "id": "9616350a7c12048af631ff8f30c674d1",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "chicago",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "The people below us are young and frequently have parties on the weekend. Usually its not a problem, they normally leave after midnight to hit the bars. However, during the current state of affairs they are having a loud party with people as I type. Should I call the cops?\n\n&#x200B;\n\nEDIT: update. so I did call 311 last night and the cops eventually came over. They said there was only six people in the apartment so the cops only gave them a warning. I have a suspicion there might have been more people at the party. After the cops left, the music stopped and people eventually left. Maybe the cops cant do anything if its less than 10 people? I dont know. Usually when my neighbors have a party, we really dont care, but due to health concerns my wife and I are trying to be careful for the next four to six weeks.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.81472,
+          "label": "negative"
+        },
+        "text": "apartment",
+        "confidence": 0.974512,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "4ce20f91a94b806e4c4e716a18ca279bb9647f1a",
+    "filename": "relevant-chicago-728.json",
+    "file_type": "json"
+  },
+  "title": "My neighbors are having a party, should I call the cops?",
+  "created": "2020-03-29T10:14:30.000Z"
+}

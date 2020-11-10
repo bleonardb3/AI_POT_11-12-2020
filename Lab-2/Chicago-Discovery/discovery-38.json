@@ -1,0 +1,50 @@
+{
+  "id": "e0eb2c68073e9220e329ee0dcaf83b2d",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "chicago",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment",
+        "confidence": 0.686177,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "So my wife signed up for unemployment a few weeks ago and just now got her letter in the mail, but here's the deal. According to the letter she needs to certify on Mondays starting 4/6/2020 and that date passed because the letter didn't come in until the 11th. Also, the letter was mailed on the 30th. Anyone else having this issue?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.501185,
+          "label": "positive"
+        },
+        "text": "signed up for unemployment",
+        "confidence": 0.887148,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "6c186b3a409f728bd9ee94bc89b03674f7ce9468",
+    "filename": "relevant-chicago-323.json",
+    "file_type": "json"
+  },
+  "title": "Unemployment",
+  "created": "2020-04-12T06:01:09.000Z"
+}

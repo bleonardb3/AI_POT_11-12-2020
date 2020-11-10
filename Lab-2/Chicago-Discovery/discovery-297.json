@@ -1,0 +1,52 @@
+{
+  "id": "14d8e2395581fd5509595c873a427f21",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "chicago",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I have a job in Chicago starting in May (it'll be working from home for a while) and secured an apartment and have put down a deposit before the lockdowns began. Would I likely still be able to move in early May under the current measures? I'll be able to move all my own stuff so I won't need a moving company.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.281519,
+          "label": "negative"
+        },
+        "text": "apartment",
+        "confidence": 0.933089,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.281519,
+          "label": "negative"
+        },
+        "text": "working from home",
+        "confidence": 0.776083,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "b177bf62808284a1e7174a483a6c568e89f8216e",
+    "filename": "relevant-chicago-616.json",
+    "file_type": "json"
+  },
+  "title": "Chances of being able to move in May?",
+  "created": "2020-04-03T06:31:17.000Z"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "970491ec47e54a70202baba9a7406079",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "chicago",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I am a sole proprietor. I run a photo retouching “company” out of my home.  My clients see me as a business, and in fact I have an EIN.  But the fact of the matter is I'm just a dude who has a couple of clients at any given time. I’m basically a producer. I don’t do much of the retouching myself. I use freelancers.  \n\nLast year I did well, but I mainly worked from May to November. That’s just when the work came in.  It was lucrative but not consistent. \n\nThis year so far has been a wash. My main client from last year is a division of a major national retailer. The bulk of their work was photographed in the beginning of the year last year, and given to me starting in May. \n\nBut I have no idea if they'll be back with as much volume this year, or any work at all. I did one or two images for them in January.\n\nI don’t feel like I can call them in the middle of a pandemic looking for work. I know they’re all working from home.  It’s conceivable that they’re still shooting projects, working with their photographer remotely, but I don’t really know. \n\nI reluctantly looked at the Illinois form to apply for unemployment.  The first thing it asks is the name, address, and phone number of your previous employer.  The last thing I want is Illinois contacting my major client from last year and saying “The retouching company you used last year is seeking unemployment.”, especially if they had planned to start giving me work again in May. \n\nAnd are they even considered an employer? I know the newly announced relief package has some consideration for freelancers but I have no idea how it will work.\n\nI also don't know how it works in Illinois, but I was on unemployment once in NYC and you had to go to all these job sessions and track your attempts to find work and submit proof. How am I supposed to do all that now, on lockdown?  I don’t drive so a delivery gig is out.\n\nMy wife works at a children's hospital so it’s not like our household has no income, but the future is uncertain. I have no idea if she will be called to work on the front lines. God forbid something happens to her, or she brings the virus home because I’m over 50, overweight and have elevated blood pressure.\n\ntl;dr How does a small business sole proprietor get unemployment?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.496318,
+          "label": "positive"
+        },
+        "text": "I'm just a dude who has a couple of clients at any given time",
+        "confidence": 0.938561,
+        "type": "Hourly_Wage_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.790768,
+          "label": "positive"
+        },
+        "text": "I use freelancers",
+        "confidence": 0.777695,
+        "type": "Hourly_Wage_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "ee3d73cba3a6727ef93b0678676e470dd94d2e60",
+    "filename": "relevant-chicago-876.json",
+    "file_type": "json"
+  },
+  "title": "Unemployment quandary.",
+  "created": "2020-03-26T02:51:54.000Z"
+}

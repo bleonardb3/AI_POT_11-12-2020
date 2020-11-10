@@ -1,0 +1,64 @@
+{
+  "id": "5b635ed6f1273bbfd81286e119ef6791",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "chicago",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment",
+        "confidence": 0.944503,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Hello, my boyfriend was able to register to claim unemployment insurance after he was laid off. However, the weekly benefit estimate that was calculated was $0. Which I'm guessing that means he will not be getting any help or support. \n\nSome more info: He was making above minimum wage and working 36 hours per week. He has been with this job for almost 2 years now but unfortunately, the business had to close due to COVID-19 and will remain closed indefinitely. \n\nWe have been trying to call the IDES office without luck so now we're just home during the lockdown, surviving on our savings. Is there anything we can do?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.460701,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.987594,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.460701,
+          "label": "negative"
+        },
+        "text": "after he was laid off",
+        "confidence": 0.848649,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "965387ec34cc9d281bb486ee0e972dff06148b76",
+    "filename": "relevant-chicago-785.json",
+    "file_type": "json"
+  },
+  "title": "Trouble with IDES and claiming unemployment",
+  "created": "2020-03-28T04:35:35.000Z"
+}

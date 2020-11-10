@@ -1,0 +1,33 @@
+{
+  "id": "4df4965616c72eaa2b87c3fafb6bd620",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "chicago",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment",
+        "confidence": 0.979335,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": " I have been trying to file a claim from last 2 weeks. I tried online but it keeps telling me the information I entered on registration page is not valid. I tried calling them but I couldn't get hold of anyone. Can someone help me please",
+  "enriched_text": {
+    "entities": []
+  },
+  "extracted_metadata": {
+    "sha1": "fdbb84536118f6137aaafc7fedc7c3dc3ab06eec",
+    "filename": "relevant-chicago-457.json",
+    "file_type": "json"
+  },
+  "title": "Can someone help me to file a Unemployment Claim?",
+  "created": "2020-04-07T22:19:04.000Z"
+}

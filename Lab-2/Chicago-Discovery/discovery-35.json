@@ -1,0 +1,22 @@
+{
+  "id": "fb85a85ec34a9da437b54c70708b9deb",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "chicago",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "They just posted on Instagram that they are hiring for temporary positions.\n\nEdit: I don't work for Trader Joe's. This is info obtained from their Instagram page.\n\nEdit #2: Let's try this again folks.\n\nWhile I don't work for TJ's, I was in charge of hiring people at my last job (a publishing company). \n\nThe people whose resumes went in the trash were the same ones who emailed me with inane questions. Do not make this same mistake.\n\nSHOW UP. Do not email them \"are you still hiring\". Do not email them \"what's the pay\". And please, for the love of god, do not comment these questions on their Instagram account.\n\nGO THERE IN PERSON. Research the company (it has a very interesting history), know who the founder was (he just passed away), get to know the products, and show some enthusiasm for the position. \n\nThey might say they aren't hiring anymore because all the positions are full, since they likely got a huge turnout, but I can tell you right now, not all of those people will last. Lots will quit/get fired. And do you know who they will call first when a position becomes available?\n\nThe ones who showed up in person.",
+  "enriched_text": {
+    "entities": []
+  },
+  "extracted_metadata": {
+    "sha1": "7a1941ed7d0ee00697e7434eff9bcfb3ab38e4e4",
+    "filename": "relevant-chicago-932.json",
+    "file_type": "json"
+  },
+  "title": "Trader Joe's is hiring",
+  "created": "2020-03-24T05:38:17.000Z"
+}

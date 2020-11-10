@@ -1,0 +1,52 @@
+{
+  "id": "8e9ccb0fcaf6585f9d580e29d43b2c53",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "chicago",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I am going to graduate with an M.S. later this year and move to Chicago for an entry-level job. The base salary is 77k. I used a calculator to get my net income after tax, and it came out to a monthly net income of $4,200. I have approximately 60k in graduate loans, with an interest rate of \\~8%. The calculator took into account health, dental, vision, state income tax, federal  income tax, FICA and state insurance taxes such as social security and  medicare, 401k contribution of 6%, and additionally a monthly transportation fee of $100 per month (I can use pretax dollars to pay transportation fees, so I deducted $100 for the monthly CTA pass). After all of that, my take home salary is about 67% of my gross.\n\nI've never made a budget before, so I want to know if my budgeting is realistic and reasonable. From googling around, these are the numbers I came up with:\n\n&#x200B;\n\n20% Savings, $840\n\nStudent Loans, $600\n\nGroceries/Eating out, $500\n\nPersonal Items/House supplies, $50\n\nFun, $150\n\nSubscriptions (Only Netflix and Spotify), $20\n\nPhone (My parents will continue to pay it off), $0\n\nCar (No car, just public transportation I used pretax dollars for), $0\n\nInternet, $60\n\nRenter's Insurance (I don't know what this is, I just stumbled upon it in every budget), $30\n\nThe total above is $2,250, and the remainder left is $1,950. I want to use this remainder for rent and utilities. This is well-above the general rule of thumb of 30% net income for rent with utilities included, which for me is $1,300. However, my situation is that I would like to rent a decent 1BR place because after 5 months of living alone, my girlfriend would also graduate and move in with me. My worry is that I have to sustain the initial 5 months of rent and utilities alone, and want to know if its even possible with my circumstances? Should I cut a bit into my savings % per month and allocate it elsewhere? What other budget items did I not include? Are my estimates conservative? I also want to know how bad this plan is financially, or if it's not completely dumb and irresponsible? Should I just scrap this plan, and decide on living somewhere with far less rent/utilities?\n\nI know that I am putting too little off my student loans, but my plan was to keep it up for the 5 months, then change my payment plan to pay it off a bit more aggressive than how I have it now. If my hypothetical rent/utilities is true of $1,950, I would split that with my girlfriend later and it would then be well under the 30% rule of thumb.  My girlfriend is to make around the same as me after she graduates. Also, I would agree that spending nearly $2,000 is ridiculous, and that as a new-grad, I don't have that sort of luxury to live like that. It is just a personal desire that my girlfriend and I share. We prefer not to live in a very small apartment. We were looking into more of the modern apartments, and nothing of ridiculous commute. It doesn't have to be downtown, it can be a 30 minute commute away.\n\nAdditional info: I don't smoke, and I only drink occasionally with friends. However, I don't think I will do that quite often anymore since it's not university.\n\nEDIT: I included some missing information into my budget, such as phone bill.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.933713,
+          "label": "negative"
+        },
+        "text": "apartment",
+        "confidence": 0.982554,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.761086,
+          "label": "negative"
+        },
+        "text": "my student loans",
+        "confidence": 0.855456,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "a9acb2ee7483fe02b7fba32a8ba46a1b390decc1",
+    "filename": "relevant-chicago-113.json",
+    "file_type": "json"
+  },
+  "title": "Chicago Cost of Living Budget",
+  "created": "2020-04-20T05:42:10.000Z"
+}

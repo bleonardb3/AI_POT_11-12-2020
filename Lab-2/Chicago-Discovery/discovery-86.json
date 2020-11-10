@@ -1,0 +1,34 @@
+{
+  "id": "65a656d24d2e3c11e1727c27dedd4078",
+  "result_metadata": {
+    "confidence": 0,
+    "score": 1
+  },
+  "subreddit": "chicago",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment",
+        "confidence": 0.564656,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Be tenacious with this complete and total piece of shit system or you will lose your benefits.\n\nThe system is **garbage**.  I was laid off at the end of last year and claimed unemployment.  The system is set up where you certify benefits weekly but have a window for only 2 working days a week.  Not sure if it's by design, but my window reported errors every other week.  So I effectively had 2 8 hour windows twice a month. Any time you do something not by the book, you get a generic \"you can't do this now\" error.   So in my case, if I missed one of those windows, I'd lose benefits -- which is what I did.  Every subsequent trip told me \"you can't do this now\" which of course raised no alarms as I had seen it so much.\n\nAfter getting the error for several weeks in a row I thought nothing of it as I was living off of the remainder of my severance so didn't need it immediately.  (Stupid thinking).  I was also studying 14 hours a day for interviews (for realz).   I saw devoting an hour plus to dick around on the phone as counter productive to getting employed in a competitive field.  Eventually I just reapplied and bit the bullet and called  As per before if you miss one of your very short windows you're booted out of the system.  You can try to file late, but they apparently don't want to hear that their system sucks shit, so I was denied.  I'm sure my reasoning that I was living off of savings/severance did not help my case. I'm employed now and thankful for it.  Most of my gut tells me to just move on as many more are in shittier situations now w/ the virus.  So, as part of my rage management I figured I'd just post it here and hope that someone else that is unemployed but not with a lot of time to waste can benefit.  Also note that it appears the current situation is butt-fucking their server and surprise, surprise, it can't handle it.  Keep this in mind moving forward.",
+  "enriched_text": {
+    "entities": []
+  },
+  "extracted_metadata": {
+    "sha1": "0a31e4995e21d296b80c011f4c79798a372c4a1e",
+    "filename": "relevant-chicago-831.json",
+    "file_type": "json"
+  },
+  "title": "PSA for those using IDES to get unemployment",
+  "created": "2020-03-27T06:58:49.000Z"
+}

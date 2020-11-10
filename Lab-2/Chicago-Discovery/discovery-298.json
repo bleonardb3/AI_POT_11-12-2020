@@ -1,0 +1,105 @@
+{
+  "id": "52e4ff39c8110dc5a740124738205c9b",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "chicago",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "my apartment",
+        "confidence": 0.977911,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "text": "landlord",
+        "confidence": 0.969541,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "My landlord is asking to show my apartment this weekend, but with everything going on, I feel pretty uncomfortable about it. Was wondering if there was any regulation or decree as of late that states showing apartments currently is prohibited. \n\nI've seen language around not allowing open houses, but was hoping to find something similar for just showing an apartment.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.967883,
+          "label": "negative"
+        },
+        "text": "my apartment",
+        "confidence": 0.979361,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.768726,
+          "label": "negative"
+        },
+        "text": "apartment",
+        "confidence": 0.978374,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.73798,
+          "label": "negative"
+        },
+        "text": "apartments",
+        "confidence": 0.948683,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.967883,
+          "label": "negative"
+        },
+        "text": "landlord",
+        "confidence": 0.827277,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "8105072afb89bc7ae521e79a83af4e25354ae2cf",
+    "filename": "relevant-chicago-619.json",
+    "file_type": "json"
+  },
+  "title": "Is my landlord allowed to show my apartment?",
+  "created": "2020-04-03T03:13:15.000Z"
+}
