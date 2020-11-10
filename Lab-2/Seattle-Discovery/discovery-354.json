@@ -1,0 +1,67 @@
+{
+  "id": "fce7f46f29d0e8e9649b11dd05619842",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I'm a pharmacy technician. Our pharmacy is a small, family run business therefore our pharmacy isn't tucked back like big chains. Our pharmacy is considered too small to get priority shipping from our distributor. We often walk out on the floor with customers who need help. We are super exposed to covid-19 and there is little I can do to prevent it. I refuse to quit working but I can't bring this virus home to immune compromised kids and I'm terrified I will.  \n  \nAll I need is information to find one. Thank you in advance.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "Our pharmacy",
+        "confidence": 0.98586,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.710081,
+          "label": "negative"
+        },
+        "text": "Our pharmacy",
+        "confidence": 0.932178,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "pharmacy technician",
+        "confidence": 0.843682,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "3fb8c0def50ab7f09246d0ba6ffdc1c73dd98912",
+    "filename": "relevant-seattle-815.json",
+    "file_type": "json"
+  },
+  "title": "Does anyone know where to get a N95 mask?",
+  "created": "2020-04-06T08:00:00.000Z"
+}

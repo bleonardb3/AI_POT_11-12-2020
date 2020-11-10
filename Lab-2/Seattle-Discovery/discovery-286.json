@@ -1,0 +1,98 @@
+{
+  "id": "7076d07edc59db80296a2067b8bad672",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Greetings everyone.\n\nMy partner and I are planning on moving from Chicago to Seattle next summer after I receive my MSW. We have lived in IL our entire lives and are excited for the nature Washington has and the pleasantness of the city. That being said, I work for a grocery store that transfers, so I am hoping that can be my first option for a quick job to help secure an apartment. I understand that organizations don't want to hire people from out of state so I will wait until I have an address there. We live in a studio with our cat, so small tiny spaces are no issue for us. \n\nMy concern is trying to find an apartment from out of state and how much time to allow before our lease in Chi is up in July. How many days would we expect to leave and hang around the city? I heard the housing market is pretty competitive. Can anyone from out of state offer some advice so we can plan our move a bit more smoothly?\n\nI appreciate all the help!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.771193,
+          "label": "negative"
+        },
+        "text": "apartment",
+        "confidence": 0.940357,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.771193,
+          "label": "negative"
+        },
+        "text": "lease",
+        "confidence": 0.933579,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.248764,
+          "mixed": "1",
+          "label": "negative"
+        },
+        "text": "apartment",
+        "confidence": 0.927801,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.635957,
+          "label": "positive"
+        },
+        "text": "I work for a grocery store",
+        "confidence": 0.875608,
+        "type": "Hourly_Wage_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.657709,
+          "label": "positive"
+        },
+        "text": "studio",
+        "confidence": 0.834716,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "1d5271ab74e4e7d075470eb59122284ba05d52e9",
+    "filename": "relevant-seattle-44.json",
+    "file_type": "json"
+  },
+  "title": "Has anyone moved from out of state to Seattle that can offer advice?",
+  "created": "2020-04-24T06:04:55.000Z"
+}

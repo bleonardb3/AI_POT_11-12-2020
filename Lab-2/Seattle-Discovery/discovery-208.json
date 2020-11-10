@@ -1,0 +1,185 @@
+{
+  "id": "82be43b3e5e22d7a8a011a5326838e35",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment",
+        "confidence": 0.908401,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Furloughed at work. Given 92 hours due to paid sick and safe time. Never filed for unemployment. My question is in regards to future vacation that I have before this and the paid sick time and how it relates to unemployment.\n\nI know you can't get paid from your employer and collect unemployment. Makes sense. So for the next 2 weeks I will use my 80 hours of sick time for a full paycheck.\n\nShould I wait until I've exhausted my sick time to file for unemployment? As I won't get an unemployment check during the first two weeks, will those first two weeks count against my total of unemployment weeks even though I'm not receiving any payment and thus lessen my availability to be on unemployment by two weeks? Or do unemployment weeks just count on weeks you receive a check from unemployment.\n\nThanks for help and the answers. I've been on the unemployment website and didn't see this addressed. Reposted to r/SeattleWA",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "unemployment",
+        "confidence": 0.999925,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.714978,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.998141,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.619054,
+          "label": "negative"
+        },
+        "text": "filed for unemployment",
+        "confidence": 0.997731,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.916273,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.996508,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.912973,
+          "label": "negative"
+        },
+        "text": "to file for unemployment",
+        "confidence": 0.971821,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.916273,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.962234,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.632974,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.95625,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.988155,
+          "label": "positive"
+        },
+        "text": "unemployment",
+        "confidence": 0.909786,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.916273,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.885096,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.34579,
+          "mixed": "1",
+          "label": "positive"
+        },
+        "text": "collect unemployment",
+        "confidence": 0.761328,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "f3e83ef5ea8cccf2a3d7e6fd5736352e3155f4fc",
+    "filename": "relevant-seattle-921.json",
+    "file_type": "json"
+  },
+  "title": "Furloughed and Unemployment",
+  "created": "2020-04-04T01:33:50.000Z"
+}

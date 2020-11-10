@@ -1,0 +1,49 @@
+{
+  "id": "00920bc4fd9e12628c7b4c34e0123884",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "apartment",
+        "confidence": 0.941111,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I moved to Seattle back in January and this is my first electric bill was $230 for an 800 sqft. apartment. I should mention that the heat didn't even work for the first two weeks. Is this the normal price of electricity in Seattle? I have never seen an electric bill so high and I come from the Midwest where the heat is on for the whole month.\n\nSome more info \nDec 28-Feb 07\nkWh usage- 1724.0\nAverage kWh per day 42.05 kWh\nAverage kWh cost this period $5.22/day\nCurrent reading- 11507 kWh",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "apartment",
+        "confidence": 0.957426,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "817fb3482057f5c53deb638ee63524ca84bb351c",
+    "filename": "relevant-seattle-868.json",
+    "file_type": "json"
+  },
+  "title": "What's the average electric bill for an 800 sqft. apartment in Seattle? My first bill was $230.",
+  "created": "2020-04-05T03:35:39.000Z"
+}

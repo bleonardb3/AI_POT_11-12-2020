@@ -1,0 +1,49 @@
+{
+  "id": "75338f566c7b4f37d610c7254e07f059",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment",
+        "confidence": 0.961949,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Has anyone had luck filing a new application for unemployment? I'm one of those that wasn't eligible prior to the expansion, so I've been trying since they said to wait until April 18, but everything just keeps wigging out, telling me I don't have access or redirecting back to pages I've been. \n\nSanity checking here since the phone lines are bananas. Anyone else struggling to get in?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "unemployment",
+        "confidence": 0.724874,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "a6a3c9ec494ada863c178fab2791678b5d76cbb1",
+    "filename": "relevant-seattle-134.json",
+    "file_type": "json"
+  },
+  "title": "Unemployment website still broken?",
+  "created": "2020-04-22T02:29:00.000Z"
+}

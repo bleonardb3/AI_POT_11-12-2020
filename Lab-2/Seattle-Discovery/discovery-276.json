@@ -1,0 +1,37 @@
+{
+  "id": "f4da672c624876be55d594ea59c1afe0",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Just gave away my food to a homeless guy outside Shake shack. The worker saw and decided to give me an identical order of my food for free. I wanted to replace the order, but the app wouldn't let me. He had a tablet and I asked if I should make the order there. He wouldn't let me pay. They seem like good people and I hope to give them recognition\n\nEdit: I'm sorry for anyone who thinks I'm trying to pat myself on the back. I just wanted to bring attention to the shake shack guy and that they were super helpful. Hope you guys keep patronaging them, they seem like good guys hope we can support them. Will be happy to post again when I see other businesses that care about is (even though I know that no business cares about us) it's a reasonable degree",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "The worker",
+        "confidence": 0.66091,
+        "type": "Hourly_Wage_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "271658a83e8dcd17bb1421e4922a5bd69608aac1",
+    "filename": "relevant-seattle-541.json",
+    "file_type": "json"
+  },
+  "title": "Shake shack in these hard times",
+  "created": "2020-04-12T11:44:45.000Z"
+}

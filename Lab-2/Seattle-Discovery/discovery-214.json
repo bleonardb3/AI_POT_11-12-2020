@@ -1,0 +1,49 @@
+{
+  "id": "32b66b1c34b2b239c8b43d70574c2a40",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment",
+        "confidence": 0.99398,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I'm applying for standby unemployment due to being furloughed. Tried to apply online and when I got to the main screen, it said my social security number didn't match what I originally entered. Maybe I was flustered and in a hurry and made a typo, who knows. But there's no way to see what I originally entered as my SS#!\n\nNow I'm on hold and feel like this is how I'll be spending my entire day. Anyone else have this issue?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "unemployment",
+        "confidence": 0.751443,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "e66bae4337cf7600e53f82dbc7ef965c977c98fb",
+    "filename": "relevant-seattle-883.json",
+    "file_type": "json"
+  },
+  "title": "Issues with unemployment website?",
+  "created": "2020-04-04T22:38:28.000Z"
+}

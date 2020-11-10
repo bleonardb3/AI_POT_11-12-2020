@@ -1,0 +1,49 @@
+{
+  "id": "51b20696099afc0f973e18d52754b2f9",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "car rentals",
+        "confidence": 0.685889,
+        "type": "No_Vehicle",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Hello, I’m planning ahead for my boyfriends birthday in the summer and wanted to rent a vintage car for the day. Something like a\n1985 Mercedes-Benz 380-Class 380SL 2-Door Convertible or a car with a similar aesthetic will do. \n\nI saw some options on Turo in the area but unfortunately they only rent to 30+ year olds and I’m 26.\n\nAnyone know of any other options in Seattle area I could look into? \n\nOf course this is also contingent on whether or not quarantine is still in place by the end of summer.\n\nThank you :)",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.523043,
+          "label": "positive"
+        },
+        "text": "rent a vintage car",
+        "confidence": 0.789652,
+        "type": "No_Vehicle",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "0d2b8ed0a3b19b70c2e29b2354104fe1bd8be23f",
+    "filename": "relevant-seattle-673.json",
+    "file_type": "json"
+  },
+  "title": "Any vintage car rentals in area?",
+  "created": "2020-04-09T08:54:02.000Z"
+}

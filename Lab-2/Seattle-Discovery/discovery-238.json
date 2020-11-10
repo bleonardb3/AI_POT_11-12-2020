@@ -1,0 +1,124 @@
+{
+  "id": "8908ea6a930a80a38891d11cbc41d722",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "drivers license",
+        "confidence": 0.992167,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I’m mainly posting this to see if anyone else is in my situation. I just moved to Seattle a week ago (weird timing but I had a job starting) and in order to get a zoned parking permit I need WA vehicle registration. In order to get WA vehicle registration, I need a WA license which I’m finding is impossible to get. The licensing office is closed and the most you can do online is a “pre-application”. When I called, customer service confirmed that the only way to obtain a new license is in the office, all of which are closed to my knowledge.\n\nIs anyone in a similar situation? Don’t have anywhere to park my car legally at the moment and would love to figure this out.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.689968,
+          "label": "negative"
+        },
+        "text": "parking permit",
+        "confidence": 0.895825,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.37206,
+          "label": "negative"
+        },
+        "text": "park my car",
+        "confidence": 0.886091,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.776782,
+          "label": "negative"
+        },
+        "text": "new license",
+        "confidence": 0.835053,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "licensing",
+        "confidence": 0.732694,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.849437,
+          "label": "negative"
+        },
+        "text": "vehicle registration",
+        "confidence": 0.727177,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.849437,
+          "label": "negative"
+        },
+        "text": "license",
+        "confidence": 0.676255,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "20dc5c212d45badba00a12c1b26bf378c489cad7",
+    "filename": "relevant-seattle-363.json",
+    "file_type": "json"
+  },
+  "title": "New resident seeking WA drivers license?",
+  "created": "2020-04-17T01:02:25.000Z"
+}

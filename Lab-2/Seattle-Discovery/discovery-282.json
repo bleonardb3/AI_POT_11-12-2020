@@ -1,0 +1,37 @@
+{
+  "id": "1ae77f9f2a6f31e56bc37ec1285fb1e2",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "extremely unsure if this has been posted or asked but, \n\nDoes anyone know of a service to help the elderly in this time? or in general, people high risk to infection at all? I lost all my jobs and with this free time I really just want to help in any way I can. \n\nits not like there's a website called \n\" i'm old help me\" or \"i have young children, relieve us of strife\" \n\nso yee, if you know something lemme know, that's all i'm askin",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.838815,
+          "label": "negative"
+        },
+        "text": "I lost all my jobs",
+        "confidence": 0.942951,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "a897468da1d5fe09718bb8eb1294019d545ede97",
+    "filename": "relevant-seattle-285.json",
+    "file_type": "json"
+  },
+  "title": "helping elderly?",
+  "created": "2020-04-18T14:46:58.000Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "f1b9728f94d8f6ba22c52e46f875fa45",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I was really disappointed to see the amount of people at Cal Anderson tonight in large groups not wearing masks. I know it’s beautiful in Seattle right now. And yes, I agree it feels like Summer with a lot of people off work and kids out of school. But people are dying. Healthcare workers are risking their lives for us and this is how you repay them? I’m fortunate enough to be able to have a job. But so many people don’t and it’s not fair to them. Please go home and stay home until this is all over.",
+  "enriched_text": {
+    "entities": []
+  },
+  "extracted_metadata": {
+    "sha1": "3ddfa166eef3d38fd452c7f785ae243cd171114d",
+    "filename": "relevant-seattle-158.json",
+    "file_type": "json"
+  },
+  "title": "Dear Capitol Hill",
+  "created": "2020-04-21T12:01:14.000Z"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "d17e125e4025541c4276b2c0d1203ad9",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Looking for some recommendations about the best, easiest, most affordable, and most efficient ways to move from Virginia to Seattle.  Fingers crossed, I'll be moving in September to start grad school.  Since I'm a student, I won't be moving with a ton of stuff; however, I'm a musician and collect records, so I have slightly more things than the average student considering all the gear I'll be bringing.  Any suggestions, however broad or narrow, are great since this will be my first substantial move away from home.  Thanks!\n\nP.S. Yes, I know things are uncertain with the pandemic, but please no comments about staying home or putting my life on hold (I've received them before).  I'll obviously be doing whatever is safest for me and everyone else. :)",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.507562,
+          "label": "positive"
+        },
+        "text": "start grad school",
+        "confidence": 0.824699,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.507562,
+          "label": "positive"
+        },
+        "text": "I'm a student",
+        "confidence": 0.810896,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "58f5995b37193952da7a4a225859f7c1d832f6f2",
+    "filename": "relevant-seattle-94.json",
+    "file_type": "json"
+  },
+  "title": "Moving to Seattle from Virginia",
+  "created": "2020-04-23T00:51:21.000Z"
+}

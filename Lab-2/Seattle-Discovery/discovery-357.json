@@ -1,0 +1,21 @@
+{
+  "id": "b704ea4f391519d41d80bc73c270f813",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Wife had 20% pay cut to salary at her job this last week due to COVID-19. I'm assuming no, but would she qualify for partial unemployment benefits?",
+  "enriched_text": {
+    "entities": []
+  },
+  "extracted_metadata": {
+    "sha1": "7f2ce96fab96632802551efe00b9e8e2f98d1cd3",
+    "filename": "relevant-seattle-480.json",
+    "file_type": "json"
+  },
+  "title": "Wife eligible for unemployment?",
+  "created": "2020-04-14T04:59:17.000Z"
+}

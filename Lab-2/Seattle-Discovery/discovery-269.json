@@ -1,0 +1,37 @@
+{
+  "id": "2c7d63f8b1bc0f62991284f995768f8a",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I have a friend that knows she's not getting any hours for the next month, but the company hasn't laid her off. Would she still be able to apply for unemployment or does she have to be laid off first?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.903514,
+          "label": "negative"
+        },
+        "text": "company hasn't laid her off",
+        "confidence": 0.923127,
+        "type": "Hourly_Wage_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "c9ec0ee8a9353887ac021603448cb2696c486f1d",
+    "filename": "relevant-seattle-952.json",
+    "file_type": "json"
+  },
+  "title": "Can you apply for unemployment if work isn't giving hours?",
+  "created": "2020-04-03T06:10:07.000Z"
+}

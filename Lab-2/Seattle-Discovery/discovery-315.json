@@ -1,0 +1,21 @@
+{
+  "id": "ca73d35d90ef6b06230de434f90e4956",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "My company did a forced 20% hour/salary reduction and told us we could apply for partial unemployment. I just did a few days ago. It looks like I will still make too much (according to n[https://esdorchardstorage.blob.core.windows.net/esdwa/Default/ESDWAGOV/Forms-and-Publications/ESD-earnings-deduction-chart.pdf](https://esdorchardstorage.blob.core.windows.net/esdwa/Default/ESDWAGOV/Forms-and-Publications/ESD-earnings-deduction-chart.pdf) ) to receive benefits each week. I wonder if I keep filing though, will I be eligible for the $600 stimulus check? Grateful to still have a job, but the 20% cut is a lot of money lost, and did I mention I live in Seattle? Its stupid expensive here. \n\nThanks for any guidance!",
+  "enriched_text": {
+    "entities": []
+  },
+  "extracted_metadata": {
+    "sha1": "da746d80d6ac75b3eb5378df0d3e4e4052e05d65",
+    "filename": "relevant-seattle-692.json",
+    "file_type": "json"
+  },
+  "title": "PARTIAL UNEMPLOYMENT - NO CHECK BUT STILL QUALIFY FOR $600?",
+  "created": "2020-04-09T03:17:35.000Z"
+}

@@ -1,0 +1,120 @@
+{
+  "id": "94d5935e5de6f968ad76db9c39c163ea",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "apartment",
+        "confidence": 0.784101,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "text": "lease",
+        "confidence": 0.778232,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Hello Seattle!  I'm a freshman and first-generation, so I'm practically dealing with this sort of thing alone. I'm lost and need guidance.  Basically, the landlord won't let us terminate our lease. Obviously, we signed a contract, but due to the closure of my university, there was no point in living in the apartment.  But, I mean, after **legal advising,**  I'm not entirely at the fault of being \"irresponsible\" of prematurely ending my lease.   After sending in my notice of termination, he said no. So, I was advised to write a letter with claims, listing some RCWs to just anecdotally bad experiences, hoping to have some sort of negotiation started or a yes to a termination. Or, at least a paper trail.   **Question: is there any RCW or codes or any legal statement that requires the landlord to have a contract indicating a section for prematurely terminating the lease? This entire time I've lived here was sus af. So, I'm just hoping that there is regulation with contracts of that sort.**   I'm not sure if this is an appropriate question under this subreddit, but thanks for the help! This whole freshman year has been a mess at this place, looking for sympathy and support and not being scolded online, lol.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.959588,
+          "label": "negative"
+        },
+        "text": "apartment",
+        "confidence": 0.993182,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.906951,
+          "label": "negative"
+        },
+        "text": "lease",
+        "confidence": 0.988603,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.576279,
+          "label": "negative"
+        },
+        "text": "landlord",
+        "confidence": 0.953904,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.818078,
+          "label": "negative"
+        },
+        "text": "landlord",
+        "confidence": 0.930496,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.818078,
+          "label": "negative"
+        },
+        "text": "lease",
+        "confidence": 0.866279,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "26917a59aceb7b2e1874e41b7c4a8685df5949e3",
+    "filename": "relevant-seattle-869.json",
+    "file_type": "json"
+  },
+  "title": "RCW or claims that a contract needs to have a section indicating termination? The contract doesn't have a section indicating a premature lease termination. This apartment is in the Seattle area.",
+  "created": "2020-04-05T03:34:42.000Z"
+}

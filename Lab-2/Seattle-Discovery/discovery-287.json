@@ -1,0 +1,21 @@
+{
+  "id": "d85285d76f235046b4805a9c3362f839",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I’d love to see other Seattle Redditor’s to-do lists to help keep them focused and busy during these uncertain times! I’ve been keeping a weekly to-do list and it’s been nice to check things off during the week. I live in Seattle and after losing my job last month due to the coronavirus effecting the industry I worked in, I’ve felt a bit lost in the mix of staying at home and looking for work while keeping it together.",
+  "enriched_text": {
+    "entities": []
+  },
+  "extracted_metadata": {
+    "sha1": "15c60f1da9d49c2ed1189673d86cda3b9c1a7287",
+    "filename": "relevant-seattle-97.json",
+    "file_type": "json"
+  },
+  "title": "Did you make a to-do list after Inslee’s stay home order was put in effect?",
+  "created": "2020-04-22T23:57:48.000Z"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "3f1d90e4d3b5dd026c71af04c234be42",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Trains",
+        "confidence": 0.900497,
+        "type": "No_Vehicle",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I am just itching to get back out after quarantine is up, and I have seen some sources say mid-2020 state that is when frequency and travel times will increase and decrease respectively. Is this different because of COVID-19? I'd hate for this to be delayed yet again after those NIMBY stick-in-the-mud state politicians. I want better service! Maybe a day trip between Seattle and Portland will be possible via Cascades. Hopefully, this virus is finished soon so I can start riding the trains again!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.648854,
+          "label": "negative"
+        },
+        "text": "start riding the trains again",
+        "confidence": 0.823342,
+        "type": "No_Vehicle",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "9d6c352f500bfad0b2c8c379d874a666dbb6cc33",
+    "filename": "relevant-seattle-247.json",
+    "file_type": "json"
+  },
+  "title": "When Will the Point Defiance Bypass and Additional Cascades Trains be Added?",
+  "created": "2020-04-19T11:25:06.000Z"
+}

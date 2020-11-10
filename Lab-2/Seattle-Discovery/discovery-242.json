@@ -1,0 +1,94 @@
+{
+  "id": "3124f7f98b2879b6f9e119161fc1df99",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "healthcare workers",
+        "confidence": 0.88812,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Not all of us who work in healthcare are high paid doctors or nurses.  I work in healthcare, live in a small studio on cap hill, and have no local family/support network.  Thank you to those who do the 8 pm support yell for healthcare workers.  It means a lot.  This is a really scary time, and I'm probably not the only one in the area who works in healthcare, is scared and tired, and sometimes cries from the 8 pm yell because at least somebody gives a shit.  Thank you.\n\nOkay, back to my regular reddit account.  Wash your hands!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.985197,
+          "label": "positive"
+        },
+        "text": "healthcare workers",
+        "confidence": 0.926212,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.998275,
+          "label": "negative"
+        },
+        "text": "who works in healthcare",
+        "confidence": 0.914221,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "I work in healthcare",
+        "confidence": 0.828681,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "small studio",
+        "confidence": 0.738279,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "fa88891cceff08763084f0d164243aa1b9e073b7",
+    "filename": "relevant-seattle-292.json",
+    "file_type": "json"
+  },
+  "title": "To the people hooting support for healthcare workers around 11th East and John/Denny",
+  "created": "2020-04-18T11:13:35.000Z"
+}

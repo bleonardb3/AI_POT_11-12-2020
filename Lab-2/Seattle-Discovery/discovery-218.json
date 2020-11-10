@@ -1,0 +1,37 @@
+{
+  "id": "e762ae6e00d5d4602f565d3bb9664fd9",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I am very grateful to be healthy and still have a job during this time..... however, my hours were cut from 40 to 32 this week. Will I have any ability to claim some type of unemployment benefits?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "my hours were cut from 40 to 32 this week",
+        "confidence": 0.91149,
+        "type": "Hourly_Wage_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "af5b370e9e16eac054e49890d2edd50103bcb92a",
+    "filename": "relevant-seattle-436.json",
+    "file_type": "json"
+  },
+  "title": "Eligible for unemployment?",
+  "created": "2020-04-15T05:32:53.000Z"
+}

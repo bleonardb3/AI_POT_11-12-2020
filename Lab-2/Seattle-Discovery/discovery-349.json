@@ -1,0 +1,79 @@
+{
+  "id": "6c05d2738121b8eb75060c50056c9a15",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Grad School Student",
+        "confidence": 0.946787,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Looking for some opinions about which city, Chicago or Seattle, is better to live in! This decision mostly stems from which grad program I choose to attend, but since I’ve lived in Virginia all my life, I’m hoping to get some more advice from locals and longtime transplants. I’ve also spent a month at UChicago in the summer but have never been to Seattle before. Some things that are important to me:\n\n· Music and art – I’m a musician and I love going to concerts (all genres, but especially experimental and indie music), as well as art museums (especially those focused on modern/contemporary art)\n\n· Ample food options – I’m a pescatarian (only meat I eat is fish), and I enjoy basically any type of cuisine. Craft breweries are also a major plus!\n\n· Transportation – I’m not planning on taking my car with me, so good and reliable public transportation is a must\n\n· LGBTQ+ community: I’m a member of the LGBTQ+ community and having a supportive community is very important (and a large dating pool won’t hurt either!)\n\nSpecific neighborhood recommendations would be extremely helpful as well! Thanks!\n\n*EDIT: Wow! A lot more responses than I was expecting.  Thank you!  Some other things I forgot to mention:*\n\n* *Outdoor activities are a big plus, but not a must.  Weather is the same -- I'm very comfortable with anything from 40s-70s, anything above/below is manageable but not preferable.*\n* *My offers are from the University of Chicago and the University of Washington, so I'd like to be as close to these as possible without sacrificing convenient access to the stuff listed above.*",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.319619,
+          "label": "positive"
+        },
+        "text": "University",
+        "confidence": 0.970246,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.319619,
+          "label": "positive"
+        },
+        "text": "University",
+        "confidence": 0.96886,
+        "type": "University_Student",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.898003,
+          "label": "positive"
+        },
+        "text": "public transportation",
+        "confidence": 0.958086,
+        "type": "No_Vehicle",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "2ba088014abec59a353616624e873ea6e16839cf",
+    "filename": "relevant-seattle-909.json",
+    "file_type": "json"
+  },
+  "title": "Seattle vs. Chicago for Grad School Student",
+  "created": "2020-04-04T04:33:20.000Z"
+}

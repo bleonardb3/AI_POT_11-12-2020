@@ -1,0 +1,64 @@
+{
+  "id": "be28602b026dab9f6a75985c780095b2",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment",
+        "confidence": 0.981488,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Has anyone filed a multiple state combined wage unemployment claim for Washington? Meaning, they are new to WA state and worked most of their hours in a different state, so they had to claim work hours in both the old state and WA. If so, has your application processed finally?  How long did it take?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.707352,
+          "label": "negative"
+        },
+        "text": "unemployment claim",
+        "confidence": 0.986921,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.277727,
+          "label": "negative"
+        },
+        "text": "claim",
+        "confidence": 0.873831,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "b171c89631d09f90ce8dc2a0271a3125368ad0de",
+    "filename": "relevant-seattle-394.json",
+    "file_type": "json"
+  },
+  "title": "WA Unemployment Multiple State Filing",
+  "created": "2020-04-16T06:28:13.000Z"
+}

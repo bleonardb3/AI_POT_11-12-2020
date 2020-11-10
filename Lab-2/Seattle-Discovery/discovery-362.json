@@ -1,0 +1,37 @@
+{
+  "id": "689a6eac612e59dcb4fbee05a2f3b3b6",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Anyone here have a Form 2 or 3? The shop space I rent time in closed due to the pandemic, and I was in the middle of developing a number of new and historical Celtic woodwinds, including a vintage pennywhistle design that was one or two prints away from being finalized. I'm going nuts having four years of work come to a screeching halt, and wondered whether anyone would be up for running some prints. Obviously, I'd pay for material costs and shipping, if you'd prefer not to meet in person.\n\nI know many people are using their printers to create personal protective equipment for healthcare workers at this time, so I would of course wait until the need for gear is lower. I haven't heard from my friend at Harborview so I'm not sure whether they're still in dire straights or not.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.436635,
+          "label": "negative"
+        },
+        "text": "The shop space I rent time in closed",
+        "confidence": 0.867646,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "df8f4a4b75ec67a8559e0db30bc1c3937bf1fc67",
+    "filename": "relevant-seattle-299.json",
+    "file_type": "json"
+  },
+  "title": "3D Printing Bagpipes in Seattle",
+  "created": "2020-04-18T07:10:26.000Z"
+}

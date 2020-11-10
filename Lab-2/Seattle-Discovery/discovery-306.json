@@ -1,0 +1,67 @@
+{
+  "id": "91e0f33f6df1b908f606b31e6256907a",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hi! I am new here so I hope I am posting in the right place. \n\nI am planning to move to Washington this Summer, I have a job in Kent and have been looking for apartments but I can't quite decide which neighborhood/area I should live in. I would love to hear some thoughts on: \n\n1. Commute (I would drive to Kent around 6:00 AM and likely drive home around 4:30-6:00 PM)\n\n2. The general feel of different neighborhoods\n\n3. Safety (relative to other areas in Seattle)\n\n4. Access to nature\n\n5. Access to downtown (Could I take a train or bus?)\n\nSome areas I was considering are: West Seattle, Queen Anne, South Lake Union, Bellevue, Columbia city, Tukwila, I'm open to other suggestions as well :)\n\nI am 22 years old (F) I'd like to live in an area with other young professionals. I love nature and the outdoors. My ideal spot would be somewhere that is a little bit quieter with good access to nature/hiking/places to run with downtown accessible by train or bus.\n\nThank you for reading my post.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "drive",
+        "confidence": 0.990151,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.50821,
+          "label": "negative"
+        },
+        "text": "apartments",
+        "confidence": 0.989406,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "drive",
+        "confidence": 0.794733,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "a5d050790441f2fd4b62b33144d8c2fe4b6676f3",
+    "filename": "relevant-seattle-231.json",
+    "file_type": "json"
+  },
+  "title": "Commuting from Seattle to Kent?",
+  "created": "2020-04-18T21:16:15.000Z"
+}

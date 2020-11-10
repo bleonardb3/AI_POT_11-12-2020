@@ -1,0 +1,98 @@
+{
+  "id": "ac6ad169137f1aa5c2a0dc8bafe750dc",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "According to my landlord, evictions are not currently frozen on legal liveaboard vessels. (Boats) At the end of my lease, May 5th, I am facing eviction. My roommate, who paid the majority of the rent, abandoned me with no way to pay their portion of rent. Additionally, I'm currently an essential worker who hit hard financial times after contracting COVID-19 and be being out of action for a couple of weeks.\n\nIf anyone knows of any legal resources in order to fight the eviction, it would be much appreciated. Thank you.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "landlord",
+        "confidence": 0.987977,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "lease",
+        "confidence": 0.985878,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.917164,
+          "label": "negative"
+        },
+        "text": "rent",
+        "confidence": 0.958878,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.444138,
+          "mixed": "1",
+          "label": "negative"
+        },
+        "text": "rent",
+        "confidence": 0.944451,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.6603,
+          "label": "positive"
+        },
+        "text": "essential worker",
+        "confidence": 0.907046,
+        "type": "Hourly_Wage_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "066edcda38c01adb3164adf329bfe65d7c243f5c",
+    "filename": "relevant-seattle-139.json",
+    "file_type": "json"
+  },
+  "title": "Evictions Aren't Fully Frozen and I Need Help",
+  "created": "2020-04-22T01:04:23.000Z"
+}

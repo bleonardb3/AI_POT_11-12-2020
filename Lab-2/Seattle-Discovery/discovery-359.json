@@ -1,0 +1,37 @@
+{
+  "id": "74bccafa713327684fdc2a7be4662162",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I spent a lot of time in NP when I worked near SeaTac and it seems like such a beautiful place to live, but I keep hearing that it’s not a very diverse place? Other than that, the only thing I’m worried about is the commute to my job in downtown Seattle. \n\nWould love to hear anyone’s thoughts on NP. Thanks in advance.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.841877,
+          "label": "negative"
+        },
+        "text": "my job",
+        "confidence": 0.877574,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "f8121c4ceda2d1b7c9bb57981e9087e7d984089b",
+    "filename": "relevant-seattle-335.json",
+    "file_type": "json"
+  },
+  "title": "Thoughts on Normandy Park?",
+  "created": "2020-04-17T11:16:30.000Z"
+}

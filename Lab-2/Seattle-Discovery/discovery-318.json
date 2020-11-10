@@ -1,0 +1,37 @@
+{
+  "id": "697d6fce876e80eaae21c1153bfeebf9",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Just getting a read of general feelings on this. Given that many of us are staying at home/working from home during the pandemic, there's a lot more opportunity for grating on each other unintentionally. I live in an apartment complex with fairly thin walls. At what point, in your personal opinion, is it reasonable to start playing music, watch action movies, or other entertainment activities that involve a degree of noise? Personally I don't turn on music my neighbors may hear before 9:00am (I start work early each morning), but is this a good rule of thumb? Too early? Curious to hear folks' thoughts.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "apartment complex",
+        "confidence": 0.768255,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "67d4978e8b051c9a49051769a360fb5fa9e00867",
+    "filename": "relevant-seattle-12.json",
+    "file_type": "json"
+  },
+  "title": "Etiquette Question - Sheltering in Place, Apartments & Music",
+  "created": "2020-04-25T01:45:48.000Z"
+}

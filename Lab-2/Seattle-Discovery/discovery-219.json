@@ -1,0 +1,79 @@
+{
+  "id": "e7a29b3852ed0641db5575313983e35c",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment",
+        "confidence": 0.937121,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "So here's my situation. I initially applied for unemployment on March 15, and when I got the decision it showed that ineligible for 0 dollars. Initially I wasn't so concerned because it showed up as \"ineligible-pending\", which I thought was them reviewing my application. Granted, I moved here 10 months ago from New Jersey so when they asked if I worked in a different state in the last 18 months, I said yes. Im starting to get worried cause perhaps they're in the process of verifying my employment in New Jersey, but I am almost certain they're not receiving calls right now in their offices (Rutgers University). My claim has been in \"adjudication\" for 5 weeks now, where I read in the FAQs that it should take only 3 weeks.\n\n&#x200B;\n\nI'm starting to think I should redo my application again but I don't know if that's even allowed, and calling the unemployment office has been soul-draining so far. I am also considering filing for unemployment in my previous state, and I just wanted to verify if that is possible and okay?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.660847,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.98888,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.908023,
+          "label": "negative"
+        },
+        "text": "unemployment office",
+        "confidence": 0.96859,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.582039,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.962461,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "633dd95c0695d3f020ff473bca573a10b5b7d998",
+    "filename": "relevant-seattle-172.json",
+    "file_type": "json"
+  },
+  "title": "How to file a new unemployment application and should I?",
+  "created": "2020-04-21T04:36:35.000Z"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "28d34dba96bf888274c67bb8fab9e285",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Maybe it's just pandemic fever, but I'm considering moving to Olympia and commuting to Seattle 2 - 3 times per week (and WFH the other 2 - 3 days).  I can just get \\_so\\_ much more house there and be surrounded by forrest, live in a cul de sac, etc.  I figured my commute would be:  \n\\- Drive from Olympia to Lakewood  \n\\- Take the Lakewood - Seattle Sounder (and \\_hopefully\\_ get to work on the train)  \n\\- Leave work \\~1hr early and work on train for ride back  \n\\- Drive from Lakewood to home  \n\n\nIs this a feasible plan?  Is even 3x a week too much?  I'd like to be able to continue to stay available for more job prospects (I'm a Cloud Infra Eng (aka DevOps-y stuff) in the future with the assumption that a new job would require me to be in the office 3x a week still.\n\nAnyone else doing this already?  \n\n\nThanks in advance!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "Drive",
+        "confidence": 0.986863,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "Drive",
+        "confidence": 0.986824,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "7fc980870823ca6bdc31f8cfcb91219f6ae645c2",
+    "filename": "relevant-seattle-489.json",
+    "file_type": "json"
+  },
+  "title": "Is it possible to work on the Sound Transit?",
+  "created": "2020-04-14T02:34:06.000Z"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "6ea7e20bc4b0504a9bfc4b2735fb970e",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment",
+        "confidence": 0.545898,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "1.) I have set up an account from the website but it said that I need to call to get my identity verified. \n\n“Unfortunately, we can’t verify your account with the information you entered.\nPlease call 855-682-0785”\n\nI have tried to call in different times of the day throughout the whole week but it has been absolutely hopeless. “Circuits are currently busy, please try again later. GOOD BYE!”\n\nI have also tried creating another account but the result was the same......\n\n2.) I originally didn’t qualify for unemployment claim since I worked less than 680 hours last year. But with the new COVID-19 emergency measures I think I do qualify for the weekly $600 unemployment aid. My workplace (restaurant) reduced my hours to zero due to the proclamation...\n\nMy questions are,\n\n1.) How the fuck am I supposed to apply? Any suggestions? Am I supposed to just wait for it to get less busy? Or have any of you guys worked it out in some ways?\n\n2.) If I get my application in in the future, will my payments (the $600) be backdated to when i first got my hours reduced? \n\nAny suggestion would help. Very desperate at the moment.....",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.582171,
+          "mixed": "1",
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.973932,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.791369,
+          "label": "negative"
+        },
+        "text": "unemployment claim",
+        "confidence": 0.707322,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "a89e168a7978f928f5ee92d7f21fc9e0d288f28f",
+    "filename": "relevant-seattle-625.json",
+    "file_type": "json"
+  },
+  "title": "How the hell are you supposed to file unemployment?",
+  "created": "2020-04-10T07:30:25.000Z"
+}

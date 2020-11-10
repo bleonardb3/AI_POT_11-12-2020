@@ -1,0 +1,37 @@
+{
+  "id": "517025e32848a84022517b27e5819735",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "\n\nDoes anyone know what happened on I-5 north bound this morning? I was heading north at around 6:40 am, and I passed the accident site, lots of WA State Patrol, and a yellow tarp covering up someone (I think?) but there were no damaged cars at the scene as far as I could tell.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.715832,
+          "label": "negative"
+        },
+        "text": "I passed the accident site",
+        "confidence": 0.846477,
+        "type": "Car_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "4ccf8404cd3b4945610eddd0a484a9d61a284053",
+    "filename": "relevant-seattle-744.json",
+    "file_type": "json"
+  },
+  "title": "Information on I-5 north accident today?",
+  "created": "2020-04-08T00:41:27.000Z"
+}

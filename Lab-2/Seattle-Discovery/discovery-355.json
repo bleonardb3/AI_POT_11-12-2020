@@ -1,0 +1,21 @@
+{
+  "id": "79d5cda125b4641e8bf43cb8e6f1a54b",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "A bit of an odd time for a request like this, but I have recently began trying to pick up playing piano as a way to keep myself sane during the quarantine. I'm a recent transplant to Seattle who moved up here for work less than a year ago and I wanted to reach out the Seattle community here on Reddit to gather some info from other locals. I likely won't be able to act on any of this until our situation clears up, but having the info should help me in my search!\n\n&#x200B;\n\nI see a lot of different options for piano lessons here in Seattle and would love to hear from any local pianists who've had good experiences with teachers in the area to help guide my decision. I've heard that finding the right teacher can make a huge difference early on, and before any of my self-taught bad habits take too much hold, I'd like to reach out to a teacher.\n\n&#x200B;\n\nThanks for your time.",
+  "enriched_text": {
+    "entities": []
+  },
+  "extracted_metadata": {
+    "sha1": "8d48a961ec60330ea693276252c5deb064e7fc32",
+    "filename": "relevant-seattle-468.json",
+    "file_type": "json"
+  },
+  "title": "Local Piano Teachers",
+  "created": "2020-04-14T10:49:16.000Z"
+}

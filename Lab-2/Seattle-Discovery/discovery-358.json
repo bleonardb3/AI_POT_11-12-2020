@@ -1,0 +1,52 @@
+{
+  "id": "44b402ba44ffb2c4174ee8366aacc7c8",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I live out of state and want to move back to Seattle for reasons.  I’ve been casually RN  job hunting, and don’t particularly want to work in the thick of a COVID epidemic.  My current hospital is low on patients with the COVID, and I kind of like that, at least for the risk factor. \n\nI know one of the things they were hoping for was an increase in staff to make safer patient ratios.  In the past couple of days, I \nI’ve received a TON of contacts from recruiters for jobs at Swedish.  Which is highly unusual, because they usually do their own in-house recruiting.  Yet, these are all direct-hire positions, and not contract, traveler, or other temporary jobs.\n\nThanks for the info!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.976188,
+          "label": "negative"
+        },
+        "text": "RN",
+        "confidence": 0.881297,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.84033,
+          "label": "negative"
+        },
+        "text": "My current hospital",
+        "confidence": 0.782405,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "98e13db711ea257634cfe9b65388d1718fcea833",
+    "filename": "relevant-seattle-385.json",
+    "file_type": "json"
+  },
+  "title": "Did Swedish reach an agreement with their striking healthcare staff?",
+  "created": "2020-04-16T07:47:15.000Z"
+}

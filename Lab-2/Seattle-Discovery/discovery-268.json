@@ -1,0 +1,109 @@
+{
+  "id": "a221fc83f31c777563355fcf7c5b55d9",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "rental",
+        "confidence": 0.863237,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I'm looking to rent a simple 1bed/1bath apartment in either Bellevue or Redmond WA.  I can't tour anything in person now because of covid-19, so I'm weighing the risk of renting a place sight unseen.\n\nWas wondering if anyone had any opinions on if think rental prices will go down in light of the virus?  The housing market for actual buyers seems to be expecting a drop, but in another couple of months, so it's a wait-and-see approach.  The rental market, not sure if it'd be going up or down.  I'm not sure if I should secure a spot at the beginning of May or wait till mid-May/mid-June in hopes can snap a 12-month lease at a lower rate.  Or rental rates could actually go up.\n\nI have the luxury to wait a decent bit, meaning I don't really need a place secured until maybe between mid-May to mid-June.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.727952,
+          "label": "negative"
+        },
+        "text": "rental market",
+        "confidence": 0.991685,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "rental",
+        "confidence": 0.96137,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.500276,
+          "label": "positive"
+        },
+        "text": "lease",
+        "confidence": 0.922471,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.704198,
+          "label": "negative"
+        },
+        "text": "apartment",
+        "confidence": 0.896338,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.853129,
+          "label": "negative"
+        },
+        "text": "rental",
+        "confidence": 0.713098,
+        "type": "Apartment_Renter",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "720c1fd5afe5fe80acc9374d1f664342d4a9f03a",
+    "filename": "relevant-seattle-988.json",
+    "file_type": "json"
+  },
+  "title": "Opinions on if rental prices will drop soon?",
+  "created": "2020-04-02T06:16:24.000Z"
+}

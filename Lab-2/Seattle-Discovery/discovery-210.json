@@ -1,0 +1,64 @@
+{
+  "id": "4520eba5133b9af7542b69be0f2114fb",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "public transportation",
+        "confidence": 0.928658,
+        "type": "No_Vehicle",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Like I’ve lived in a few cities in the US and have travelled all over America and Europe. I don’t know that I can pick another city with better public transit. \n\nObviously if you want to say NY or London it’s gonna be more expansive but that’s because there’s no other way to get around and it really only helps you if you live in the city. I could go  from Woodinville/Bothell/Everett/Tacoma to Seattle in one bus, I can get to UW to the airport on one train and be there in 30 minutes. \n\nIn my hometown of Philly if you wanna go to the airport you’re getting on a dirty old slow SEPTA train that will get you there in 90 minutes. \n\nIs it just that people here haven’t lived other places and have nothing to compare it to?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.335045,
+          "label": "negative"
+        },
+        "text": "public transit",
+        "confidence": 0.93457,
+        "type": "No_Vehicle",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "one train",
+        "confidence": 0.663592,
+        "type": "No_Vehicle",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "6e72399af93592bdf1c2743e756818da900e9bac",
+    "filename": "relevant-seattle-753.json",
+    "file_type": "json"
+  },
+  "title": "Why do people complain so much about the public transportation here?",
+  "created": "2020-04-07T14:25:08.000Z"
+}

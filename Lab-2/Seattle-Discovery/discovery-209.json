@@ -1,0 +1,64 @@
+{
+  "id": "1c47d70538cecd78e08db178ee759932",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment Debit Card",
+        "confidence": 0.947899,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "So, I have never before applied for unemployment benefits, but this quarantine forced my hand. And, am becoming rather frustrated with the entire process.  I have successfully applied, am eligible and received both my first payment and my debit card, which was subsequently activated by the phone number provided (and doubly checked on my key2benefits account). the problem I am currently having is actually using the card. Apparently, the status is DEPOSIT ONLY and between the k2b site and esd.wa, I see no means of changing this.\n\nI CANNOT perform in-store transactions (though, oddly, I can make online transactions), I CANNOT withdraw off the card and I cannot even transfer funds from the card to my primary bank account. I have since switched my deposit method to Direct Deposit but I still have an unemployment payment i have absolutely no way of accessing right now - and getting a hold of a live rep at the employment office is an absolute lost hope as I'm sure most are aware. Has anyone else encountered this problem, and if so, what are steps you've taken to correct it? I'm at my wits end and am beyond frustration.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.934178,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.993118,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.890237,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.848338,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "79623d5cb02fb2cfc292377ef2f95279740cade1",
+    "filename": "relevant-seattle-675.json",
+    "file_type": "json"
+  },
+  "title": "Unemployment Debit Card help",
+  "created": "2020-04-09T08:14:13.000Z"
+}

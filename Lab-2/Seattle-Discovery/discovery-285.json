@@ -1,0 +1,52 @@
+{
+  "id": "fa1ea2c9cfdd769e73a2ceec836c4e05",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "So my income dropped 20% due to Covid, but at least I wasn't laid off.   As a result I logged in to wahealthplanfinder and applied for apple health for the kids - we qualified.  Now my pay check came in and there is no 20% off, however there may be in two weeks.....\n\n-So my question, can I ride this out and just change the status if the 20% never comes out?\n-There was no income verification, should I just let it go?\n-Since the reduction may be temporary, what is the right thing to do?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0.640133,
+          "label": "positive"
+        },
+        "text": "apple health",
+        "confidence": 0.803336,
+        "type": "Medically_Insured",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.687098,
+          "label": "negative"
+        },
+        "text": "I wasn't laid off",
+        "confidence": 0.75217,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "caa10236b106eca44717c0b73b706ad1c10b70e4",
+    "filename": "relevant-seattle-24.json",
+    "file_type": "json"
+  },
+  "title": "Health plan finder, apple health and COVID reduced pay",
+  "created": "2020-04-24T23:03:43.000Z"
+}

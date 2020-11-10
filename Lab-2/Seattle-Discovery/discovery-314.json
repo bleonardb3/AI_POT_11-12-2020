@@ -1,0 +1,68 @@
+{
+  "id": "d7cdc8a4644fb1a395e9e0c6c3f2abf6",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hey all, my fiance recently got approved for standby however she's only able to claim 0 dollars. Is there anyone in the same boat? Tired of feeling lost and unsure.\nEdit: After 5 hours on hold with WA unemployment my fiance was finally able to reach someone, but they said they couldn't help and she'd have to be called back. So...waiting on that now I guess. *Flips table*    \n\nEdit & Update: So finally after a few hours, my fiance got a callback from the unemployment office. The reason she could only claim 0 dollars was because the unemployment office had the wrong SSN from her employer. If you're in the same boat it may be worth checking to make sure your employer has the correct SSN.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.841568,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.999658,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.866149,
+          "label": "negative"
+        },
+        "text": "unemployment office",
+        "confidence": 0.977987,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.382005,
+          "mixed": "1",
+          "label": "negative"
+        },
+        "text": "unemployment office",
+        "confidence": 0.841241,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "a100d9b642f73f060eb9783ee13dc943b673f9a7",
+    "filename": "relevant-seattle-401.json",
+    "file_type": "json"
+  },
+  "title": "Approved for Standby but can only claim 0 dollars.",
+  "created": "2020-04-16T03:40:40.000Z"
+}

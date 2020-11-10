@@ -1,0 +1,49 @@
+{
+  "id": "9d770eaa0b007e1f079e6cc7adda012f",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "I work in Kent",
+        "confidence": 0.814506,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I recently got hired in Kent and my husband is active duty NAVY working in Bangor. We are moving to WA in June. \n\nWhat is a good middle ground location for us to live? Open to using the ferry system but nervous about availability/reliability.  \n\nOther considerations are that my husband will be deployed 6 month out of the year and we have a child in daycare. \n\nAnything else we should consider?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.389609,
+          "label": "negative"
+        },
+        "text": "we have a child in daycare",
+        "confidence": 0.869591,
+        "type": "Full_Time_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "c80464d82b752acb9d47380cdc32609513a3db46",
+    "filename": "relevant-seattle-472.json",
+    "file_type": "json"
+  },
+  "title": "I work in Kent, husband works in Bangor. Where should we live?",
+  "created": "2020-04-14T09:18:22.000Z"
+}

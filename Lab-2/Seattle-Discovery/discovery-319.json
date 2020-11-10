@@ -1,0 +1,52 @@
+{
+  "id": "a1e7e411053a37a51afdd686e466298c",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "I applied for unemployment last week. I worked 40 hours this week, but starting next week my hours are cut in half. Did I screw up and will I overall get denied now since I applied with no cut I’m hours?\n\nThank you!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.856396,
+          "label": "negative"
+        },
+        "text": "I worked 40 hours this week",
+        "confidence": 0.933105,
+        "type": "Hourly_Wage_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.856396,
+          "label": "negative"
+        },
+        "text": "next week my hours are cut in half",
+        "confidence": 0.914661,
+        "type": "Hourly_Wage_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "2fb34c88b1d4475f997522623f49bf3b8b2a7406",
+    "filename": "relevant-seattle-25.json",
+    "file_type": "json"
+  },
+  "title": "Unemployment eligibility?",
+  "created": "2020-04-24T23:03:11.000Z"
+}

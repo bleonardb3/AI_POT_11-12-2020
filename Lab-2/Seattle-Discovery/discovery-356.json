@@ -1,0 +1,21 @@
+{
+  "id": "954f047d4710a3b201b079b693717015",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": []
+  },
+  "text": "Hey guys!\n\nMy dad has been a truck driver here in Seattle for the past 30+ years, and right now he is one of the drivers making sure the trucking industry in Seattle keeps running by making sure that (needed!) trucking parts are getting where they need to go. \n\nWhen Covid-19 started out we had one 95 mask for him to wear and immediately started to look for a few more (no luck), but now that one mask is basically at the end of its life. Without a mask my dad is not going to be able to work anymore because he can’t risk contracting or bringing him corona to my mom who has underlining conditions.\n\nIs there anyone that could give or sell us some masks?",
+  "enriched_text": {
+    "entities": []
+  },
+  "extracted_metadata": {
+    "sha1": "0440ecf675bf79771b553c009a25e42cd5d097e8",
+    "filename": "relevant-seattle-848.json",
+    "file_type": "json"
+  },
+  "title": "Truck Driver Dad during Covid-19",
+  "created": "2020-04-05T09:49:40.000Z"
+}

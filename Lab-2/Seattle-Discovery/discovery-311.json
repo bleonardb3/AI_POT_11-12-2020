@@ -1,0 +1,94 @@
+{
+  "id": "c8fc8c28f57d712385c421e6f144f45d",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment",
+        "confidence": 0.902002,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I just had a brief conversation with an employee from the unemployment office. As you guys know, gigworkers are potentially partially covered for unemployment. The problem with filling for unemployment is the online application for Washington residents is not set up to file a claim for those who are independent contractors. Due to the high volume of calls, they also stopped scheduling callbacks to help with claims. Since I scheduled a callback beforehand, they still honored it.\n\nThe only new information they gave me was to keep checking their website as they may release some type of app or web application in the next few days (Who knows how long it'll actually take). They also told me to keep posting my weekly claims for standby. \n\nHopefully it won't be too much of a hassle to file a claim properly once their system is updated and federal relief funds are made available.",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "weekly claims",
+        "confidence": 0.979073,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.822553,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.970952,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "unemployment office",
+        "confidence": 0.840753,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "unemployment",
+        "confidence": 0.829925,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "d9a8d89dfea39836ef01cb12c00c96e389a9caaa",
+    "filename": "relevant-seattle-323.json",
+    "file_type": "json"
+  },
+  "title": "Gigworkers Filing for Unemployment",
+  "created": "2020-04-17T23:04:30.000Z"
+}

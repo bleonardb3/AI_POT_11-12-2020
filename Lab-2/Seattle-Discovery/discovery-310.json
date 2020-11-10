@@ -1,0 +1,49 @@
+{
+  "id": "9f1d20eba5e548d75afb10135c8692e3",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "house",
+        "confidence": 0.739271,
+        "type": "Home_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Hello! My husband and I live in the Seattle area and are hoping someone has some ideas/suggestions for a problem we're having. We had a wall in the downstairs of our house start caving in, and it turns out we have major water damage (great timing, I know) from an improperly installed toilet above it on the top floor. There's a pretty serious black mold infestation in the interior structure of the house that's now exposed, so we need to both remove the mold and re-drywall the wall we've taken out. Both of these tasks require mask protection, and as you can imagine, we can't find masks anywhere. From my understanding of black mold removal in particular, it's not sufficient to simply use a cotton shirt or comparable DIY mask, so now we feel like we're stuck between a rock and a hard place - we of course absolutely understand that healthcare officials are being prioritized for heavier-duty masks and respirators, but we also don't want to further burden our healthcare system by risking becoming sick ourselves if we try to tackle this without the necessary precautions. We've checked Lowes, Home Depot, Amazon, etc., but no luck.\n\nAnyone have any ideas? Any help/suggestions are greatly appreciated - thank you so much!!",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.755766,
+          "label": "negative"
+        },
+        "text": "our house",
+        "confidence": 0.670694,
+        "type": "Home_Owner",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "984290982111d54e088ec99ceb2ffb9ca8dd4c3f",
+    "filename": "relevant-seattle-740.json",
+    "file_type": "json"
+  },
+  "title": "HELP! Major black mold situation in our house, but no face masks anywhere",
+  "created": "2020-04-08T02:28:39.000Z"
+}

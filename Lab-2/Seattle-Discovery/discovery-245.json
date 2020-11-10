@@ -1,0 +1,49 @@
+{
+  "id": "5d94ef59afd9cb02186c34889bc134ca",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment",
+        "confidence": 0.968343,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Hey guys, I applied for unemployment since March 14th and all of my decisions are pending, \"waiting for further information to determine eligibility\" from claims I filed.  Also, I tried March 22nd to request standby because my job recommended it, and was declined.  I appealed and have not heard a peep from them at all.  I do also try calling the office everyday, every hour... and nothing.  \n\nMy question is, is anyone in my same boat and/or figured a way around this?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.868698,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.970261,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "d10a502d62bdce08e98f97ec75537bb6683af036",
+    "filename": "relevant-seattle-493.json",
+    "file_type": "json"
+  },
+  "title": "Seattle Unemployment still unreachable",
+  "created": "2020-04-14T01:58:50.000Z"
+}

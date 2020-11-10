@@ -1,0 +1,64 @@
+{
+  "id": "11cd4d7e11cdacc96954edbdb5ee4a60",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment",
+        "confidence": 0.857993,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "So I applied for unemployment earlier this week (still haven’t heard if I’m approved or not)\nI know the week starts on Sunday to submit your weekly claim, however I don’t see a tab for this anywhere. Would it come up tomorrow? (When the week starts)\nBasically I don’t see anywhere to submit my weekly claim",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.666748,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.88398,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      },
+      {
+        "count": 1,
+        "sentiment": {
+          "score": 0,
+          "label": "neutral"
+        },
+        "text": "my weekly claim",
+        "confidence": 0.81309,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "b38290e78c69a4f7bff153ca2f457d20ae4cab5b",
+    "filename": "relevant-seattle-861.json",
+    "file_type": "json"
+  },
+  "title": "(Another) unemployment question",
+  "created": "2020-04-05T05:33:29.000Z"
+}

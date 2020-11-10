@@ -1,0 +1,49 @@
+{
+  "id": "4a260581f89ebedf72d842278a911fdb",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "unemployment",
+        "confidence": 0.920096,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "I've been trying to follow it, but wanted to know if anyone has heard when that extra $$$ will be implemented into the unemployment payments?",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.819774,
+          "label": "negative"
+        },
+        "text": "unemployment",
+        "confidence": 0.978671,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "7bfb27baf601a2bd479278860aa9380a28d0c6de",
+    "filename": "relevant-seattle-956.json",
+    "file_type": "json"
+  },
+  "title": "Any word on when the unemployment boost will come through in WA state?",
+  "created": "2020-04-03T04:31:06.000Z"
+}

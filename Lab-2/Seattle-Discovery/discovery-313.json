@@ -1,0 +1,49 @@
+{
+  "id": "d4f7c772fd5cb6d8975fe68a7932f055",
+  "result_metadata": {
+    "score": 1
+  },
+  "subreddit": "Seattle",
+  "enriched_title": {
+    "entities": [
+      {
+        "count": 1,
+        "text": "Unemployment",
+        "confidence": 0.819244,
+        "type": "Unemployed",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "text": "Hey guys so I just want to make sure i’m handling this right. So I filled out the original application a couple weeks ago and since then have filled out the weekly UI form, I actually just filled it out a couple minutes ago so the status shows as  “processing-web” right now, but before I did this weeks UI the status read as “ineligible-pending” and I don’t know if that means i’m just not eligible at all or if they’re still looking over some stuff? \nThe bottom line is I should definitely be eligible, I worked over the minimum 680 hours in the past 4 quarters and so I don’t really get why it’s not going through. i did just move here a couple months ago but on their site it says as long as youve worked and collected a wage in Washington you should qualify?\nDoesn’t help that I can’t even get through to any automated help let alone a real person when I call lol",
+  "enriched_text": {
+    "entities": [
+      {
+        "count": 1,
+        "sentiment": {
+          "score": -0.88359,
+          "label": "negative"
+        },
+        "text": "I worked over",
+        "confidence": 0.870486,
+        "type": "Hourly_Wage_Employment",
+        "disambiguation": {
+          "subtype": [
+            "NONE"
+          ]
+        }
+      }
+    ]
+  },
+  "extracted_metadata": {
+    "sha1": "a74450ebebd546b13266cd74b612bcf61d2526e6",
+    "filename": "relevant-seattle-830.json",
+    "file_type": "json"
+  },
+  "title": "Unemployment help?",
+  "created": "2020-04-06T00:15:08.000Z"
+}
