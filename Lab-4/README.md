@@ -58,41 +58,41 @@ Prerequisites
 
 3.  Else click \"Sign Up\" to create a Watson studio account.
 
-> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_06-11-2020/master/Lab-4/images/Picture1.png"/>
+> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_11-12-2020/master/Lab-4/images/Picture1.png"/>
 
 4.  Pick an IBM Cloud region near you. Enter your email address as your
     user account. Click on \"Accept\" terms & conditions. Click \"Next\"
     button.
 
-> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_06-11-2020/master/Lab-4/images/Picture2.png"/>
+> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_11-12-20200/master/Lab-4/images/Picture2.png"/>
 
 
 5.  Enter a password \> click \"Next\" button.
 
-> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_06-11-2020/master/Lab-4/images/Picture3.png"/>
+> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_11-12-2020/master/Lab-4/images/Picture3.png"/>
 
 
 6.  Verify your account. Enter the verification code sent to your email
     address. Click \"Next\" button.
 
-> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_06-11-2020/master/Lab-4/images/Picture4.png"/>
+> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_11-12-2020/master/Lab-4/images/Picture4.png"/>
 
 
 7.  Enter your personal information. Click \"Next\" button.
 
-> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_06-11-2020/master/Lab-4/images/Picture5.png"/>
+> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_11-12-2020/master/Lab-4/images/Picture5.png"/>
 
 
 8.  Please indicate if and how IBM can keep you informed on IBM\'s
     products services. Click \"Create account\" button.
 
-> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_06-11-2020/master/Lab-4/images/Picture6.png"/>
+> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_11-12-2020/master/Lab-4/images/Picture6.png"/>
 
 
 Note: Users will see an account progress bar. Click \"Login\" button to
 login to your account.
 
-> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_06-11-2020/master/Lab-4/images/Picture7.png"/>
+> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_11-12-2020/master/Lab-4/images/Picture7.png"/>
 
 Create a Watson Studio project and set up the required services.
 ----------------------------------------------------------------
@@ -103,15 +103,15 @@ Create a Watson Studio project and set up the required services.
 
 2.  Select your region; e.g. Dallas.  Enter your username then press the \"Continue\" button.  Enter your password then click the \"Logi in\" button.
 
-> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_06-11-2020/master/Lab-4/images/Picture8.png"/>
+> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_11-12-2020/master/Lab-4/images/Picture8.png"/>
 
 3.  Create a project by clicking on the \"Create a project\" hyperlink.
 
-> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_06-11-2020/master/Lab-4/images/Picture9.png"/>
+> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_11-12-2020/master/Lab-4/images/Picture9.png"/>
 
 4.  Click on \"Create an empty project\".
 
-> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_06-11-2020/master/Lab-4/images/Picture11.png"/>
+> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_11-12-2020/master/Lab-4/images/Picture11.png"/>
 
 5.  Enter a project name; e.g. \"COVID-19 Decision Making\". Enter a
     description (optional) \" This project will apply predictive
@@ -126,43 +126,43 @@ Create a Watson Studio project and set up the required services.
     button. Next, proceed to the section \"Adding a Machine Learning
     Service\" below.
 
-> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_06-11-2020/master/Lab-4/images/Picture12.png"/>
+> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_11-12-2020/master/Lab-4/images/Picture12.png"/>
 
 8.  Else click on the \"Cloud Object Storage\" URL.
 
-> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_06-11-2020/master/Lab-4/images/Picture13.png"/>
+> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_11-12-2020/master/Lab-4/images/Picture13.png"/>
 
 9. Click the \"Lite\" plan. Enter a service name for your \"Object
     Storage\' service. Click \"Create\" button.
     
-> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_06-11-2020/master/Lab-4/images/Picture14.png"/>
+> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_11-12-2020/master/Lab-4/images/Picture14.png"/>
 
 10. Select your \"Cloud Object Storage\" service name from the \"Select
     storage service\" selection box. Click \"Create\" button.
 
-> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_06-11-2020/master/Lab-4/images/Picture15.png"/>
+> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_11-12-2020/master/Lab-4/images/Picture15.png"/>
 
 Associating a Machine Learning Service
 ---------------------------------
 
 1.  Click on the project Settings tab.
 
-> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_06-11-2020/master/Lab-4/images/Picture16.png"/>
+> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_11-12-2020/master/Lab-4/images/Picture16.png"/>
 
 2.  Scroll down to Associated Services, then select Add service and
     select Watson.
 
-> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_06-11-2020/master/Lab-4/images/Picture17.png"/>
+> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_11-12-2020/master/Lab-4/images/Picture17.png"/>
 
 3.  When you created your Watson Studio service, it automatically comes with a Machine Learning (ML) service instance.  
     You just need to associate your ML service to this project.  Check the checkbox next your the Machine Learning service; 
     e.g. /"Machine_Learning_laa/".  Click on the /"Associate service/" button.
 
-> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_06-11-2020/master/Lab-4/images/Picture22.png"/>
+> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_11-12-2020/master/Lab-4/images/Picture22.png"/>
 
 4.  The Machine Learning service should now have /"Associated"/ in the /"Status/" column.
 
-> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_06-11-2020/master/Lab-4/images/Picture23.png"/>
+> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_11-12-2020/master/Lab-4/images/Picture23.png"/>
 
 ### Please click on the link below to download the instructions to your machine.
 
