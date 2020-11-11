@@ -16,6 +16,6 @@ After completing this lab, you will be familiar with these features of Watson St
 
 ### Step 1.  Please click on the link below to download the instructions to your machine.
 
-[Instructions](https://github.com/bleonardb3/AI_POT_06-11-2020/raw/master/Lab-3/WatsonAssistantv1.2.pdf).
+[Instructions](https://github.com/bleonardb3/AI_POT_11-12-2020/raw/main/Lab-3/WatsonAssistantv1.3.pdf).
 
 
