@@ -4,8 +4,8 @@ Introduction
 This lab will introduce users to the use of IBM\'s predictive analytics
 and decision optimization technologies to solve COVID-19 problems. The
 coronavirus has infected millions of people leading to severe illness
-symptoms resulting in hundreds of thousands deaths. During the initial
-outbreak not all areas were affected the same. Hospitals located in
+symptoms resulting in deaths totalling in the hundreds of thousands. 
+During the initial outbreak not all areas were affected the same. Hospitals located in
 COVID-19 epidemic outbreak locations were overwhelmed with sick and
 dying patients. This lab will apply predictive analytics to analyze
 different factors among people to predict future COVID-19 infection
