@@ -142,7 +142,7 @@ Create a Watson Studio project and set up the required services.
 
 > <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_06-11-2020/master/Lab-4/images/Picture15.png"/>
 
-Adding a Machine Learning Service
+Associating a Machine Learning Service
 ---------------------------------
 
 1.  Click on the project Settings tab.
@@ -154,29 +154,13 @@ Adding a Machine Learning Service
 
 > <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_06-11-2020/master/Lab-4/images/Picture17.png"/>
 
-3.  Click on the /"New service/" button.
-
-> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_06-11-2020/master/Lab-4/images/Picture18.png"/>
-
-4.  Select the Machine Learning service.
-
-> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_06-11-2020/master/Lab-4/images/Picture19.png"/>
-
-5.  Make sure you select your project's region; e.g. /"Dallas".  Select the Lite plan.
-
-> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_06-11-2020/master/Lab-4/images/Picture20.png"/>
-
-6.  Scroll down until you see /"Configure your resource/", change the service name to something like "Machine_Learning_laa".  
-    Leave the /"Select a resource group/" value to /"default/".  Click the Create button.
-    
-> <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_06-11-2020/master/Lab-4/images/Picture21.png"/>
-
-7.  The Machine Learning service that you created should now appear in Associated Services.  Check the checkbox next 
-    to the Machine Learning service you just created; e.g. /"Machine_Learning_laa/".  Click on the /"Associate service/" button.
+3.  When you created your Watson Studio service, it automatically comes with a Machine Learning (ML) service instance.  
+    You just need to associate your ML service to this project.  Check the checkbox next your the Machine Learning service; 
+    e.g. /"Machine_Learning_laa/".  Click on the /"Associate service/" button.
 
 > <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_06-11-2020/master/Lab-4/images/Picture22.png"/>
 
-8.  The Machine Learning service should now have /"Associated"/ in the /"Status/" column.
+4.  The Machine Learning service should now have /"Associated"/ in the /"Status/" column.
 
 > <img src="https://raw.githubusercontent.com/bleonardb3/AI_POT_06-11-2020/master/Lab-4/images/Picture23.png"/>
 
