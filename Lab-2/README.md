@@ -19,5 +19,5 @@ After completing this lab, you will be able to perform the following exercises w
 
 ### Step 1.  Please click on the link below to download the instructions to your machine.
 
-[Instructions](https://github.com/bleonardb3/AI_POT_11-12-2020/blob/main/Lab-2/Lab%202%20-%20Watson_Discovery.pdf).
+[Instructions](https://github.com/bleonardb3/AI_POT_11-12-2020/raw/main/Lab-2/Lab%202%20-%20Watson_Discovery.pdf).
 
